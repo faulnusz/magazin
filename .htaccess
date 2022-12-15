@@ -1,0 +1,6 @@
+FancyIndexing On
+AddDescription "HTML-Datei, anzeigbar" .htm .html
+AddDescription "GIF-Grafik, anzeigbar" .gif
+AddDescription "JPEG-Grafik, anzeigbar" .jpg
+AddDescription "ZIP-Archiv, downloadbar" .zip
+AddDescription "PNG-Grafik, downloadbar" .png
