@@ -1,0 +1,661 @@
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+X-Mozilla-Keys:                                                                                 
+Return-Path: <mail@ingo-schneider.de>
+Delivered-To: posthoernchen@mailbox.org
+Received: from director-03.heinlein-hosting.de ([80.241.60.215])
+	by dobby5.heinlein-hosting.de with LMTP id wI6fNKyvAVom9QAAJZL5RA
+	for <posthoernchen@mailbox.org>; Tue, 07 Nov 2017 14:05:48 +0100
+Received: from mx2.mailbox.org ([80.241.60.215])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	by director-03.heinlein-hosting.de with LMTP id uPs1L6yvAVqeaQAAlScrYA
+	; Tue, 07 Nov 2017 14:05:48 +0100
+Received: from spamfilter01.heinlein-hosting.de (spamfilter01.heinlein-hosting.de [80.241.56.115])
+	by mx2.mailbox.org (Postfix) with ESMTP id 6EB3A4C80C
+	for <posthoernchen@mailbox.org>; Tue,  7 Nov 2017 14:05:48 +0100 (CET)
+X-Virus-Scanned: amavisd-new at heinlein-support.de
+Authentication-Results: spamfilter01.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=ingo-schneider.de
+Received: from mx2.mailbox.org ([80.241.60.215])
+	by spamfilter01.heinlein-hosting.de (spamfilter01.heinlein-hosting.de [91.198.250.170]) (amavisd-new, port 10024)
+	with ESMTP id cpAHOFyQrnpR for <posthoernchen@mailbox.org>;
+	Tue,  7 Nov 2017 14:05:44 +0100 (CET)
+X-policyd-weight:  NOT_IN_SBL_XBL_SPAMHAUS=-1.5 CL_IP_EQ_HELO_IP=-2 (check from: .ingo-schneider. - helo: .mo4-p00-ob.smtp.rzone. - helo-domain: .rzone.)  FROM/MX_MATCHES_HELO(DOMAIN)=-2; rate: -5.5
+Received: from mo4-p00-ob.smtp.rzone.de (mo4-p00-ob.smtp.rzone.de [81.169.146.162])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS
+	for <posthoernchen@mailbox.org>; Tue,  7 Nov 2017 14:05:41 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1510059940;
+	s=domk; d=ingo-schneider.de;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:
+	References:In-Reply-To:To:From:Date;
+	bh=7Z82aPFK8D7JM+TXeebGdREINWMMvxqshfz9LWLWfdQ=;
+	b=NCy5jgfbgL90GfgtE6hCFnA/rXOAC8+5y1l0yUJ1yAH3bYK6uc9pPXavgrkcF87qva
+	0dgno7eqK3A4Sk7zNvyfgzzUkUuEnoAl4W128tXgchx+Vq6kVK84A55oxUM5agInKY3m
+	yLCRJ5fAktGkL8yt5Ayz2Ep7dILv/zI+IkPew=
+X-RZG-AUTH: :IW0NeWChdfgUP3I8wG5kEJaZM3MN1uYcA7nx1znWhWcWD1BzfkMsiJKBT86Ia2SVGNjt3KLy
+X-RZG-CLASS-ID: mo00
+Received: from oxapp04-03.back.ox.d0m.de (com4.strato.de [81.169.145.237])
+	by smtp-ox.front (RZmta 42.9 AUTH)
+	with ESMTPSA id 50a00etA7D5c2CB
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (curve X9_62_prime256v1 with 256 ECDH bits, eq. 3072 bits RSA))
+	(Client did not present a certificate);
+	Tue, 7 Nov 2017 14:05:38 +0100 (CET)
+Date: Tue, 7 Nov 2017 14:05:38 +0100 (CET)
+From: Ingo Schneider <mail@ingo-schneider.de>
+To: posthoernchen@mailbox.org, Egon Schneider <schneegon@googlemail.com>,
+	Roswitha Schneider <rofischneider@t-online.de>,
+	Joachim Schneider <das.schneiderlein@gmx.net>
+Message-ID: <8804246.391388.1510059938660@communicator.strato.de>
+In-Reply-To: <93feb799-ab6f-356f-c63a-7a0824ddd620@gmx.net>
+References: <1e2ad1c8-0e1a-c049-3ce4-269b338c97e8@mailbox.org>
+ <f855c538-6fa0-88cd-d7b6-3cd7c18b968b@t-online.de>
+ <b06a6e10-208a-0ab2-dd22-9bf5e9f064df@mailbox.org>
+ <152fcfa6-6415-1b8b-2cac-32530d9a6597@t-online.de>
+ <e23b5681-5450-4c4c-78b3-076922845694@gmx.net>
+ <6651b6e9-c571-213d-dc06-052f20359bbe@ingo-schneider.de>
+ <93feb799-ab6f-356f-c63a-7a0824ddd620@gmx.net>
+Subject: =?UTF-8?Q?Re:_Kunstf=C3=BChrung?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.8.3-Rev37
+X-Originating-Client: open-xchange-appsuite
+
+<!DOCTYPE html>
+<html><head>
+    <meta charset=3D"UTF-8">
+</head><body><p>Lieber Joachim,<br></p><p>es ist ein Quid-Pro-Quo, Du schre=
+ibst lange Mails mit vielen Worten und ohne Sinn, so siehste mal, wie das i=
+st !<br></p><p>Die S&#228;tze unten stammen &#252;brigens unver&#228;ndert =
+von satzgenerator.de -- eine gewisse &#196;hnlichkeit zu Deinen Mails l&#22=
+8;sst sich nicht leugnen, inklusive der Wortwahl.<br></p><p>Machst Du auch =
+von maschineller Unterst&#252;tzung beim Generieren Deiner vielen sinnfreie=
+n Worte Gebrauch oder ist das alles sozusagen Handarbeit ?<br></p><p>Liebe =
+Gr&#252;&#223;e,<br>Ingo.<br></p><p><br></p><blockquote type=3D"cite">Joach=
+im Schneider &#60;das.schneiderlein@gmx.net&#62; hat am 7. November 2017 um=
+ 13:43 geschrieben:<br><br><div class=3D"ox-792f3e7de7-moz-cite-prefix">Lie=
+be Verwandte und Anverwandte,<br> <br> gestern waren Nachforschungen zu Ker=
+stin&#39;s vermissten Schl&#252;sseln von 2016 (nach ihrer &#220;bernachtun=
+g) wieder Thema von Nachforschungen, diesmal zu meinem Verdacht, dass ihr V=
+erdacht damals mich gezielt auf die Nachforschung f&#252;hren SOLLTE, ob es=
+ bei der Wohnungssuche 2012 mit rechten Dingen zuging und mit welchen unrec=
+hten.<br> Bekanntlich hatte ich 2016 wegen &#252;berz&#228;hliger Schl&#252=
+;ssel (von der Schl&#252;ssel&#252;bergabe 2012 her) Anfragen an die HV, di=
+e Vormieterin, Mama und Ingo gerichtet.<br> W&#252;rdet Ihr es auch als &#3=
+4;F&#252;gung&#34; (Papas F&#252;gung des Wunders von Ingos Wohnungskaufser=
+lebnis 2011/12 an meine Darein-F&#252;gung in meine Behandlung in Haus 12, =
+2011/2012) bezeichnen, dass es mit unrechten Dingen (&#252;berz&#228;hlige =
+Schl&#252;ssel) mit unrechten Dingen zugeht? Solchen unrechten Dingen, wie:=
+ dass mir in diesem &#34;Schloss&#34; mit dem Akt Eures Antrages von Ende 2=
+011 auf einen Platz f&#252;r mich in einem &#34;Haus f&#252;r psychiatrisch=
+es Wohnen&#34; Psychiatrie und Elternhaus &#34;gef&#252;gt&#34; sind?<br> O=
+der w&#252;rdet Ihr es als Unf&#252;gung bezeichnen, dass ich auf diesen Ve=
+rdacht gebracht wurde?<br> Oder auch auf den Verdacht, zwischen Bach (Sozp&=
+#228;d. in Haus 69, 2011) und Bach (Papas Ipod-Geschenk f&#252;r mich, 2010=
+) best&#252;nde mehr Verbindung als in einem Psychiatrie-Krimi-Roman um Nar=
+ration?<br> Oder w&#252;rdet Ihr die F&#252;gung von Psychiatrie und Eltern=
+haus als Unfug bezeichnen? Nicht, weil meine Einlieferung in die Psychiatri=
+e vermeidbar gewesen ist. Sondern weil Psychiatrie und Elternhaus in meiner=
+ Vita &#34;gef&#252;gt&#34; sind, und ich mich darein zu f&#252;gen habe, d=
+ass die Freiheit in dieser Vita so gro&#223; ist wie diese Fuge?<br> Ich gl=
+aube, dass die Freiheit selbiger &#34;Fuge&#34; (Freiheit|Gr&#246;&#223;e|F=
+uge) f&#252;r diejenigen gro&#223; ist, die wollen, dass ich mich mit solch=
+er Fuge darein f&#252;ge, dass meine Freiheit nicht gro&#223; ist.<br> Und =
+ich f&#252;ge mich darein, dass meine Freiheit nicht so gro&#223; ist, wie =
+die Sinnfreiheit In Deiner Mail, Ingo.<br> <br> Lieben Gru&#223;,<br> Joach=
+im<br> <br> <br> <br> Am 06.11.2017 um 22:53 schrieb Ingo Schneider:<br></d=
+iv><blockquote type=3D"cite">An das Posth&#246;rnchen, <br> <br> am Unfallo=
+rt bricht der Aufw&#228;ndige unsauber ein, je schroffer desto hilfsbereite=
+r.&#160; Im Kinderzimmer schneit es, kotzt Silkes Lehrerin auf einem Bauern=
+hof? Ein Kellermeister ist unkreativ, aber seine Freunde lieben ihn daf&#25=
+2;r. Der Flugzeugmechaniker massiert seine Nase, stinkend bricht Detlevs zu=
+r&#252;ckhaltende Kollegin im Partykeller. Im Irrenhaus wird Almuts Freund =
+billig gefoltert, es gewittert. Macht sie die konstante Ulrike fett im B&#2=
+52;ro an? Je besoffener desto verlogener, wann geht Hannes endlich aus? Im =
+Arsch friert es, mein Arsch brennt. Der Bruder Burkhard ist der lesbischste=
+ M&#246;nch in der Abtei, er isst Salamisuppe und trinkt dazu Tee. Sitzt de=
+r Vermieter? Er isst K&#252;rbismus mit viel Putenp&#252;ree. Der perverse =
+Roman isst Auflauf und trinkt dazu Algenschnaps. <br> <br> Liebe Gr&#252;&#=
+223;e, <br> Ingo. <br> <br> <br> On 05.11.2017 22:27, Joachim Schneider wro=
+te: <br><blockquote type=3D"cite">An den rofischneider, <br> man denkt unwi=
+llk&#252;rlich an Norwegen und Angeln. <br> <br> &#34;Die Stunde, da wir ni=
+chts voneinander wussten&#34; ist der Slogan von Edelnutten, die mit ihrem =
+F&#228;cher den Duft, dem man glaubte, aus der Nase des Leichnams eines M&#=
+228;rtyrers fecheln. <br> <br> Nun zur M&#228;rchenstunde: <br> Eine Schnei=
+derin hatte eine goldene N&#228;hmaschine, seit sie mit einer Goldnerin sch=
+neiderte. <br> Als sie im Fischbach nach einer Goldm&#252;nze fischte, sagt=
+e ein Fisch: &#34;Fisch! Fisch!&#34; <br> Es war aber nur ein Silberfischch=
+en gewesen im Badezimmer beim Putzen, fand sich die Pechmarie wieder. <br> =
+<br> Nun zur Ahnenforschung: <br> Interessieren sich au&#223;er Mormonen au=
+ch Wiedert&#228;ufer f&#252;r ihren Stammbaum?, k&#246;nnte auch Dr. Theusc=
+hel fragen, in der Stadtakademie. Wie w&#228;re es zur Abwechslung, nach de=
+n Vorfahren eines K&#252;nstlernamens zu suchen? <br> <br> Und nun zu Posth=
+&#246;rnchen: <br> In der Himmelfahrtskirche veranstaltet man nicht nur Rei=
+sen nach Salzburg. Der Veranstalter und Schirmherr der j&#252;ngsten Reise =
+nach Salzburg zeichnet auch f&#252;r einen Vortrag verantwortlich, zum Radi=
+o-Gottesdienst am 26.12.2017: &#34;Luther in Zeiten des Telefon: Reden kost=
+et. Ablasshandel Telefonrechnung.&#34; Zu Gast: Joachim Schneider, Autor ei=
+nes Briefes an seine Mobilfunk-Anbieter und Sohn einer Erwachsenenbildungs-=
+Engagierten. <br> In der Katharina-von-Bora Stra&#223;e will ein Salzburger=
+ K&#252;nstler &#34;Stolpersteine&#34; legen, aber aus Kupfer, f&#252;r die=
+ Opfer des Lutherjahres. <br> <br> In der Salzburg, Pardon, in der Leiparts=
+tr., fallen bald die ersten Bomben, die zweiten Thesen h&#228;ngen schon, s=
+tatt eines Diplom am Nagel, an der Krippe, Pardon, dem M&#252;llh&#228;usch=
+en. <br> <br> &#34;Die Stunde, da wir nichts voneinander wussten&#34; ist d=
+er Slogan von Psychotherapeuten wie Geheimagenten, Seelsorgern wie Schauspi=
+elern, Ehebetr&#252;gerinnen wie Bruderkriegslern, Informanten wie Performe=
+rn. <br> <br> Lieben Gru&#223;, <br> Joachim <br> <br> <br> <br> <br> <br> =
+<br> <br> <br> <br> Am 05.11.2017 um 17:46 schrieb Roswitha Schneider: <br>=
+<blockquote type=3D"cite">an das Posth&#246;rnchen, <br> man denkt unwillk&=
+#252;rlich an ein zum Streicheln animierendes Eichh&#246;rnchen, <br> aber =
+leider sind die Nachrichten, wie gesagt, nur schwer zu verstehen, der allzu=
+vielen Mehrdeutigkeiten und unterschwelligen Anklagen wegen. <br> Meine auc=
+h nicht unbedingt nur &#34;friedlichen&#34; Nachrichten sehen so aus: <br> =
+- wie war das eigentlich gemeint: &#34;Die Stunde, da wir nichts voneinande=
+r wussten?&#34; <br> Meine Lekt&#252;re besch&#228;ftigt sich gerade mit de=
+n aus Glaubensgr&#252;nden ihr Heimatland verlassenden Hugenotten - ich war=
+ in Bad Karlshafen im dortigen Hugenottenmuseum - und der Salzburger -&#160=
+; in Rutzenmoos gibt es ein evang. Museum. Manchmal durften die Vertriebene=
+n sogar ihre Kinder nicht mitnehmen. Welche Belastungen! M&#246;glicherweis=
+e waren auch Vorfahren meines Vaters darunter, denn die Salzburger kamen bi=
+s nach West- und Ostpreu&#223;en. <br> Von einer Bekannten erhielt ich gera=
+de ein Buch &#252;ber ihre Erinnerungen an den schweren Bombenangriff in Dr=
+esden, die Evakuierung und die &#34;Hungerzeit&#34; und alliierte Luftbr&#2=
+52;cke in Berlin. <br> Andreas war inzwischen mit einem Narbenbruch im Kran=
+kenhaus und ist nun wieder drau&#223;en. Tante Anni liegt im Pflegebett im =
+Wohnzimmer, weil sie nicht mehr laufen kann. Tante Marlene kann sich nur sc=
+hwer entschlie&#223;en, wegen ihrer Fu&#223;schmerzen ins Krankenhaus zu ge=
+hen. Von Jeremy und Marianne&#160; und&#160; von Joel habe ich lange nichts=
+ geh&#246;rt. <br> Das Reformationsevent hat am vergangenen Sonntag und Die=
+nstag mit &#246;kumenischen Gottesdiensten seinen kr&#246;nenden Abschluss =
+gefunden, so dass - wie heute gesagt wurde, der &#34;Alltag&#34; wieder ein=
+kehren kann. Heutiges Thema: Die Friedensbotschaft will nicht jeder h&#246;=
+ren, mit Widerstand ist zu rechnen. Dabei ist f&#252;r mich das Beste daran=
+, jeden Morgen darf ich neu beginnen. <br> In der Stadtakademie l&#228;uft =
+eine Vortragsserie, die sich mit &#34;Verstand und Gef&#252;hl&#34; in heut=
+igem Stellenwert befasst. Morgen ist Bibelfr&#252;hst&#252;ck, demn&#228;ch=
+st steht eine Kunstf&#252;hrung an usw. <br> <br> Eine gute Woche w&#252;ns=
+cht Dir <br> Mama <br> <br> <br> Am 04.11.2017 um 21:37 schrieb Mailzeitung=
+ Posth&#246;rnchen: <br><blockquote type=3D"cite">Liebe Verwandte und Anver=
+wandten! <br> <br> Wie Ihr alle wisst, habe ich in M&#252;nchen studiert. <=
+br> Zwischen konstativen und performativen &#196;u&#223;erungen zu untersch=
+eiden, damit versucht Ihr hier, mir zu bedeuten, dass was man sagt und was =
+man meint, unterschieden ist bis zur Gegens&#228;tzlichkeit - unter eben di=
+esem Unterschied zwischen konstativen und performativen &#196;u&#223;erunge=
+n. <br> Und solche Bedeutung kommt Euch allerdings entgegen: um dem Anspruc=
+h meiner Mail eine Abfuhr zu erteilen, und das, was Ihr mir entgegnet habt,=
+ als blo&#223;e Vorf&#252;hrung erscheinen zu lassen, und zudem das, was ic=
+h mit meiner Mail beanspruche: <br> keine Stellung-Nahme, kein Nehmen meine=
+r Stellung, sondern eine Stellungnahme in diesem Stellungskrieg! <br> Ob Ih=
+r Euch per der Form, informiert zu werden, stellt, als w&#228;ret Ihr nicht=
+ informiert gewesen, oder ob ich Euch stelle, als w&#228;ret Ihr nicht info=
+rmiert gewesen, per der Form, Euch zu informieren, ist einerlei, wenn Ihr d=
+iesen Unterschied zwischen dem, was man meint und dem, was man sagt, in der=
+ Weise zu bem&#252;hen fortfahrt! <br> <br> Lieben Gru&#223;, <br> Joachim =
+<br> <br> <br> <br> Am 02.11.2017 um 23:52 schrieb Roswitha Schneider: <br>=
+<blockquote type=3D"cite">Lieber Joachim, <br> <br> um das Wort&#160; &#34;=
+performativ&#34; richtig zu verstehen, musste ich erst mal den Artikel &#25=
+2;ber Sprechakte bei TU Berlin <a class=3D"ox-792f3e7de7-moz-txt-link-rfc23=
+96E" href=3D"http://www.tu-berlin.de/">&#60;http://www.tu-berlin.de/&#62;</=
+a> &#62; Fakult&#228;t I <a class=3D"ox-792f3e7de7-moz-txt-link-rfc2396E" h=
+ref=3D"http://www.tu-berlin.de/fak1/">&#60;http://www.tu-berlin.de/fak1/&#6=
+2;</a> &#62; Institut f&#252;r Sprache und Kommunikatio <a class=3D"ox-792f=
+3e7de7-moz-txt-link-rfc2396E" href=3D"http://www.tu-berlin.de/fak1/el/board=
+.cgi?id=3DInstitute&amp;action=3Dview&amp;gul=3D8&amp;page=3D1&amp;go_cnt=
+=3D0&amp;category=3DOKZ0135">&#60;http://www.tu-berlin.de/fak1/el/board.cgi=
+?id=3DInstitute&#38;action=3Dview&#38;gul=3D8&#38;page=3D1&#38;go_cnt=3D0&#=
+38;category=3DOKZ0135&#62;</a>n, studieren, (wo bei ich noch empfehle: Konv=
+ersationsstrukturen und H&#246;flichkeit) <br> /&#34;1955 legte der Philoso=
+ph John Austin in seiner Vorlesung //How to do things with words//seine Spr=
+echakttheorie dar. Er unterschied zwischen //konstativen &#196;u&#223;erung=
+en//, die wahr oder falsch sein k&#246;nnen und //performativen &#196;u&#22=
+3;erungen//, die Handlungen darstellen. Diese performativen &#196;u&#223;er=
+ungen sind nicht wahr oder falsch, sondern k&#246;nnen gl&#252;cken oder mi=
+ssgl&#252;cken. Eine &#196;u&#223;erung wie: //Ich verspreche, ich werde p&=
+#252;nktlich sein.//ist danach eine performative &#196;u&#223;erung, da sie=
+ eine Handlung, n&#228;mlich ein Versprechen darstellt. Solche performative=
+n &#196;u&#223;erungen sind allt&#228;glich. Wir behaupten, fragen, drohen =
+oder danken so oft, dass es vielleicht komisch erscheint, diese alltagsspra=
+chlichen Ph&#228;nomene zu untersuchen. Doch es gibt so viele M&#246;glichk=
+eiten, solche //_Sprechakte_ <a class=3D"ox-792f3e7de7-moz-txt-link-rfc2396=
+E" href=3D"http://fak1-alt.kgw.tu-berlin.de/call/linguistiktutorien/pragmat=
+ik/Sprechakt.swf">&#60;http://fak1-alt.kgw.tu-berlin.de/call/linguistiktuto=
+rien/pragmatik/Sprechakt.swf&#62;</a>//zu vollziehen. Sie sind selbst auch =
+vielschichtig und die Interpretation durch den H&#246;rer ist nicht immer s=
+o eindeuti/g.&#34; <br> <br> So konnte ich dann auch Deinen &#252;brigen Au=
+sf&#252;hrungen etwas besser folgen. Trotzdem w&#228;re mir eine Verwendung=
+ der leichten Sprache wesentlich angenehmer, um zu erfahren, was genau ist =
+Dein Problem?? Und was hei&#223;t hier eigentlich &#34;In eurem Interesse&#=
+34;?? <br> Ansonsten hat mich Deine missgl&#252;ckte eher unversch&#228;mte=
+ &#34;Story Telling Performance&#34; Freiburg/Dortmund noch genug belastet =
+und mit Sorge erf&#252;llt. ( Du k&#246;nntest ja damit auch bei anderen vo=
+n Dir ungew&#252;nschte Handlungen ausl&#246;sen.) <br> Du solltest Dir ehe=
+r vorher Gedanken machen &#252;ber Worte =3D Sprechakte, die bei Dir selbst=
+ ja schon genug &#34;Stimmen&#34; ausl&#246;sen, die vor allem Dich selbst =
+belasten und Dich wohl - wie aus Deinem Schreiben herauszulesen ist (?) fas=
+t hindern, die echte Wirklichkeit zu erkennen. <br> Mit Fake News zu spiele=
+n, halte ich f&#252;r extrem leichtsinnig, da sie nur&#160; Unglaubw&#252;r=
+digkeit und schlie&#223;lich Gleichg&#252;ltigkeit f&#246;rdern. <br> <br> =
+Deine ganzen Ausf&#252;hrungen zeigen mir nur wieder deutlich, dass du eine=
+ Gruppe brauchst, wo Du Austausch hast oder eben eine Therapie. Nachdem Du =
+Dein Telefon abgemeldet hast, scheint es Dir jedenfalls gesundheitlich nich=
+t besser zu gehen. <br> <br> Viele Gr&#252;&#223;e <br> Mama <br> <br> <br>=
+ <br> <br> <br> <br> Am 01.11.2017 um 15:57 schrieb Mailzeitung Posth&#246;=
+rnchen: <br><blockquote type=3D"cite">In Eurem Interesse <br> <br> M&#252;n=
+chen, den 21.10.2017 <br> <br> Zeitungsrolle/ Fliegendreck. Oder: Erfolg zw=
+eier Briefe. <br> <br> <br> In einer ganz anderen Sache als derjenigen des =
+Briefes an Kerstin Pokorny wurde ich dieses Jahr auf die Problematik der Sc=
+hriftlichkeit aufmerksam: <br> <br> Mein Bruder wollte meine Antwort auf se=
+inen Quellen-Link in einer hochpolitischen Sache nicht als Hinweis auf den =
+performativen Bezug solcher Information gelten lassen, zu welcher Antwort u=
+.a. meine despektierliche &#196;u&#223;erung &#252;ber heilige Schriften ge=
+h&#246;rte, ob der Kirche oder dem Staate heilige Schriften. <br> <br> Ob e=
+r deshalb antrat, den Beweis zu f&#252;hren, welche Ausma&#223;e Geschriebe=
+nes annehmen kann, halte ich dennoch f&#252;r zweifelhaft. <br> <br> Was ic=
+h mit der folgenden R&#252;ckschau beweisen will, ist vornehmlich eine Art =
+Schrift-Akt-Theorie, die den performativen Bezug als den entscheidenden bez=
+eichnet, d.h. im Falle von Kerstin und mir: die Signalisierung einer Gespr&=
+#228;chsbereitschaft, Beziehungsbereitschaft und Gemeinschaftsbereitschaft,=
+ mit einem Sendschreiben, gr&#252;ndete trotz erhobener und &#252;ber zur D=
+isposition gestellter pers&#246;nlicher Differenzen ein entsprechendes Sign=
+al im informatischen Sinn, wobei die signalisierte Bereitschaft und Erwartu=
+ngshaltung wenigstens den Absender auf Empfang stellte. <br> <br> Den folge=
+nden Brief an Kerstin hatte ich zeitnah zu der erw&#228;hnten Korrespondenz=
+ mit Ingo abgeschickt: <br> <br> <br> <br> <br> M&#252;nchen, den 18.5.2017=
+ <br> <br> Liebe Kerstin! <br> <br> Falls Dein Angebot zu einem Treffen und=
+ Gespr&#228;ch an einem neutralen Ort noch steht, halte ich folgendes f&#25=
+2;r wichtig vorwegzuschicken: <br> <br> 1. <br> <br> &#160;&#160;&#160; Ich=
+ habe Dein Abitur der Kunst-FOS nicht f&#252;r &#8222;einen Witz&#8220; <br=
+> &#160;&#160;&#160; gehalten. Sonst h&#228;tte ich Dir auch nicht anspruch=
+svolle und <br> &#160;&#160;&#160; beanspruchende Literatur aus meinem Stud=
+ium angetragen, und <br> &#160;&#160;&#160; h&#228;tte in Dir keine Studien=
+partnerin gesehen. <br> <br> 2. <br> <br> &#160;&#160;&#160; Ich habe meine=
+ Frage bei Deinem Besuch 2015 &#8222;Bist Du schwanger?&#8220; <br> &#160;&=
+#160;&#160; nicht im Sinne von &#8222;Bist Du fett?&#8220; gemeint! Die Amb=
+ivalenz <br> &#160;&#160;&#160; meiner Frage ist diejenige zwischen meiner =
+Hoffnung und meiner <br> &#160;&#160;&#160; Furcht in Sachen Deiner wom&#24=
+6;glich gehaltenen Treue. <br> <br> 3. <br> <br> &#160;&#160;&#160; Was ich=
+ mit Deinem Portr&#228;t auf der Karte andeuten wollte, ist <br> &#160;&#16=
+0;&#160; nicht, dass Du nur ein Bild f&#252;r mich w&#228;rst, sondern dass=
+ ich <br> &#160;&#160;&#160; nicht ein Bild oder eine Vorstellung von Dir D=
+ir vorziehen will. <br> <br> 4. <br> <br> &#160;&#160;&#160; Wenn ich Dich =
+br&#252;derlich bitte zu gehen, dann will ich nicht <br> &#160;&#160;&#160;=
+ Deinen Bruder aufrufen, nur weil ich Streitereien vermeiden will: <br> <br=
+> &#160;&#160;&#160; 1. <br> <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160=
+; dar&#252;ber, als wen Du Dich aufspielst, wenn Du von meiner <br> &#160;&=
+#160;&#160;&#160;&#160;&#160;&#160; IKEA-Geschirrabtropfe bis zu meinen &#8=
+222;Sternen&#8220; meine <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; Ei=
+nrichtung bem&#228;kelst, oder <br> <br> &#160;&#160;&#160; 2. <br> <br> &#=
+160;&#160;&#160;&#160;&#160;&#160;&#160; wieso aus meinem Schlafzimmer ein =
+<br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; Kinderm&#228;dchen-Chastity=
+-Studio mit einer Gr&#252;nlilie &#252;berm Bett <br> &#160;&#160;&#160;&#1=
+60;&#160;&#160;&#160; als warnender Spinne wurde, und aus Bruder Bruderius =
+Deine <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; IKEA-Kuscheldecke. <b=
+r> <br> &#160;&#160;&#160; 3. <br> <br> &#160;&#160;&#160;&#160;&#160;&#160=
+;&#160; dar&#252;ber, wieso Du mir vorwirfst, trotzdem neben Dir schlafen <=
+br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; zu k&#246;nnen. <br> <br> 5.=
+ <br> <br> &#160;&#160;&#160; Der Tabak ist nicht rot wie roter Tee. Es han=
+delt sich um einen <br> &#160;&#160;&#160; Lichteffekt mit dem roten Aschen=
+becher und der Beleuchtung. <br> <br> 6. <br> <br> &#160;&#160;&#160; Donal=
+d und Daisy treffen sich bei Mac Donalds. Daisy nimmt aus <br> &#160;&#160;=
+&#160; ihrem Big Mac das zweite Fleisch und klatscht es Hans mit den <br> &=
+#160;&#160;&#160; Worten &#8222;Da!&#8220; auf den Teller. Donald packt das=
+ Fleisch in seinen <br> &#160;&#160;&#160; Burger. Sie essen. Ohne f&#252;r=
+ Donald ersichtlichen Grund wird <br> &#160;&#160;&#160; Daisy bald stinksa=
+uer und dampft davon. Donald wundert sich und <br> &#160;&#160;&#160; eilt =
+ihr hinterher und bewegt Daisy zur Umkehr. Die Beiden <br> &#160;&#160;&#16=
+0; vertragen sich wieder, ohne jede Aussprache und Kl&#228;rung. Handelt <b=
+r> &#160;&#160;&#160; es sich um eine einseitige Darstellung? Handelt es si=
+ch um die <br> &#160;&#160;&#160; ber&#252;hmten Kleinigkeiten, an denen ei=
+ne Beziehung scheitern kann? <br> &#160;&#160;&#160; Was k&#246;nnen wir da=
+raus f&#252;r uns lernen? Womit ist Daisy <br> &#160;&#160;&#160; unzufried=
+en? Womit Donald? <br> <br> <br> <br> Wir k&#246;nnten uns am Samstag an de=
+r Bruderm&#252;hl-Br&#252;cke treffen, p&#252;nktlich um 16:00 Uhr, und woh=
+in dann, bleibt zu entscheiden, Dir &#252;berlassen. Meine Vorschlag: Weins=
+tube WOW am Hans-Mielich-Platz. Auf ein gutes Gespr&#228;ch. <br> <br> Herz=
+lichen Gru&#223;, Joachim <br> <br> P.S.: Und nein: das soll nicht in erste=
+r Linie ein philosophischer Salon werden und schon gar kein philosophischer=
+ Kurs, ob zur Metaphysik von Burgern oder zur Metapsychik von Gesten! Auch =
+nicht zu Genderfragen! Auch nicht zur Ikonologie oder Logowissenschaft von =
+&#8222;Herz&#8220; ! Auch nicht ein Ausflug nach Disney-World! Und auch kei=
+n psychoanalytisches Gedeute, welche famili&#228;ren oder sonstigen Bez&#25=
+2;ge wir damals ausagiert h&#228;tten. Sondern, ein Versuch, ob wir uns &#2=
+52;ber diese Geschichte verst&#228;ndigen k&#246;nnen, und um zu sehen, ob =
+wir uns aus unseren Verhaltensmustern l&#246;sen k&#246;nnen, oder ob wir s=
+olche Comic-Vorlagen und Lehrbeispiele bleiben. <br> <br> <br> <br> <br> <b=
+r> In den Monaten seither diente jeder der ihr aufgez&#228;hlten Punkte daz=
+u, ob in seiner Explizit&#228;t oder Implizit&#228;t, mir das Leben zur H&#=
+246;lle zu machen. <br> <br> Zu 1. Vermutlich hat sie mein Gespr&#228;chsan=
+gebot als Herablassung und solche Herablassung als Herausforderung empfunde=
+n, indem ich sie bei dem Wort nahm, das auf mich gem&#252;nzt war, was den =
+Bildungsgrad angeht. <br> <br> Zu 2. Um diese meine angedeutete Ambivalenz =
+wurden allerlei Deutungen entsponnen und mir dargestellt: der Bezug zu eine=
+r Jungfrauen-Geburts-Theorie, nach der ich, wie in katholischen Kreisen als=
+ &#252;blich anzunehmen w&#228;re, Vater eines nicht von mir gezeugten Kind=
+es werden solle, wurde von einem Psi-Theater darstellend ebenso bem&#252;ht=
+, wie Wiedergeburtsmystiken, was meine oder auch Kerstins Wiedergeburt ange=
+ht, je nach dem, wobei die Betreiber solcher Darstellung mehr &#8222;Kraft&=
+#8220; ausfindig machen konnten, d.h. wobei mehr Sympathie ausgebeutet werd=
+en konnte. Auch psychoanalytische Ans&#228;tze wurden solchem Theater nutzb=
+ar gemacht, etwa derjenige einer Reise in den bzw. in dem Mutterleib. <br> =
+<br> Zu 3. Dieses Eingest&#228;ndnis meiner Kerstin einbeziehenden Masturba=
+tionspraxis wurde des &#246;fteren verwendet, den Vorwurf eines Missbrauchs=
+ gegen mich zu wenden. <br> <br> Zu 4. Oder auch gegen meinen Bruder, unter=
+ Vort&#228;uschung eines &#228;rztlichen Interesses an meinen angeblichen f=
+r&#252;hkindlichen Sch&#228;digungen. Was meinen Aufgriff ihrer Formulierun=
+g &#8222;Aufrufen&#8220; angeht, war sie willkommener Anlass, Cyborg-Fremdb=
+estimmungs-Wahnsinn zu forcieren. <br> <br> Zu 4a. Die hier angelegte Homog=
+enit&#228;t von physischen und metaphysischen Entit&#228;ten in ihrer Produ=
+kthaftigkeit wurde zweckentfremdet und missbraucht entgegen ihrer beabsicht=
+igten Bestimmung als Eingang darauf, was den &#8222;Stern&#8220; einer gl&#=
+252;cklichen Trennung angeht, Thema einer Gru&#223;karte an sie, welches be=
+i unserem Treffen im Sommer 2016 auch aufkam. <br> <br> Zu 4b. Was Kerstins=
+ &#220;bernachtung bei diesem Treffen angeht, wurde deren Beschreibung sowo=
+hl hinsichtlich ihres verdichteten Vokabulars entfremdet, als auch hinsicht=
+lich aufkommender Verdachtsmomente ins Befremdliche &#252;bertrieben: Unter=
+ &#8222;Chastity&#8220; etwa verstand man &#8222;Chestity&#8220;, und terro=
+risierte mich wochenlang mit Kisten-Zudeppern, unter Aufgriff einer von Ker=
+stins Formulierungen, nicht ich w&#252;rde ihre Kiste regieren. Was das &#8=
+222;Kinderm&#228;dchen&#8220; angeht, wurden Missbrauchsverd&#228;chtigunge=
+n gegen mich gest&#228;rkt. Was die Ikea-Kuscheldecke angeht, wurde der Kom=
+plex &#8222;Ware Mensch&#8220; bem&#252;ht, als meiner Prostitution. <br> <=
+br> Zu 4c. Was sie mit ihrer Frage &#8222;Hast Du geschlafen?&#8220; am Mor=
+gen ihrer &#220;bernachtung bei mir gemeint haben k&#246;nnte, war Mittel v=
+on Beirrungsversuchen, dahingehend, Schlaf im &#252;bertragenen Sinne von E=
+rweckungsbewegungen mit Schlaf im einfachen Sinn in eins zu setzen; auch da=
+hingehend, als Besorgter geschlafen zu haben. Dass sich in und mit Kerstins=
+ als Besorgter erhobenen Vorwurf die Sorge umkehrte, weil sie sich um mich =
+besorgen lie&#223;, ist die Ansichtssache, die zu vertreten, einen Brief wi=
+e den angef&#252;hrten an Kerstin zu schicken, als in h&#246;chstem Ma&#223=
+;e schizophren erscheinen l&#228;sst, insofern in diesem Brief die Ansichts=
+sache impliziter vertreten wird, sie habe mir als meine Sexualpartnerin vor=
+geworfen, neben ihr geschlafen zu haben. <br> <br> Zu 5. Diese Belehrung wu=
+rde mir &#252;belgenommen und bot ihren gezielten Irref&#252;hrungsversuche=
+n Angriffsfl&#228;che. <br> <br> Zu 6. Dieser Versuch, die Tragik einer emo=
+tional missbr&#228;uchlichen Beziehungsf&#252;hrung ins Komische zu wenden =
+und dabei ihr Bewusstsein ihres Anteils solchen Missbrauchs zu wecken bzw. =
+zu pr&#252;fen, w&#228;re beinahe ins Politische gewendet worden: man bewar=
+b mich hier, doch zum MacDonalds zu gehen, und stellte Verkn&#252;pfungen m=
+it der Person des amtierenden amerikanischen Pr&#228;sidenten her. <br> <br=
+> Letzterer steht zwar im Ruf kein besonders diplomatischer Diplomat zu sei=
+n, aber er w&#252;rde einen Brief wie diesen nicht abgeschickt haben. <br> =
+<br> Denn eine solche Einladung ist unter Ber&#252;cksichtigung der Perform=
+ativit&#228;t, die es darstellt, einer Person wie derjenigen, deren Darstel=
+lung aus dem Brief hervorgeht, mit diesem Informationen anzuvertrauen, als =
+Einladung zu bezeichnen im Sinne von Einhandlung. <br> <br> Was den vorgesc=
+hlagenen Ort f&#252;r ein Treffen angeht, wurde &#8222;World of Wine&#8220;=
+ prim&#228;r im Bezug zur biblischen Apokalypse gedeutet. Was die obige Bez=
+eichnung &#8222;Psi-Theater&#8220; angeht, l&#228;sst sich solches auch als=
+ eine anberaumte &#8222;World of Wine&#8220; umschreiben, die als eine Simu=
+lation mitlief, in der sich entschleiert und ent-schleiert, was an Unsagbar=
+em, Furchtbarem, Abwegigem, angelegt wurde w&#228;hrend der beschriebenen P=
+rozessierung meines Briefes an Kerstin in den vergangenen Monaten, w&#228;h=
+rend welcher sich das Verh&#228;ltnis von Simulation und Wirklichkeit im Si=
+nne einer korrespondierenden R&#252;ckwirkung verlagerte und umkehrte. Dies=
+e Simulation betraf in erster Linie mich und meine Familie. <br> <br> Um we=
+n es sich bei den Begleiterinnen dieser Prozessierung handelte und handelt,=
+ ist zweifelhaft, schon deswegen, weil diese BegleiterInnen zumeist und mei=
+stens die Bezeichnung FolterknechtInnen verdient h&#228;tten. Kerstin war n=
+icht zum Treffen gekommen. Es d&#252;rfte sich wohl um solche handeln, die =
+an einem solchen &#8222;Lehrbeispiel&#8220; ein Interesse haben und nehmen,=
+ in dem Sinn, es mir eine Lehre sein zu lassen, d.h. mich zu bestrafen. <br=
+> <br> Ihr mit dem Brief ein weiteres Angebot gemacht zu haben, geh&#246;rt=
+e gestraft. <br> <br> Diejenigen, die sich das Strafrecht zu solcher Strafe=
+ anma&#223;ten, geh&#246;ren gestraft. <br> <br> Auch, wenn sie die Lehre a=
+ls Entsch&#228;digung ausgeben. <br> <br> Zum Begriff der Bereitschaft ist =
+anzumerken, dass der Brief an Kerstin, indem dieser Vertrauen erweist, ihr =
+dennoch keinen Vertrag zur Wahrnehmung oder gar Vertretung von Interessen a=
+nbot, sondern h&#246;chstens die K&#252;ndigung eines Vertrages zur Wahrneh=
+mung ihrer Interessen (hinsichtlich psychologischer und philosophischer Bil=
+dung) beinhaltet. <br> <br> Was die Schrift-Akt-Theorie angeht: Der Absende=
+r m&#252;sste bei Ausbleiben einer brieflichen Antwort (bzw. eines Treffens=
+ wie eingeladen) das Signal einer Nicht-Bereitschaft empfangen, d.h. eine A=
+rt &#8222;Besetzt-Zeichen&#8220;. Ein &#8222;Besetzt-Zeichen&#8220; macht e=
+inem Schauspieler anderen Sinn, welcher Sinn wiederum einem Philosophen hin=
+sichtlich der Frage der ehelichen Gegenwart seiner Geliebten auch Sinn mach=
+t. <br> <br> Was die eingangs erw&#228;hnte Korrespondenz mit meinem Bruder=
+ angeht: <br> <br> Kerstin ein weiteres Angebot gemacht zu haben, geh&#246;=
+rte gestraft, weil sich der Brief an Kerstin als erneutes Eingehen auf ihre=
+ Freiung, als erneutes Hereinfallen auf eine Angebotsfalle (immer mehr zu b=
+ieten, je weniger man geboten bekommt), als erneutes Nachgeben dem Zug eine=
+r Angelleine, als erneute Aussch&#252;ttung eines Knebelvertrages, bezeichn=
+en lassen muss. <br> <br> Ingo &#252;bermittelte mir mit seinem Brief einen=
+ Nachtrag zur Eskalation unseres Tischgespr&#228;chs bei der diesj&#228;hri=
+gen Muttertagsfeier &#252;ber das Thema eines Buches zum Schulwesen in Pal&=
+#228;stina als anti-jud&#228;ischem Propaganda-Betrieb. Sein Nachtrag sollt=
+e mit einer Quellenangabe eines entsprechenden Zeitungs-Berichts die Eindri=
+nglichkeit dieses Missstands noch eindringlicher her&#252;berbringen und da=
+s Gespr&#228;ch &#252;ber diesen Missstand im elektronischen Briefverkehr f=
+ortsetzen. <br> <br> Ich wiederholte Ingo meine Meinung zu diesem Missstand=
+ auch: dass die Diskussion der sogenannten Bildungsfrage sich in jedem konk=
+reten Fall in den Schwanz beisst. Wer Bildungsn&#246;te beklagt, egal welch=
+e, der setzt damit immer schon die entscheidende Bildungsnot voraus: dass e=
+inem egal w&#228;re, wor&#252;ber man nicht belehrt wird; oder radikaler fo=
+rmuliert: dass ein Mensch zu bilden w&#228;re wie ein Bild, nicht technisch=
+, aber produktiv. <br> <br> Diese Meinung hat Ingo, wie ich unsere sp&#228;=
+tere Korrespondenz verstehe, als bewusstes Ignorieren des Appells aufgefass=
+t, auf Reform solchen Schulwesens bzw. auf Abschaffung dieses Missstands, w=
+elchen Appell er sich mit Zitieren des Buches bzw. Zeitungsartikels zu dies=
+em Thema zu eigen gemacht haben wollte. Und diesen Appell zu ignorieren, ha=
+t er mir anscheinend als Verweigerung der Bekundung einer eindeutigen Parte=
+inahme in dem appellativ dargestellten Konflikt &#252;belgenommen. Er muss =
+meine Abwiegelung solchen Fahnenappell-Marsch-Geblases als str&#228;fliche =
+Neutralit&#228;t bewertet haben, die er mich sp&#252;ren lassen wollte, ind=
+em er in ihm brieflich angetragenen Sachen, die ihn als meinen Vermieter be=
+treffen, sich gleichg&#252;ltig und mitunter inkonsequent gab; und sogar vo=
+n ihm selbst aufgeworfene Missst&#228;nde demonstrativ nicht ausr&#228;umen=
+ oder beheben wollte. <br> <br> Solcherma&#223;en verwickelte auch er mich =
+in eine Angebotsfalle, permanent die Forderung aufrichtend, auf Worte Taten=
+ folgen zu lassen, in Sachen der Meinung, und sich dabei genau dieser Forde=
+rung selber entziehend, in Sachen des Mietrechts. <br> <br> Dass &#252;ber =
+diesen Streit mit dieser Verquickung auf diesem Grund und Boden mir die Not=
+ einer psychologischen Bekriegung entstand, l&#228;sst die Frage, wer und w=
+ie Nachbarn in diesen Krieg einbezogen hat bzw. wurden, offen. <br> <br> Zu=
+ dieser Frage muss ich die Stimmung der &#214;ffentlichkeit im zur&#252;ckl=
+iegenden Wahlkampf hinsichtlich dessen Deckkraft mit der Forderung Ingos eb=
+enso heranziehen, was die Plakativit&#228;t demonstrierter Positionen angeh=
+t, wie auch die hiesig betriebene Geheimb&#252;ndlerei, welche sich mir mit=
+ den Stimmen der Stimmungsmache gegen Nutzer offizieller und technischer Ko=
+mmunikationswege bemerkbar machte, mit der letztere in Beschlag zu nehmen u=
+nd erstere einzusch&#252;chtern versucht worden sind. <br> <br> Dieser Stim=
+mungsmache Angriffsziel geworden zu sein, betrifft meine wiederholten Versu=
+che, die Polizei in Sachen Ruhest&#246;rung (als Haupttatbestand der Bel&#2=
+28;stigung durch Nachbarn) zu alarmieren. Und auch, was meine in der Folge =
+der Erfolglosigkeit solcher haupttatbestands-sach-verpflichteter Anzeige un=
+terlassene Alarmierung der Polizei in Sachen entwendeter W&#228;schest&#252=
+;cke angeht, oder in Sachen symbolischer Nachrichten, wie W&#228;scheleinen=
+-Schlingen auf meinem Gep&#228;cktr&#228;ger. <br> <br> Nicht zuletzt betri=
+fft es auch, was meine Alarmierung der Stadtwerke in Sachen Gasgeruch angeh=
+t, welche vom Mitarbeiter der SWM-Entst&#246;rung als Fehlalarm eines Gest&=
+#246;rten aufgefasst sein worden wird. Und auch der Unterlassung derer Alar=
+mierung in Sachen Wasserqualit&#228;t oder Zwei-Draht-Verkabelung, welche d=
+iese Auffassung nur best&#228;tigt h&#228;tte. <br> <br> Ebenso h&#228;tte =
+es diese Auffassung vermutlich best&#228;tigt, die Untermieterin meiner Nac=
+hbarn namens &#8222;Alva Roja&#8220; bzw. diese Nachbarn selbst als Hauptve=
+rd&#228;chtige solcher Geheimb&#252;ndlerei zu melden. <br> <br> Im Fr&#252=
+;hjahr warb der Hausmeister per Aushang, sich bei ihm zu melden, wolle man =
+ausziehen oder seine Wohnung &#8222;freigeben&#8220;. Dieser Aushang konnte=
+ u.a. auch als Antwort verstanden werden auf den Aushang einer Nachbarin, m=
+it dem sie sich daf&#252;r entschuldigte, das Treppenhaus nach ihrer M&#246=
+;bellieferung nicht wieder in sauberen Zustand versetzt zu haben, d.h. auch=
+ als deren Unterdrucksetzung. <br> <br> Beim zu gew&#228;rtigendem Stand de=
+r Entwicklung wird man hier bald wieder den Ausnahmezustand verh&#228;ngen,=
+ und Jagd auf &#8222;Ratten&#8220; machen, indem man M&#252;ll im Garten un=
+d sonstwo liegen l&#228;sst, oder Fallen am Altpapiercontainer legt, die zu=
+ melden oder &#252;ber die zu beraten, schon von den Kindern des Hausmeiste=
+rs als &#8222;Rattenfalle&#8220; ausgegeben wurde, was mir damals der erste=
+ Hinweis auf die Bekanntheit Anderer mit diesem Sprech von &#8222;Ratten&#8=
+220; war; wobei die Betroffenheit Anderer durch solche Hetze und Einsch&#25=
+2;chterung stets Einfallstor derselben ist: in die Pflicht nehmend, zu eine=
+m Spiel um die Pflicht, wider den Pflichtigen, von dem in solchem Spiel unk=
+lar und uneindeutig bleiben soll, ob es sich um den Verpflichter oder um de=
+n Verpflichteten handelt. D.h. ob um einen selbst oder einen anderen. Dass =
+der Verpflichter grunds&#228;tzlich jemand anderes w&#228;re, ist die Regel=
+ des Spiels, zu dem man so verpflichtet wird, und in der Verpflichtung zu w=
+elchem man selbst zum Verpflichter wird, was den Gewinn dieses Spiels darst=
+ellte, das aber nicht zu Ende geht... <br> <br> Was die Hinweise auf die Be=
+troffenheit anderer Bewohner der hiesigen Anlage angeht, durch die angedeut=
+ete Bedrohung, Not und Verfolgung, die mir in den vergangenen Monaten wider=
+fahren ist, komme ich auf den Kerngehalt der Forderung Ingos, auf Worte Tat=
+en folgen zu lassen, und zu der Aktualit&#228;t der Verpflichtung von Kinde=
+rn in der Politik: <br> <br> Es ist nicht meine Absicht, betroffen zu stimm=
+en, um Unterst&#252;tzer und Mitstreiter zu gewinnen oder um meinen Unterha=
+lt zu bestreiten. <br> <br> Falls man mir solche Absicht unterstellte, hier=
+ auszuharren. <br> <br> Die Betroffenheit Anderer von der Hetze und Einsch&=
+#252;chterung ist stets Einfallstor derselben, ist sogar Einschussloch der =
+Getroffenheit von einem selber von dem Dauerfeuer der Hetze und Einsch&#252=
+;chterung, weil diese Betroffenheit schw&#228;cht, weil diese Betroffenheit=
+ in den Kinos und Theatern verlernt wird. <br> <br> Und l&#228;ngst nicht n=
+ur dort. <br> <br> Wer mir Solidarit&#228;t erweisen will, der m&#246;ge f&=
+#252;r einen Anfang dies Lied singen wie ein Kirchenlied, die man auch zum =
+Abgew&#246;hnen singt: <br> <br> Auf dass niemand niemanden mehr kenne! <br=
+> <br> Auf dass jeder sich die Bl&#246;&#223;e andrer gibt! <br> <br> Auf d=
+ass es keine Bl&#246;&#223;e gebe au&#223;er der gestellten! <br> <br> Auf =
+dass Kennen blo&#223;e Kenntnis ist! <br> <br> Auf dass Kunst von Kennen ko=
+mme! <br> <br> <br> <br> M&#252;nchen, den 1.11.2017 <br> <br> &#8222;POP&#=
+8220; im Protokoll: Erfolg eines Fake-News-Projekts in Sachen Nachrichtente=
+chnik. Oder: Erfolg eines dritten Briefes. <br> <br> Weil ich Kerstin den e=
+rw&#228;hnten Brief nicht auf elektronischem Wege zukommen habe lassen, r&#=
+252;ckt f&#252;r die Schrift-Akt-Theorie hinsichtlich der Form, per der die=
+ser b&#252;rokratische Akt als psychodramatischer Akt praktiziert wurde, un=
+d hinsichtlich der Formen des als psychodramatischen Aktes praktizierten b&=
+#252;rokratischen Aktes, ein dritter Brief in die Analyse: Eine Ausgabe der=
+ Mailzeitung Posth&#246;rnchen zum Thema &#8222;Rettung der EU&#8220;, gese=
+ndet per Email ausschlie&#223;lich an meinen Vater am 25.6.2017. <br> <br> =
+<br> <br> <br> <br> Posth&#246;rnchen ist froh und stolz, seinen Lesern die=
+ Rede von EU-Kommissar S. Oundso vom 19.6.2017 zur endlich beschlossenen Re=
+form der EU im Volltext zu pr&#228;sentieren: <br> <br> (Anrede gek&#252;rz=
+t, die Red.) <br> <br> Jahrelang war die Aufforderung zu vernehmen, doch Eu=
+ropa ein besseres Image, eine positive Identit&#228;t, einen Sinn zu geben.=
+ Diese Aufforderung wurde zumeist als guter Vorsatz in der &#214;ffentlichk=
+eit propagiert. Man hat sich indes darauf verlegt, Europakritiker ins Europ=
+a-Parlament zu w&#228;hlen, und erwartet sich davon vielleicht einen Aufsch=
+wung der europ&#228;ischen Streitkultur. Mit dem Ausstieg Gro&#223;britanni=
+ens wird die Insulaner-Mentalit&#228;t der Europ&#228;er in der Beziehung z=
+u ihren Nachbarstaaten unverkennbar: Br&#252;ssel ist eine Insel, mitten in=
+ der ehemals oft flie&#223;enden Grenzzone europ&#228;ischer Reiche. &#8222=
+;Br&#252;ssel,&#8220; so sieht man uns, &#8222;das sind die Eingeborenen ei=
+ner aufm&#252;pfigen Kolonie!&#8220; &#8222;Br&#252;ssel&#8220;, so sehen e=
+s immer mehr, &#8222;das sind Aussiedler, die die Welt verbessern wollen!&#=
+8220; &#8222;Br&#252;ssel, das ist eine Pirateninsel!&#8220; <br> <br> Wem =
+geh&#246;rt Europa? In wessen Hoheitsgew&#228;ssser liegt die Insel Br&#252=
+;ssel? Sie geh&#246;rt keinem so recht, und im Zweifel eher den anderen. Br=
+&#252;ssel steht f&#252;r die Auslagerung des Hoheitsanspruchs auf eine gem=
+einsame Kommission und f&#252;r einen Deal der Nationen. <br> <br> Br&#252;=
+ssel ist also ein Deal, Br&#252;ssel ist ein Unternehmen, Br&#252;ssel muss=
+ sich rechnen. <br> <br> Br&#252;ssel ist aber keine Unternehmenstochter de=
+r europ&#228;ischen Volks&#173;wirt&#173;schaften, die man auf die Insel ge=
+schickt hat &#8211; Br&#252;ssel soll der Mutterkonzern aller europ&#228;is=
+chen Volkswirtschaften sein. <br> <br> Und diesen Anspruch kann die Insel B=
+r&#252;ssel nicht erf&#252;llen. Wenn das Unternehmen Europa eine Zukunft h=
+aben soll, muss es auf dem Kontinent in allen L&#228;ndern Europas Standort=
+e haben, und seine Unternehmenskultur dezentralisieren. <br> <br> Es brauch=
+t daher Niederlassungen des Unternehmens Europa in allen europ&#228;ischen =
+Vaterl&#228;ndern. <br> <br> Stimmen Sie mit mir, Ihrem Gewissen und dem Ge=
+ist Europas verpflichtet, f&#252;r die Gr&#252;ndung von Europatagen in all=
+en europ&#228;ischen Nationen in jeweils einer Stadt, sowie f&#252;r den Au=
+fbau des Eunet. (Anm. der Red.: EUNET: Intranet-artiges Subnetz des Interne=
+t, europ&#228;isches Internet) <br> <br> &#160;&#160;&#160;&#160; o <br> <b=
+r> &#160;&#160;&#160;&#160;&#160;&#160;&#160; Die mit der jeweiligen nation=
+alen Regierung gew&#228;hlt werden. <br> <br> &#160;&#160;&#160;&#160; o <b=
+r> <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; Die einander Abgeordnete=
+ entsenden, bzw. untereinander <br> &#160;&#160;&#160;&#160;&#160;&#160;&#1=
+60; Abgeordnete austauschen, und zus&#228;tzlich, je nach <br> &#160;&#160;=
+&#160;&#160;&#160;&#160;&#160; Tagesordnung, untereinander Telekommunikatio=
+ns-Verbindungen <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; herstellen.=
+ <br> <br> &#160;&#160;&#160;&#160; o <br> <br> &#160;&#160;&#160;&#160;&#1=
+60;&#160;&#160; Die ihre Tagesordnungen in betreffenden Tagesordnungspunkte=
+n <br> &#160;&#160;&#160;&#160;&#160;&#160;&#160; mit den betroffenen Europ=
+atagen anderer Nationen abstimmen. <br> <br> (Anm. der Red.: Abstimmungserg=
+ebnis: 61% Ja, 38% Nein, 1% Abwesend) <br> <br> <br> <br> <br> <br> Insofer=
+n ich mit diesem Extrablatt das Wagnis einging, Nachrichten zu erfinden, so=
+genannte &#8222;Fake News&#8220;, um diese explizit als solche, d.h. auch a=
+ufgemacht als &#8222;Fake News&#8220;, politisch einzusetzen, und sie auch =
+so einsetzte, sie meinem Vater zu schicken in Sachen EU-Kritik und damit au=
+f &#228;ltere Debatten mit ihm eingehend, habe ich die Kategorie &#8222;Fak=
+e News&#8220; au&#223;er Konkurrenz eingesetzt, was als das eigentliche Wag=
+nis erscheinen soll: &#8222;Fake News&#8220; ist eine Kategorie zur Aussond=
+erung von Nachrichten, die nur und ausschlie&#223;lich insofern Realit&#228=
+;tsbezug haben als sie dem Interesse /hinter/ ihrer Ver&#246;ffentlichung d=
+ienen, welches Interesse sie vermitteln in ihrer Kategorisierung als &#8222=
+;Fake News&#8220; durch die in den Nachrichten betroffenen Dritten oder dur=
+ch Vierte. Dass ich meine &#8222;Fake News&#8220; auch selbst als &#8222;Fa=
+ke News&#8220; aufgemacht hatte, stellte somit einen Verschnitt und Beschni=
+tt dieser Kategorie dar. <br> <br> Das Interesse, das ich mit &#220;bermitt=
+lung der erw&#228;hnten Posth&#246;rnchen-Ausgabe an meinen Vater hergestel=
+lt hatte, besteht f&#252;r mich nun weniger in dem Interesse von Therapeute=
+n und Psychologen an &#8222;dem Vater&#8220;, sondern in der Anstrengung de=
+s Themas Wahrheitsfindung, in welcher Anstrengung meine pers&#246;nlichen p=
+rivaten, famili&#228;ren und beruflichen Interessen per der Form &#8222;Fak=
+e News als Fake News&#8220; verbunden zu haben, dem Interesse einer Theorie=
+ des Interesse-als-Form-als-Interesseentspricht, <br> <br> aber meinemInter=
+esse insofern nicht, weilich eine&#8222;Anstrengung des Themas Wahrheitsfin=
+dung&#8220; nicht mit Folter betreibe. <br> <br> Euch nicht l&#228;nger auf=
+ die Folter zu spannen, schicke ich Euch deshalb diese Abhandlung. <br> <br=
+> Lieben Gru&#223;, <br> <br> Joachim <br> <br> P.S.: Nochmal zu 4c im Teil=
+ vom 21.10.2017: Was meine Hoffnungen angeht, mit dem angef&#252;hrten Brie=
+f an Kerstin in meiner Beziehung mit ihr diese Beziehung in einem g&#228;nz=
+lich anderen Sinn und Bezug als einem psychiatrischen und therapeutischen w=
+eiterzuf&#252;hren, sind diese soeben erneut dem Verdacht unterlegen, sie h=
+&#228;tte sich des Sprachgebrauchs &#8222;mit jemandem schlafen&#8220; bewu=
+sst irref&#252;hrend bedient, und auch meines Anspruchs auf eine Sprachphil=
+osophie der Bewusstwerdung solchen Sprachgebrauchs, bzw. des Ansprechens au=
+f den Anspruch solcher Sprachphilosophie, also nicht unter dem Anspruch sol=
+cher Sprachphilosophie. <br> <br> 1. Gegenw&#228;rtig besch&#228;ftigt mich=
+, dass ich mit der Anf&#252;hrung des Briefes an sie im ersten Teil dieser =
+Abhandlung, meiner Beziehung mit Kerstin den anderen anderen Sinn und Bezug=
+ verschafft h&#228;tte, d.h. statt einer Liebesbeziehung eine Gesch&#228;ft=
+sbeziehung verfasst h&#228;tte, in welcher der feine Unterschied zwischen &=
+#8222;Beziehung zu ihr&#8220; und &#8222;Beziehung mit ihr&#8220; derart be=
+m&#252;ht wird, dass von einer Beziehung /mit/ ihr eigentlich keine Rede se=
+in darf; denn dann w&#228;re dieser erste Teil der Abhandlung zur Schrift-A=
+kt-Theorie ohne abgeschickt worden zu sein, Grund und Ursache gewesen, dass=
+ sich mit dem in selbiger Abhandlung angef&#252;hrten Brief diese Abhandlun=
+g wie von selbst und nicht in dieser Abhandlung selbst zur Einhandlung eine=
+s inoffiziellen Schiedsgerichtes ausgewachsen hat. <br> <br> 2. Also nicht,=
+ weil ich mit Abschicken des im ersten Teil der Abhandlung nur angef&#252;h=
+rten Briefes an Kerstin den psychiatrischen und therapeutischen Bezug meine=
+r Beziehung mit ihr aufgehoben h&#228;tte, weswegen dem zweiten Teil der Ab=
+handlung nach sich unter meiner Weigerung, trotz ihrer ausgebliebenen Antwo=
+rt und trotzdem sie dem Treffen ferngeblieben war, weiter um sie anzuhalten=
+ oder sie wieder aufzusuchen, bis dato der andere andere Bezug, der einer G=
+esch&#228;ftsbeziehung hergestellt h&#228;tte, welche die Bezeichnung eines=
+ Deals allerdings nicht verdient, sondern diejenige eines erbarmungslosen W=
+ettstreits mit Ziel einer Unternehmens&#252;bernahme, indem ein Scheidungsg=
+ericht den Fall einer Scheinehe an ein Schiedsgericht zwischen Unternehmen =
+&#252;bergeben h&#228;tte, in dem insbesondere die Verwendung vertraulicher=
+ Informationen und als therapeutisch erhobener Informationen anders verhand=
+elt wird. <br> <br> Im ersten Fall handelt es sich um eine Scheinehe, die s=
+ie geschieden haben m&#246;chte. <br> <br> Im zweiten Fall handelt es sich =
+um eine Scheinehe, die ich geschieden haben m&#246;chte. <br> <br> Was ich =
+Euch nicht nur &#34;zur Anzeige&#34; bringen m&#246;chte. <br> <br> P.P.S.:=
+ <br> <br> Gibt es au&#223;erdem Nachrichten zu Joel und Mariannes laufende=
+r/gelaufener Scheidung? <br> <br> Und nein, damit meine ich nicht meine Ema=
+il an Joel vom 11.5.2017 mit vielleicht zu anspielungsreichem Betreff: &#34=
+;Vermittlung, hallo?&#34;, in der es u.a. um die Scheinhaftigkeit von Sch&#=
+246;nheit ging, vor dem Hintergrund meines Telefonates mit Joel aber auch u=
+m &#34;Vermittlung&#34; als eine ungl&#252;ckliche Bezeichnung f&#252;r mei=
+nen Zusammenhang mit Psychiatrie, insofern ich zu vermitteln h&#228;tte zwi=
+schen den Anspr&#252;chen von Mitpatienten und den Anspr&#252;chen von Fami=
+lienmitgliedern, als den bekundeten Interessen beider Parteien, deren Anspr=
+&#252;che sich sowohl hinsichtlich ihrer Rechtskraft als auch hinsichtlich =
+ihrer Rechtsform unterscheiden, aber nicht nur hinsichtlich Rechtskraft und=
+ Rechtsform. Was die Rechtsfrage der Vertreterschaft von Anspr&#252;chen an=
+geht, geht auch den Inhalt meines Anspruches auf Sicherheit und Geborgenhei=
+t und Verbindlichkeit hinsichtlich der Scheinhaftigkeit von Gesellschaft an=
+, und somit nicht nur Euch, weil ich Behandlungsfehler nicht zu vertreten h=
+abe und auch keine Behandlungsfehler gegen&#252;ber Euch. <br> <br> <br> --=
+&#160;<br> Mailzeitung Posth&#246;rnchen. <br> Fake News mitten an das Lebe=
+n. <br> <br></blockquote><br></blockquote>--&#160;<br> Mailzeitung Posth&#2=
+46;rnchen. <br> Fake News mitten an das Leben. <br> <br></blockquote><br> <=
+br></blockquote></blockquote><br> <br></blockquote></blockquote></body></ht=
+ml>
+=20
+
+
+
