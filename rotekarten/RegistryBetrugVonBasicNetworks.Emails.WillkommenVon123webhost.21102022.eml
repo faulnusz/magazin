@@ -1,0 +1,339 @@
+Return-Path: <support@123-web-host.com>
+Delivered-To: post.hoernchen@mail.de
+Received: from director01 ([10.0.121.146])
+	by dovecot12 with LMTP id aOkhI6fUUmOPSAAAJesNpQ
+	for <post.hoernchen@mail.de>; Fri, 21 Oct 2022 19:19:35 +0200
+Received: from localhost ([10.0.121.146])
+	by director01 with LMTP id UB/wIqfUUmMuNwAASyX6IQ
+	; Fri, 21 Oct 2022 19:19:35 +0200
+X-Original-To: chercheling@e.mail.de
+Received: from basicnetworks.net (unknown [206.221.191.140])
+	by mxpostfix02.mail.de (Postfix) with ESMTP id 70E9380092
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:19:34 +0200 (CEST)
+Authentication-Results: mxpostfix02.mail.de;
+	dkim=pass (2048-bit key; unprotected) header.d=basicnetworks.net header.i=@basicnetworks.net header.b="ggRHce7q";
+	dkim-atps=neutral
+Received: from [206.221.191.140] (helo=basicnetworks.net)
+	by mx02.mail.de with ESMTPS (eXpurgate 4.42.0)
+	(envelope-from <support@123-web-host.com>)
+	id 6352d4a5-069e-0a0078ca0019-ceddbf8ca2f3-3
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:19:33 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=basicnetworks.net; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=MxHJL8c0eZXRyRFdWCyIrrJE0h6XwsN0hQr3ddbHrlM=; b=ggRHce7qlA0uDvCSc97qGvBC5N
+	xFeyIfYTk27kuoJJrBn/V13bVoQjf4AVFtxNTq3wymKgikODBYGtxkBYXMOFoONmdSZmNmUU2W9Il
+	UddzW3UR2tOn7xzYEBG6rxj7Tdsot3jGTZp1TLTc/x+Pu6Z/JZ4vFA2t+FBXidMmxZP0SxzCAjHqL
+	2TGluTK5iVsFUqPD+kvBXm8CehztVQsQFlFqu5HvY9oTS/AT5IO+YL3WInluL3f3No0jypcY3JT5s
+	ryjDiInoExI8MfoPeg1pFutzs2bBN4i9kKJk8Ob4jjBmlJ6GHtRscQKMnVPRj87JRg85DTzBuysKr
+	6Y8mfy2Q==;
+Received: from bnc by secure.basicnetworks.net with local (Exim 4.95)
+	(envelope-from <support@123-web-host.com>)
+	id 1olvgC-0007e7-K0
+	for chercheling@e.mail.de;
+	Fri, 21 Oct 2022 13:19:32 -0400
+To: "Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften)" <chercheling@e.mail.de>
+Subject: Willkommen! Ihr neues 123 cPanel Hosting Konto
+X-PHP-Script: basicnetworks.net/accounts/modules/gateways/callback/paypalbilling.php for 212.110.204.144
+X-PHP-Originating-Script: 1005:class.phpmailer.php
+Date: Fri, 21 Oct 2022 13:19:32 -0400
+From: 123-Web-Host <support@123-web-host.com>
+Message-ID: <2f11063ce64c61bcd285f0c68f0b1e96@basicnetworks.net>
+X-Mailer: BASIC Networks Corp.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2f11063ce64c61bcd285f0c68f0b1e96"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - secure.basicnetworks.net
+X-AntiAbuse: Original Domain - e.mail.de
+X-AntiAbuse: Originator/Caller UID/GID - [1005 995] / [47 12]
+X-AntiAbuse: Sender Address Domain - 123-web-host.com
+X-Get-Message-Sender-Via: secure.basicnetworks.net: authenticated_id: bnc/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: secure.basicnetworks.net: bnc
+X-Source: 
+X-Source-Args: php-fpm: pool basicnetworks_net                          
+X-Source-Dir: basicnetworks.net:/public_html/accounts/modules/gateways/callback
+X-purgate-ID: 153031::1666372774-A4E61BF2-E7D51B16/0/0
+X-purgate-type: clean
+X-purgate-size: 14256
+X-purgate-Ad: Categorized by eleven eXpurgate (R) http://www.eleven.de
+X-purgate: clean
+
+This is a multi-part message in MIME format.
+
+--b1_2f11063ce64c61bcd285f0c68f0b1e96
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Liebe/r Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften),
+
+
+Ihr cPanel Hosting Konto ist für Sie bereit. Herzlich willkommen bei 123-Web-Host!
+
+
+Bitte machen Sie ein entsprechendes Update der Nameserver ihrer Domain (falls Sie diese Domain schon vorher registriert war und nicht gerade eben zusammen mit dem Hosting Plan bestellt wurde):
+
+
+
+
+
+ 
+
+ns1.eu-server.net
+ns2.eu-server.net
+
+
+
+
+
+
+Natürlich können Sie sich in das cPanel Hosting Kontrollpanel Ihres Hosting-Kontos direkt einloggen: wir schlagen vor Sie speichern (bookmark) einfach die Login URL und schreiben sich den BENUTZERNAMEN und das PASSWORT auf. 
+
+Sie können sich über den SSL-gesicherten Server Hostname hier einloggen (Port 2083):
+
+
+
+
+
+ 
+
+https://secure.eu-server.net:2083
+
+
+oder hier via IP:
+
+
+http://212.72.165.66:2082
+
+
+
+
+
+USER/BENUTZER:
+posthoer
+
+
+PASSWORT:
+Fgx.z2n*MJO078
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+Die FTP Login Details (Benutzername und Passwort) sind identisch mit den Login Details für Ihr cPanel Kontrollpanel. Benutzen Sie den Domainnamen als HOSTNAME. 
+
+Die Softaculous und Fantastico Script Installer sind bereits installiert und von innerhalb Ihres cPanel Hosting Kontrollpanels erreichbar.
+
+
+ 
+
+
+FREIE Homepage Vorlagen, die Sie gern runterladen und benutzen dürfen (ein kleines Extra von uns für Sie):
+-----------------------------------------------
+Download link: http://TopTemplatesKit.com/177694.html
+-----------------------------------------------
+
+
+
+
+cPanel Benutzerhandbuch / USER GUIDE/s (leider derzeit nur in Englisch und Spanisch): 
+https://documentation.cpanel.net
+
+
+Falls Sie irgendwelche Fragen zu Ihrem Hosting-Konto haben, bitte benutzen Sie immer unser SUPPORT-ANFRAGE Formular:
+http://123-web-host.de/supportform.html
+oder hier:
+https://basicnetworks.net/supportform.html
+Für *allgemeine* Fragen, oder Fragen betreffs Domainnamen-Registrierung, emailen Sie uns: 
+support@123-web-host.de
+
+Ihre Rechnungsdaten finden Sie hier, und hier können Sie auch Domains managen, falls Sie diese durch uns registriert haben:
+https://basicnetworks.net/accounts/clientarea.php?language=German
+
+ Vielen Dank!
+Und nochmals herzlich willkommen bei 123-Web-Host and BASIC Networks!
+
+Konten Aktivierungs Team
+123 Kunden-Service
+E-mails: support@123-web-host.de und support@123-web-host.com
+Webseiten: http://123-Web-Host.de und http://123-Web-Host.com
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+--b1_2f11063ce64c61bcd285f0c68f0b1e96
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dutf-8" />=0A        <meta name=3D"viewpor=
+t" content=3D"width=3Ddevice-width, initial-scale=3D1, maximum-scale=3D1, u=
+ser-scalable=3Dno">=0A        <style type=3D"text/css">=0A            .Exte=
+rnalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.External=
+Class span,.ExternalClass td,h1,img{line-height:100%}h1,h2{display:block;fo=
+nt-family:Helvetica;font-style:normal;font-weight:700}#outlook a{padding:0}=
+.ExternalClass,.ReadMsgBody{width:100%}a,blockquote,body,li,p,table,td{-web=
+kit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspa=
+ce:0;mso-table-rspace:0}img{-ms-interpolation-mode:bicubic;border:0;height:=
+auto;outline:0;text-decoration:none}table{border-collapse:collapse!importan=
+t}#bodyCell,#bodyTable,body{height:100%!important;margin:0;padding:0;width:=
+100%!important}#bodyCell{padding:20px;}#templateContainer{width:600px;borde=
+r:1px solid #ddd;background-color:#fff}#bodyTable,body{background-color:#FA=
+FAFA}h1{color:#202020!important;font-size:26px;letter-spacing:normal;text-a=
+lign:left;margin:0 0 10px}h2{color:#404040!important;font-size:20px;line-he=
+ight:100%;letter-spacing:normal;text-align:left;margin:0 0 10px}h3,h4{displ=
+ay:block;font-style:italic;font-weight:400;letter-spacing:normal;text-align=
+:left;margin:0 0 10px;font-family:Helvetica;line-height:100%}h3{color:#6060=
+60!important;font-size:16px}h4{color:grey!important;font-size:14px}.headerC=
+ontent{background-color:#f8f8f8;border-bottom:1px solid #ddd;color:#505050;=
+font-family:Helvetica;font-size:20px;font-weight:700;line-height:100%;text-=
+align:left;vertical-align:middle;padding:0}.bodyContent,.footerContent{font=
+-family:Helvetica;line-height:150%;text-align:left;}.footerContent{text-ali=
+gn:center}.bodyContent pre{padding:15px;background-color:#444;color:#f8f8f8=
+;border:0}.bodyContent pre code{white-space:pre;word-break:normal;word-wrap=
+:normal}.bodyContent table{margin:10px 0;background-color:#fff;border:1px s=
+olid #ddd}.bodyContent table th{padding:4px 10px;background-color:#f8f8f8;b=
+order:1px solid #ddd;font-weight:700;text-align:center}.bodyContent table t=
+d{padding:3px 8px;border:1px solid #ddd}.table-responsive{border:0}.bodyCon=
+tent a{word-break:break-all}.headerContent a .yshortcuts,.headerContent a:l=
+ink,.headerContent a:visited{color:#1f5d8c;font-weight:400;text-decoration:=
+underline}#headerImage{height:auto;max-width:600px;padding:20px}#templateBo=
+dy{background-color:#fff}.bodyContent{color:#505050;font-size:14px;padding:=
+20px}.bodyContent a .yshortcuts,.bodyContent a:link,.bodyContent a:visited{=
+color:#1f5d8c;font-weight:400;text-decoration:underline}.bodyContent a:hove=
+r{text-decoration:none}.bodyContent img{display:inline;height:auto;max-widt=
+h:560px}.footerContent{color:grey;font-size:12px;padding:20px}.footerConten=
+t a .yshortcuts,.footerContent a span,.footerContent a:link,.footerContent =
+a:visited{color:#606060;font-weight:400;text-decoration:underline}@media on=
+ly screen and (max-width:640px){h1,h2,h3,h4{line-height:100%!important}#tem=
+plateContainer{max-width:600px!important;width:100%!important}#templateCont=
+ainer,body{width:100%!important}a,blockquote,body,li,p,table,td{-webkit-tex=
+t-size-adjust:none!important}body{min-width:100%!important}#bodyCell{paddin=
+g:10px!important}h1{font-size:24px!important}h2{font-size:20px!important}h3=
+{font-size:18px!important}h4{font-size:16px!important}#templatePreheader{di=
+splay:none!important}.headerContent{font-size:20px!important;line-height:12=
+5%!important}.footerContent{font-size:14px!important;line-height:115%!impor=
+tant}.footerContent a{display:block!important}.hide-mobile{display:none;}}=
+=0A        </style>=0A    </head>=0A    <body leftmargin=3D"0" marginwidth=
+=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0">=0A        <center>=
+=0A            <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">=0A           =
+     <tr>=0A                    <td align=3D"center" valign=3D"top" id=3D"b=
+odyCell">=0A                        <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateContainer">=0A                            <t=
+r>=0A                                <td align=3D"center" valign=3D"top">=
+=0A                                    <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" id=3D"templateHeader">=0A               =
+                         <tr>=0A                                           =
+ <td valign=3D"top" class=3D"headerContent">=0A                            =
+                    <a href=3D"https://basicnetworks.net">=0A              =
+                                      <img src=3D"https://basicnetworks.net=
+/logo.gif" style=3D"max-width:600px;padding:20px" id=3D"headerImage" alt=3D=
+"BASIC Networks Corp." />=0A                                            </t=
+d>=0A                                        </tr>=0A                      =
+              </table>=0A                                </td>=0A          =
+                  </tr>=0A                            <tr>=0A              =
+                  <td align=3D"center" valign=3D"top">=0A                  =
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" id=3D"templateBody">=0A                                      =
+  <tr>=0A                                            <td valign=3D"top" cla=
+ss=3D"bodyContent">=0A<!-- message header end --><p>Liebe/r Joachim Schneid=
+er (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften),=
+</p>=0A<p>Ihr cPanel Hosting Konto ist f=C3=BCr Sie bereit. Herzlich willko=
+mmen bei 123-Web-Host!</p>=0A<p>Bitte machen Sie ein entsprechendes Update =
+der Nameserver ihrer Domain (falls Sie diese Domain schon vorher registrier=
+t war und nicht gerade eben zusammen mit dem Hosting Plan bestellt wurde):<=
+/p>=0A<table style=3D"height: 24px; width: 198px;" border=3D"0">=0A<tbody>=
+=0A<tr>=0A<td>=C2=A0</td>=0A<td>=0A<p>ns1.eu-server.net<br />ns2.eu-server.=
+net</p>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<p>Nat=C3=BCrlich k=C3=
+=B6nnen Sie sich in das cPanel Hosting Kontrollpanel Ihres Hosting-Kontos d=
+irekt einloggen: wir schlagen vor Sie speichern (bookmark) einfach die Logi=
+n URL und schreiben sich den BENUTZERNAMEN und das PASSWORT auf. <br /><br =
+/>Sie k=C3=B6nnen sich =C3=BCber den SSL-gesicherten Server Hostname hier e=
+inloggen (Port 2083):</p>=0A<table style=3D"height: 82px; width: 439px;" bo=
+rder=3D"0">=0A<tbody>=0A<tr>=0A<td>=C2=A0</td>=0A<td>=0A<p>https://secure.e=
+u-server.net:2083</p>=0A<p>oder hier via IP:</p>=0A<p>http://212.72.165.66:=
+2082</p>=0A<table style=3D"height: 42px; width: 276px;" border=3D"0">=0A<tb=
+ody>=0A<tr>=0A<td>USER/BENUTZER:</td>=0A<td>posthoer</td>=0A</tr>=0A<tr>=0A=
+<td>PASSWORT:</td>=0A<td>Fgx.z2n*MJO078</td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"height: 17px; width: 14px;" border=3D"0">=0A<tbody>=0A<t=
+r>=0A<td>=C2=A0</td>=0A<td>=C2=A0</td>=0A</tr>=0A</tbody>=0A</table>=0A</td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<p>Die FTP Login Details (Benutzername un=
+d Passwort) sind identisch mit den Login Details f=C3=BCr Ihr cPanel Kontro=
+llpanel. Benutzen Sie den Domainnamen als HOSTNAME. <br /><br />Die Softacu=
+lous und Fantastico Script Installer sind bereits installiert und von inner=
+halb Ihres cPanel Hosting Kontrollpanels erreichbar.</p>=0A<p>=C2=A0</p>=0A=
+<p>FREIE Homepage Vorlagen, die Sie gern runterladen und benutzen d=C3=
+=BCrfen (ein kleines Extra von uns f=C3=BCr Sie):<br />--------------------=
+---------------------------<br />Download link: http://TopTemplatesKit.com/=
+177694.html<br />-----------------------------------------------<br /><br /=
+></p>=0A<p>cPanel Benutzerhandbuch / USER GUIDE/s (leider derzeit nur in En=
+glisch und Spanisch): <br />https://documentation.cpanel.net</p>=0A<p>Falls=
+ Sie irgendwelche Fragen zu Ihrem Hosting-Konto haben, bitte benutzen Sie i=
+mmer unser SUPPORT-ANFRAGE Formular:<br />http://123-web-host.de/supportfor=
+m.html<br />oder hier:<br />https://basicnetworks.net/supportform.html<br /=
+>F=C3=BCr *allgemeine* Fragen, oder Fragen betreffs Domainnamen-Registrieru=
+ng, emailen Sie uns: <br />support@123-web-host.de<br /><br />Ihre Rechnung=
+sdaten finden Sie hier, und hier k=C3=B6nnen Sie auch Domains managen, fall=
+s Sie diese durch uns registriert haben:<br />https://basicnetworks.net/acc=
+ounts/clientarea.php?language=3DGerman<br /><br /> Vielen Dank!<br />Und no=
+chmals herzlich willkommen bei 123-Web-Host and BASIC Networks!<br /><br />=
+Konten Aktivierungs Team<br />123 Kunden-Service<br />E-mails: support@123-=
+web-host.de und support@123-web-host.com<br />Webseiten: http://123-Web-Hos=
+t.de und http://123-Web-Host.com</p>=0A<p>=C2=A0</p>=0A<div class=3D"itanyw=
+here-activator" style=3D"left: 3px; top: 155px; display: none;" title=3D"Go=
+ogle Translator Anywhere">=C2=A0</div>=0A<div class=3D"itanywhere-activator=
+" style=3D"left: 31px; top: 203px; display: none;" title=3D"Google Translat=
+or Anywhere">=C2=A0</div>=0A<div class=3D"itanywhere-activator" style=3D"le=
+ft: 35px; top: 402px; display: none;" title=3D"Google Translator Anywhere">=
+=C2=A0</div>=0A<div class=3D"itanywhere-activator" style=3D"left: 5px; top:=
+ 474px; display: none;" title=3D"Google Translator Anywhere">=C2=A0</div><!=
+-- message footer start -->=0A</td>=0A                                     =
+   </tr>=0A                                    </table>=0A                 =
+               </td>=0A                            </tr>=0A                =
+            <tr>=0A                                <td align=3D"center" val=
+ign=3D"top">=0A                                    <table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templateFooter">=0A   =
+                                     <tr>=0A                               =
+             <td valign=3D"top" class=3D"footerContent">=0A                =
+                                 <a href=3D"https://basicnetworks.net">BASI=
+C Networks</a>=0A                                                <span clas=
+s=3D"hide-mobile"> | </span>=0A                                            =
+    <a href=3D"https://basicnetworks.net/accounts/clientarea.php">Login</a>=
+=0A                                                <span class=3D"hide-mobi=
+le"> | </span>=0A                                                <a href=3D=
+"https://basicnetworks.net/accounts/submitticket.php">Support</a> <br />=0A=
+                                                Copyright =C2=A9 BASIC Netw=
+orks Corp., All rights reserved.=0A                                        =
+    </td>=0A                                        </tr>=0A               =
+                     </table>=0A                                </td>=0A   =
+                         </tr>=0A                        </table>=0A       =
+             </td>=0A                </tr>=0A            </table>=0A       =
+ </center>=0A    </body>=0A</html>
+
+
+--b1_2f11063ce64c61bcd285f0c68f0b1e96--
+

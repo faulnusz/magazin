@@ -1,0 +1,237 @@
+Return-Path: <support@basicnetworks.net>
+Delivered-To: post.hoernchen@mail.de
+Received: from director02 ([10.0.121.146])
+	by dovecot12 with LMTP id gOPzB6vUUmPOUAAAJesNpQ
+	for <post.hoernchen@mail.de>; Fri, 21 Oct 2022 19:19:39 +0200
+Received: from localhost ([10.0.121.146])
+	by director02 with LMTP id yIbCB6vUUmNhZwAAvSMxcg
+	; Fri, 21 Oct 2022 19:19:39 +0200
+X-Original-To: chercheling@e.mail.de
+Received: from basicnetworks.net (unknown [206.221.191.140])
+	by mxpostfix02.mail.de (Postfix) with ESMTP id 0172680129
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:19:38 +0200 (CEST)
+Authentication-Results: mxpostfix02.mail.de;
+	dkim=pass (2048-bit key; unprotected) header.d=basicnetworks.net header.i=@basicnetworks.net header.b="ZcCuXsj4";
+	dkim-atps=neutral
+Received: from [206.221.191.140] (helo=basicnetworks.net)
+	by mx02.mail.de with ESMTPS (eXpurgate 4.42.0)
+	(envelope-from <support@basicnetworks.net>)
+	id 6352d4aa-069e-0a0078ca0019-ceddbf8cea7d-3
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:19:38 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=basicnetworks.net; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=Ni1VoMmcndh79sefxJFgZnwaI+0bSHAdWTvj4vQIksA=; b=ZcCuXsj4a2QdUfoNH3wQBMWSxr
+	bQgg8q1KbU//d3D2cYlas1C+NSuXuTdnm+yO1aqYFdC+Zd7qajnMubLCrTszFwAZ9eElDC+yu6bMM
+	G3z6O0V5kRql1L6YWqwqBRUSVKkpcwN0vzzSL3STEZ91nTu3qkmDisFJ3ysB/YUIb5rjeqXUxaQd5
+	teO0X5aIBEM9T8dY2OZNlm9/o/ytgp33c3jDPszTw//O528zh+CSGgTYkN2Su16mURcDNz5Ury846
+	NeCTmyY4Zx+Yskm1GWQ5PLXdchdo4gx3N7XnsAwHCSv4oPu8g9OZxebHzB3mPEiS36bC0fCnxVpgi
+	qlXYcvPg==;
+Received: from bnc by secure.basicnetworks.net with local (Exim 4.95)
+	(envelope-from <support@basicnetworks.net>)
+	id 1olvgH-0007eP-9q
+	for chercheling@e.mail.de;
+	Fri, 21 Oct 2022 13:19:37 -0400
+To: "Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften)" <chercheling@e.mail.de>
+Subject: Ihre Domain Registrierung
+X-PHP-Script: basicnetworks.net/accounts/modules/gateways/callback/paypalbilling.php for 212.110.204.144
+X-PHP-Originating-Script: 1005:class.phpmailer.php
+Date: Fri, 21 Oct 2022 13:19:37 -0400
+From: BASIC Networks <support@basicnetworks.net>
+Message-ID: <a7358a6853129c5aed3ecd431f73b847@basicnetworks.net>
+X-Mailer: BASIC Networks Corp.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a7358a6853129c5aed3ecd431f73b847"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - secure.basicnetworks.net
+X-AntiAbuse: Original Domain - e.mail.de
+X-AntiAbuse: Originator/Caller UID/GID - [1005 995] / [47 12]
+X-AntiAbuse: Sender Address Domain - basicnetworks.net
+X-Get-Message-Sender-Via: secure.basicnetworks.net: authenticated_id: bnc/from_h
+X-Authenticated-Sender: secure.basicnetworks.net: support@basicnetworks.net
+X-Source: 
+X-Source-Args: php-fpm: pool basicnetworks_net                          
+X-Source-Dir: basicnetworks.net:/public_html/accounts/modules/gateways/callback
+X-purgate-ID: 153031::1666372778-FBFFDBF2-A211B715/0/0
+X-purgate-type: clean
+X-purgate-size: 11187
+X-purgate-Ad: Categorized by eleven eXpurgate (R) http://www.eleven.de
+X-purgate: clean
+
+This is a multi-part message in MIME format.
+
+--b1_a7358a6853129c5aed3ecd431f73b847
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Lieber Kunde, Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften),
+
+
+Sie erhalten diese Email, weil Sie gerade erfolgreich einen (oder mehrere) Domainnamen mit uns registriert haben. Hier die Einzelheiten:
+
+
+Datum der Registrierung: 10/21/2022
+Domainname: posthoernchenklackern.de
+Laufzeit der Registrierung: 1 Jahr(e)
+Rechnungsbetrag: £8.99
+Verlängerungsdatum: 10/21/2023
+
+
+Sie können alle Aspekte Ihrer Domain managen, indem Sie sich in unseren KONTO- UND ADMIN-GATEWAY einloggen:
+https://basicnetworks.net/accounts/clientarea.php?language=German
+
+W I C H T I G :
+Seit Januar 2014 gibt es eine neue ICANN-Regel, welche alle Domain-Inhaber dazu verpflichtet nach einer Domain-Registrierung oder einem Domain-Transfer diese/n zu BESTÄTIGEN. Kurz nach der Anmeldung oder dem Transfer erhalten Sie eine E-mail, die eine Bestätigungs-URL enthält. Auf diese müssen Sie als Bestätigung klicken. Sie haben 14 Tage lang Zeit dies zu tun. Ansonsten wird wegen dieser ICANN-Regel die Registrierung wieder aufgehoben werden (in diesem Fall gibt es keine Erstattung und keinen Rechtsanspruch auf den Namen, den Sie zu registrieren versucht haben). 
+
+Support Formular: https://basicnetworks.net/supportform.html
+
+
+ 
+
+
+Vielen Dank!
+
+
+_______________________________
+𝗕𝗔𝗦𝗜𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗖𝗼𝗿𝗽.
+Home:    https://basicnetworks.net
+
+
+ 
+
+
+--b1_a7358a6853129c5aed3ecd431f73b847
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dutf-8" />=0A        <meta name=3D"viewpor=
+t" content=3D"width=3Ddevice-width, initial-scale=3D1, maximum-scale=3D1, u=
+ser-scalable=3Dno">=0A        <style type=3D"text/css">=0A            .Exte=
+rnalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.External=
+Class span,.ExternalClass td,h1,img{line-height:100%}h1,h2{display:block;fo=
+nt-family:Helvetica;font-style:normal;font-weight:700}#outlook a{padding:0}=
+.ExternalClass,.ReadMsgBody{width:100%}a,blockquote,body,li,p,table,td{-web=
+kit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspa=
+ce:0;mso-table-rspace:0}img{-ms-interpolation-mode:bicubic;border:0;height:=
+auto;outline:0;text-decoration:none}table{border-collapse:collapse!importan=
+t}#bodyCell,#bodyTable,body{height:100%!important;margin:0;padding:0;width:=
+100%!important}#bodyCell{padding:20px;}#templateContainer{width:600px;borde=
+r:1px solid #ddd;background-color:#fff}#bodyTable,body{background-color:#FA=
+FAFA}h1{color:#202020!important;font-size:26px;letter-spacing:normal;text-a=
+lign:left;margin:0 0 10px}h2{color:#404040!important;font-size:20px;line-he=
+ight:100%;letter-spacing:normal;text-align:left;margin:0 0 10px}h3,h4{displ=
+ay:block;font-style:italic;font-weight:400;letter-spacing:normal;text-align=
+:left;margin:0 0 10px;font-family:Helvetica;line-height:100%}h3{color:#6060=
+60!important;font-size:16px}h4{color:grey!important;font-size:14px}.headerC=
+ontent{background-color:#f8f8f8;border-bottom:1px solid #ddd;color:#505050;=
+font-family:Helvetica;font-size:20px;font-weight:700;line-height:100%;text-=
+align:left;vertical-align:middle;padding:0}.bodyContent,.footerContent{font=
+-family:Helvetica;line-height:150%;text-align:left;}.footerContent{text-ali=
+gn:center}.bodyContent pre{padding:15px;background-color:#444;color:#f8f8f8=
+;border:0}.bodyContent pre code{white-space:pre;word-break:normal;word-wrap=
+:normal}.bodyContent table{margin:10px 0;background-color:#fff;border:1px s=
+olid #ddd}.bodyContent table th{padding:4px 10px;background-color:#f8f8f8;b=
+order:1px solid #ddd;font-weight:700;text-align:center}.bodyContent table t=
+d{padding:3px 8px;border:1px solid #ddd}.table-responsive{border:0}.bodyCon=
+tent a{word-break:break-all}.headerContent a .yshortcuts,.headerContent a:l=
+ink,.headerContent a:visited{color:#1f5d8c;font-weight:400;text-decoration:=
+underline}#headerImage{height:auto;max-width:600px;padding:20px}#templateBo=
+dy{background-color:#fff}.bodyContent{color:#505050;font-size:14px;padding:=
+20px}.bodyContent a .yshortcuts,.bodyContent a:link,.bodyContent a:visited{=
+color:#1f5d8c;font-weight:400;text-decoration:underline}.bodyContent a:hove=
+r{text-decoration:none}.bodyContent img{display:inline;height:auto;max-widt=
+h:560px}.footerContent{color:grey;font-size:12px;padding:20px}.footerConten=
+t a .yshortcuts,.footerContent a span,.footerContent a:link,.footerContent =
+a:visited{color:#606060;font-weight:400;text-decoration:underline}@media on=
+ly screen and (max-width:640px){h1,h2,h3,h4{line-height:100%!important}#tem=
+plateContainer{max-width:600px!important;width:100%!important}#templateCont=
+ainer,body{width:100%!important}a,blockquote,body,li,p,table,td{-webkit-tex=
+t-size-adjust:none!important}body{min-width:100%!important}#bodyCell{paddin=
+g:10px!important}h1{font-size:24px!important}h2{font-size:20px!important}h3=
+{font-size:18px!important}h4{font-size:16px!important}#templatePreheader{di=
+splay:none!important}.headerContent{font-size:20px!important;line-height:12=
+5%!important}.footerContent{font-size:14px!important;line-height:115%!impor=
+tant}.footerContent a{display:block!important}.hide-mobile{display:none;}}=
+=0A        </style>=0A    </head>=0A    <body leftmargin=3D"0" marginwidth=
+=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0">=0A        <center>=
+=0A            <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">=0A           =
+     <tr>=0A                    <td align=3D"center" valign=3D"top" id=3D"b=
+odyCell">=0A                        <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateContainer">=0A                            <t=
+r>=0A                                <td align=3D"center" valign=3D"top">=
+=0A                                    <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" id=3D"templateHeader">=0A               =
+                         <tr>=0A                                           =
+ <td valign=3D"top" class=3D"headerContent">=0A                            =
+                    <a href=3D"https://basicnetworks.net">=0A              =
+                                      <img src=3D"https://basicnetworks.net=
+/logo.gif" style=3D"max-width:600px;padding:20px" id=3D"headerImage" alt=3D=
+"BASIC Networks Corp." />=0A                                            </t=
+d>=0A                                        </tr>=0A                      =
+              </table>=0A                                </td>=0A          =
+                  </tr>=0A                            <tr>=0A              =
+                  <td align=3D"center" valign=3D"top">=0A                  =
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" id=3D"templateBody">=0A                                      =
+  <tr>=0A                                            <td valign=3D"top" cla=
+ss=3D"bodyContent">=0A<!-- message header end --><p>Lieber Kunde, Joachim S=
+chneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtscha=
+ften),</p>=0A<p>Sie erhalten diese Email, weil Sie gerade erfolgreich einen=
+ (oder mehrere) Domainnamen mit uns registriert haben. Hier die Einzelheite=
+n:</p>=0A<p>Datum der Registrierung: 10/21/2022<br />Domainname: posthoernc=
+henklackern.de<br />Laufzeit der Registrierung: 1 Jahr(e)<br />Rechnungsbet=
+rag: =C2=A38.99<br />Verl=C3=A4ngerungsdatum: 10/21/2023</p>=0A<p>Sie k=
+=C3=B6nnen alle Aspekte Ihrer Domain managen, indem Sie sich in unseren KON=
+TO- UND ADMIN-GATEWAY einloggen:<br />https://basicnetworks.net/accounts/cl=
+ientarea.php?language=3DGerman<br /><br />W I C H T I G :<br />Seit Januar =
+2014 gibt es eine neue ICANN-Regel, welche alle Domain-Inhaber dazu verpfli=
+chtet nach einer Domain-Registrierung oder einem Domain-Transfer diese/n zu=
+ BEST=C3=84TIGEN. Kurz nach der Anmeldung oder dem Transfer erhalten Sie ei=
+ne E-mail, die eine Best=C3=A4tigungs-URL enth=C3=A4lt. Auf diese m=C3=
+=BCssen Sie als Best=C3=A4tigung klicken. Sie haben 14 Tage lang Zeit dies =
+zu tun. Ansonsten wird wegen dieser ICANN-Regel die Registrierung wieder au=
+fgehoben werden (in diesem Fall gibt es keine Erstattung und keinen Rechtsa=
+nspruch auf den Namen, den Sie zu registrieren versucht haben).=C2=A0<br />=
+<br />Support Formular: https://basicnetworks.net/supportform.html</p>=0A<p=
+>=C2=A0</p>=0A<p>Vielen Dank!</p>=0A<p>_______________________________<br /=
+>
+=F0=9D=97=95=F0=9D=97=94=F0=9D=97=A6=F0=9D=97=9C=F0=9D=97=96 =F0=9D=97=
+=A1=F0=9D=97=B2=F0=9D=98=81=F0=9D=98=84=F0=9D=97=BC=F0=9D=97=BF=F0=9D=97=
+=B8=F0=9D=98=80 =F0=9D=97=96=F0=9D=97=BC=F0=9D=97=BF=F0=9D=97=BD.<br />
+Home:    https://basicnetworks.net</p>=0A<div class=3D"itanywhere-activator=
+" style=3D"left: 109px; top: 213px; display: none;" title=3D"Google Transla=
+tor Anywhere">=C2=A0</div><!-- message footer start -->=0A</td>=0A         =
+                               </tr>=0A                                    =
+</table>=0A                                </td>=0A                        =
+    </tr>=0A                            <tr>=0A                            =
+    <td align=3D"center" valign=3D"top">=0A                                =
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+id=3D"templateFooter">=0A                                        <tr>=0A   =
+                                         <td valign=3D"top" class=3D"footer=
+Content">=0A                                                 <a href=3D"htt=
+ps://basicnetworks.net">BASIC Networks</a>=0A                              =
+                  <span class=3D"hide-mobile"> | </span>=0A                =
+                                <a href=3D"https://basicnetworks.net/accoun=
+ts/clientarea.php">Login</a>=0A                                            =
+    <span class=3D"hide-mobile"> | </span>=0A                              =
+                  <a href=3D"https://basicnetworks.net/accounts/submitticke=
+t.php">Support</a> <br />=0A                                               =
+ Copyright =C2=A9 BASIC Networks Corp., All rights reserved.=0A            =
+                                </td>=0A                                   =
+     </tr>=0A                                    </table>=0A               =
+                 </td>=0A                            </tr>=0A              =
+          </table>=0A                    </td>=0A                </tr>=0A  =
+          </table>=0A        </center>=0A    </body>=0A</html>
+
+
+--b1_a7358a6853129c5aed3ecd431f73b847--
+

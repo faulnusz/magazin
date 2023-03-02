@@ -1,0 +1,233 @@
+Return-Path: <support@basicnetworks.net>
+Delivered-To: post.hoernchen@mail.de
+Received: from director01 ([10.0.121.147])
+	by dovecot12 with LMTP id ONx7H6rRUmNcLQAAJesNpQ
+	for <post.hoernchen@mail.de>; Fri, 21 Oct 2022 19:06:50 +0200
+Received: from localhost ([10.0.121.147])
+	by director01 with LMTP id 2PUmH6rRUmOKXQAASyX6IQ
+	; Fri, 21 Oct 2022 19:06:50 +0200
+X-Original-To: chercheling@e.mail.de
+Received: from basicnetworks.net (unknown [206.221.191.140])
+	by mxpostfix03.mail.de (Postfix) with ESMTP id 61F61801D6
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:06:50 +0200 (CEST)
+Authentication-Results: mxpostfix03.mail.de;
+	dkim=pass (2048-bit key; unprotected) header.d=basicnetworks.net header.i=@basicnetworks.net header.b="ZZQ6fRVj";
+	dkim-atps=neutral
+Received: from [206.221.191.140] (helo=basicnetworks.net)
+	by mx03.mail.de with ESMTPS (eXpurgate 4.42.0)
+	(envelope-from <support@basicnetworks.net>)
+	id 6352d1a9-1b72-0a0078cb0019-ceddbf8ce421-3
+	for <chercheling@e.mail.de>; Fri, 21 Oct 2022 19:06:50 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=basicnetworks.net; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=NvG6bzvod77LjifaPPX5H7wh34aZsi6txIojFpVTMAs=; b=ZZQ6fRVjNVw/UoOcpmAQaYtdfl
+	Mh+YgbkZOWQKlDvBnxAYkFHb4kcawXOfHpPlnNqwQKnkXnMroYR9xW3NTqn7h4JCsHR0SZ21ZVAPN
+	pXEZ9HCH6yVXMpAwUL4iWgOUq7ArhgYpCbn7oUEV1EnW7On2jlzXQ8ezkyVJRO00WC/M9N0OfzpAu
+	hpdh0ouGNSN9flN0CA51mEVd8Gfs+L5ypEgFeSJ2lrVSnNh47vt0Sb1z6zBQIveI+5wRf5rbpbimh
+	iKo2KAhYKEmtQw5OCV5DWg/H6DOFFdZwP7Iv7Vy5qoqj7m71gteVLZMwvfBhk6tBFbHRiEmToSqws
+	EH6iaReA==;
+Received: from bnc by secure.basicnetworks.net with local (Exim 4.95)
+	(envelope-from <support@basicnetworks.net>)
+	id 1olvTs-0007QM-Lk
+	for chercheling@e.mail.de;
+	Fri, 21 Oct 2022 13:06:48 -0400
+To: "Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften)" <chercheling@e.mail.de>
+Subject: Ihre Bestellung (Internet Services)
+X-PHP-Script: basicnetworks.net/accounts/cart.php for 212.110.204.144
+X-PHP-Originating-Script: 1005:class.phpmailer.php
+Date: Fri, 21 Oct 2022 13:06:48 -0400
+From: BASIC Networks <support@basicnetworks.net>
+Message-ID: <df57e17696ca9c447302facd03b501d0@basicnetworks.net>
+X-Mailer: BASIC Networks Corp.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_df57e17696ca9c447302facd03b501d0"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - secure.basicnetworks.net
+X-AntiAbuse: Original Domain - e.mail.de
+X-AntiAbuse: Originator/Caller UID/GID - [1005 995] / [47 12]
+X-AntiAbuse: Sender Address Domain - basicnetworks.net
+X-Get-Message-Sender-Via: secure.basicnetworks.net: authenticated_id: bnc/from_h
+X-Authenticated-Sender: secure.basicnetworks.net: support@basicnetworks.net
+X-Source: 
+X-Source-Args: php-fpm: pool basicnetworks_net                          
+X-Source-Dir: basicnetworks.net:/public_html/accounts
+X-purgate-ID: 153031::1666372010-9F7BA61E-63A3CF13/0/0
+X-purgate-type: clean
+X-purgate-size: 10491
+X-purgate-Ad: Categorized by eleven eXpurgate (R) http://www.eleven.de
+X-purgate: clean
+
+This is a multi-part message in MIME format.
+
+--b1_df57e17696ca9c447302facd03b501d0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Liebe/r Joachim Schneider (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften),
+
+
+wir haben Ihre Bestellung erhalten. Vielen Dank!
+
+
+
+Einzelheiten / Service:
+Order Number: 3874189374  Produkte & Dienstleistungen: d - cPanel Starter Hosting (EU-D)
+Domain: posthoernchenklackern.de
+Betrag für die erste Zahlung: £53.00
+Betrag für die Verlängerungsperiode: £53.00
+Verrechnungszyklus: Jährlich
+
+Domainregistrierung: Register
+Domain: posthoernchenklackern.de
+Betrag für die erste Zahlung: £8.99
+Betrag für die Verlängerungsperiode: £8.99
+Registrierungsperiode: 1 Jahr(e)
+ + DNS-Verwaltung
+ + Email-Weiterleitung
+
+Heute fälliger Gesamtbetrag: £61.99   
+
+In Kürze werden wir Ihnen ein weiteres Email mit den entsprechenden Login Details senden. 
+(Falls es sich um eine Hosting oder Server Bestellung handelt, so werden wir Ihnen diese von unserer Sales Seite aus senden.)
+
+Support Formular: https://basicnetworks.net/supportform.html
+
+
+ 
+
+
+_______________________________
+𝗕𝗔𝗦𝗜𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗖𝗼𝗿𝗽.
+Home:    https://basicnetworks.net
+
+
+--b1_df57e17696ca9c447302facd03b501d0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dutf-8" />=0A        <meta name=3D"viewpor=
+t" content=3D"width=3Ddevice-width, initial-scale=3D1, maximum-scale=3D1, u=
+ser-scalable=3Dno">=0A        <style type=3D"text/css">=0A            .Exte=
+rnalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.External=
+Class span,.ExternalClass td,h1,img{line-height:100%}h1,h2{display:block;fo=
+nt-family:Helvetica;font-style:normal;font-weight:700}#outlook a{padding:0}=
+.ExternalClass,.ReadMsgBody{width:100%}a,blockquote,body,li,p,table,td{-web=
+kit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspa=
+ce:0;mso-table-rspace:0}img{-ms-interpolation-mode:bicubic;border:0;height:=
+auto;outline:0;text-decoration:none}table{border-collapse:collapse!importan=
+t}#bodyCell,#bodyTable,body{height:100%!important;margin:0;padding:0;width:=
+100%!important}#bodyCell{padding:20px;}#templateContainer{width:600px;borde=
+r:1px solid #ddd;background-color:#fff}#bodyTable,body{background-color:#FA=
+FAFA}h1{color:#202020!important;font-size:26px;letter-spacing:normal;text-a=
+lign:left;margin:0 0 10px}h2{color:#404040!important;font-size:20px;line-he=
+ight:100%;letter-spacing:normal;text-align:left;margin:0 0 10px}h3,h4{displ=
+ay:block;font-style:italic;font-weight:400;letter-spacing:normal;text-align=
+:left;margin:0 0 10px;font-family:Helvetica;line-height:100%}h3{color:#6060=
+60!important;font-size:16px}h4{color:grey!important;font-size:14px}.headerC=
+ontent{background-color:#f8f8f8;border-bottom:1px solid #ddd;color:#505050;=
+font-family:Helvetica;font-size:20px;font-weight:700;line-height:100%;text-=
+align:left;vertical-align:middle;padding:0}.bodyContent,.footerContent{font=
+-family:Helvetica;line-height:150%;text-align:left;}.footerContent{text-ali=
+gn:center}.bodyContent pre{padding:15px;background-color:#444;color:#f8f8f8=
+;border:0}.bodyContent pre code{white-space:pre;word-break:normal;word-wrap=
+:normal}.bodyContent table{margin:10px 0;background-color:#fff;border:1px s=
+olid #ddd}.bodyContent table th{padding:4px 10px;background-color:#f8f8f8;b=
+order:1px solid #ddd;font-weight:700;text-align:center}.bodyContent table t=
+d{padding:3px 8px;border:1px solid #ddd}.table-responsive{border:0}.bodyCon=
+tent a{word-break:break-all}.headerContent a .yshortcuts,.headerContent a:l=
+ink,.headerContent a:visited{color:#1f5d8c;font-weight:400;text-decoration:=
+underline}#headerImage{height:auto;max-width:600px;padding:20px}#templateBo=
+dy{background-color:#fff}.bodyContent{color:#505050;font-size:14px;padding:=
+20px}.bodyContent a .yshortcuts,.bodyContent a:link,.bodyContent a:visited{=
+color:#1f5d8c;font-weight:400;text-decoration:underline}.bodyContent a:hove=
+r{text-decoration:none}.bodyContent img{display:inline;height:auto;max-widt=
+h:560px}.footerContent{color:grey;font-size:12px;padding:20px}.footerConten=
+t a .yshortcuts,.footerContent a span,.footerContent a:link,.footerContent =
+a:visited{color:#606060;font-weight:400;text-decoration:underline}@media on=
+ly screen and (max-width:640px){h1,h2,h3,h4{line-height:100%!important}#tem=
+plateContainer{max-width:600px!important;width:100%!important}#templateCont=
+ainer,body{width:100%!important}a,blockquote,body,li,p,table,td{-webkit-tex=
+t-size-adjust:none!important}body{min-width:100%!important}#bodyCell{paddin=
+g:10px!important}h1{font-size:24px!important}h2{font-size:20px!important}h3=
+{font-size:18px!important}h4{font-size:16px!important}#templatePreheader{di=
+splay:none!important}.headerContent{font-size:20px!important;line-height:12=
+5%!important}.footerContent{font-size:14px!important;line-height:115%!impor=
+tant}.footerContent a{display:block!important}.hide-mobile{display:none;}}=
+=0A        </style>=0A    </head>=0A    <body leftmargin=3D"0" marginwidth=
+=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0">=0A        <center>=
+=0A            <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">=0A           =
+     <tr>=0A                    <td align=3D"center" valign=3D"top" id=3D"b=
+odyCell">=0A                        <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateContainer">=0A                            <t=
+r>=0A                                <td align=3D"center" valign=3D"top">=
+=0A                                    <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" id=3D"templateHeader">=0A               =
+                         <tr>=0A                                           =
+ <td valign=3D"top" class=3D"headerContent">=0A                            =
+                    <a href=3D"https://basicnetworks.net">=0A              =
+                                      <img src=3D"https://basicnetworks.net=
+/logo.gif" style=3D"max-width:600px;padding:20px" id=3D"headerImage" alt=3D=
+"BASIC Networks Corp." />=0A                                            </t=
+d>=0A                                        </tr>=0A                      =
+              </table>=0A                                </td>=0A          =
+                  </tr>=0A                            <tr>=0A              =
+                  <td align=3D"center" valign=3D"top">=0A                  =
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" id=3D"templateBody">=0A                                      =
+  <tr>=0A                                            <td valign=3D"top" cla=
+ss=3D"bodyContent">=0A<!-- message header end --><p>Liebe/r Joachim Schneid=
+er (Chercheling Beratung zu Nebenprodukten in Produktionsverwandtschaften),=
+</p>=0A<p>wir haben Ihre Bestellung erhalten. Vielen Dank!</p>=0A<p><br />E=
+inzelheiten / Service:<br />Order Number: 3874189374  Produkte & Dienstleis=
+tungen: d - cPanel Starter Hosting (EU-D)<br>=0ADomain: posthoernchenklacke=
+rn.de<br>=0ABetrag f=C3=BCr die erste Zahlung: =C2=A353.00<br>=0ABetrag f=
+=C3=BCr die Verl=C3=A4ngerungsperiode: =C2=A353.00<br>=0AVerrechnungszyklus=
+: J=C3=A4hrlich<br>=0A<br>=0ADomainregistrierung: Register<br>=0ADomain: po=
+sthoernchenklackern.de<br>=0ABetrag f=C3=BCr die erste Zahlung: =C2=A38.99<=
+br>=0ABetrag f=C3=BCr die Verl=C3=A4ngerungsperiode: =C2=A38.99<br>=0ARegis=
+trierungsperiode: 1 Jahr(e)<br>=0A + DNS-Verwaltung<br>=0A + Email-Weiterle=
+itung<br>=0A<br>=0AHeute f=C3=A4lliger Gesamtbetrag: =C2=A361.99   <br /><b=
+r />In K=C3=BCrze werden wir Ihnen ein weiteres Email mit den entsprechende=
+n Login Details senden. <br />(Falls es sich um eine Hosting oder Server Be=
+stellung handelt, so werden wir Ihnen diese von unserer Sales Seite aus sen=
+den.)<br /><br />Support Formular: https://basicnetworks.net/supportform.ht=
+ml</p>=0A<p> </p>=0A<p>_______________________________<br />
+=F0=9D=97=95=F0=9D=97=94=F0=9D=97=A6=F0=9D=97=9C=F0=9D=97=96 =F0=9D=97=
+=A1=F0=9D=97=B2=F0=9D=98=81=F0=9D=98=84=F0=9D=97=BC=F0=9D=97=BF=F0=9D=97=
+=B8=F0=9D=98=80 =F0=9D=97=96=F0=9D=97=BC=F0=9D=97=BF=F0=9D=97=BD.<br />
+Home:    https://basicnetworks.net</p><!-- message footer start -->=0A</td>=
+=0A                                        </tr>=0A                        =
+            </table>=0A                                </td>=0A            =
+                </tr>=0A                            <tr>=0A                =
+                <td align=3D"center" valign=3D"top">=0A                    =
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" id=3D"templateFooter">=0A                                      =
+  <tr>=0A                                            <td valign=3D"top" cla=
+ss=3D"footerContent">=0A                                                 <a=
+ href=3D"https://basicnetworks.net">BASIC Networks</a>=0A                  =
+                              <span class=3D"hide-mobile"> | </span>=0A    =
+                                            <a href=3D"https://basicnetwork=
+s.net/accounts/clientarea.php">Login</a>=0A                                =
+                <span class=3D"hide-mobile"> | </span>=0A                  =
+                              <a href=3D"https://basicnetworks.net/accounts=
+/submitticket.php">Support</a> <br />=0A                                   =
+             Copyright =C2=A9 BASIC Networks Corp., All rights reserved.=0A=
+                                            </td>=0A                       =
+                 </tr>=0A                                    </table>=0A   =
+                             </td>=0A                            </tr>=0A  =
+                      </table>=0A                    </td>=0A              =
+  </tr>=0A            </table>=0A        </center>=0A    </body>=0A</html>
+
+
+--b1_df57e17696ca9c447302facd03b501d0--
+
