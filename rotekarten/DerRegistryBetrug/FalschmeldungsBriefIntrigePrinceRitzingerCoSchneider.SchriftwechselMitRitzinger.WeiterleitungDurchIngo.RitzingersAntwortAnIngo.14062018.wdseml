@@ -1,0 +1,104 @@
+X-Account-Key: account1
+X-UIDL: 1MRCr8-1fqQNq2vMi-00N6Sq
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <mail@ingo-schneider.de>
+Received: from mo4-p00-ob.smtp.rzone.de ([85.215.255.20]) by mx-ha.gmx.net
+ (mxgmx017 [212.227.15.9]) with ESMTPS (Nemesis) id 1ML9JA-1flSIa1nV4-00HgMT
+ for <das.schneiderlein@gmx.net>; Thu, 14 Jun 2018 00:54:34 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1528930474;
+	s=strato-dkim-0002; d=ingo-schneider.de;
+	h=In-Reply-To:Date:Message-ID:From:References:To:Subject:
+	X-RZG-CLASS-ID:X-RZG-AUTH:From:Subject:Sender;
+	bh=OdKfJp9qlWh6YTHolFFAuQcS391SO4Wbk9XwHQE7Pa0=;
+	b=RyiExpH3yl3OAuWiQlNCKcca4IPxxaO1LJE5DUQCMfnrKHlm3IFKeJ1eio8y67Y1qn
+	uIr36gBKOJC64K05YFunDTb4dZk7ah1YTggAUAAktCdNYzA3T0qPPVpAJjma1HsPglj9
+	/8NyvT4qtELK3MuGc0oAUAznmledziUrMeWgFxjko84HzRex2sjKArQwpy6lhRu9lFTs
+	yO/d6gglJRmmQ6X1rpFmtLbREnu0vglQ5QnvcgZTeBE/i16aKSntnZgjQQ3Q73RNI9Kw
+	qOJzpCCLyEQv19XtZA+Uobyq6f+rDRm02XVnz0XxUJUHDVYRRVTc4MfP6PAWYr+31HYf
+	Yx/w==
+X-RZG-AUTH: ":IW0NeWChdfgUP3I8wG5kEJaZM3MN1uYcA7nx1znWhXu8CT3SGcIQWjpfF9hl1Kzh6OsW2b2N"
+X-RZG-CLASS-ID: mo00
+Received: from [172.0.0.2]
+	by smtp.strato.de (RZmta 43.10 DYNA|AUTH)
+	with ESMTPSA id R0320au5DMsXUwO
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (curve secp521r1 with 521 ECDH bits, eq. 15360 bits RSA))
+	(Client did not present a certificate);
+	Thu, 14 Jun 2018 00:54:33 +0200 (CEST)
+Subject: Fw: Diverse Post an Prince Ritzinger
+To: Roswitha Schneider <rofischneider@t-online.de>,
+ Joachim Schneider <das.schneiderlein@gmx.net>
+References: <6805FE7A-B1F6-474C-BED7-38B883D9B6E1@yahoo.de>
+From: Ingo Schneider <mail@ingo-schneider.de>
+Message-ID: <699a662f-9fdb-cbd6-d379-29d308d4aeb3@ingo-schneider.de>
+Date: Thu, 14 Jun 2018 00:54:33 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
+ Thunderbird/52.8.0
+MIME-Version: 1.0
+In-Reply-To: <6805FE7A-B1F6-474C-BED7-38B883D9B6E1@yahoo.de>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+Content-Language: de-LU
+Envelope-To: <das.schneiderlein@gmx.net>
+X-GMX-Antispam: 0 (Mail was not recognized as spam); Detail=V3;
+X-UI-Filterresults: notjunk:1;V01:K0:Aj3n7ADCiiY=:3Qqcm1fyhm4DZhJP7WAZC0RUQO
+ 4rDtBmh/KtVAPelHJ/l6UFw0uWA4RdJU55+yAz3knIoyNAlMD3zWKUWjc6XkBcSbNXqAF1VTh
+ yzRwi3tCsZxoruKG+E+VI4XnlBLkXL0GUEPZB+9qlpq97MB0DKFIWEWRPK1u+qTsBJKvi5cMM
+ 1ADxgLt4urGNcxtD1wmCEvv7c2wX/CG3TU4LZ1gmlLGXisYPaLHiXpPkK2FXymc/S0kat+u4U
+ l0sX2gbMWzCTBw1fFCiglewHJg7mXxkQC23e31bEFjtjJLu+0ToitZDv3rbyNTx+jxYN1xc7M
+ OVP531/Om4UCMTty7BuxDqg2oPALnCWeCdV2asGqHwQGmGnsu1GyRPfim4PXlmWsexOpKWHmU
+ CG3bsC6kSMN09LpDbFQ+JgXhJOp1Xj105oNqYx8RHKxSAzcHsZ9TMQaV4ROQsIIDo2ftpyFIq
+ ovVVw4wiNGR79tXzJ7RiIbdq429tDxaYnxaJ25AgEbFSPNtD7MapxwHJ+fJjPjlUEAdl/Nm5w
+ naUsOnB3HTBdYWrk5vksYQXMwZlUxdOQca6sd12bGZlud073umkj0A67VUqoUgrPI3LQKVcs5
+ IpioXrBgKaZthNYV9g68A3v4JieYC9SY9OiHwgUyOjXPqlV9W3mPq+2FS4R03y7i/8FuF5N1h
+ QTZx9x2etqw5IuCUofJt33zSSCSN0b669vuHlfe7Y4Xb7bOWhJNi/34zJGPse3kM4iQIgAkCi
+ qPugo7r/VDNR6Q1K3hyTz9PGYS7Iu/45mhS+uge7w/IxYPq17vta4AM0biBIgcV8VsbSWwJH9
+ DdXlRjt6NX38WZICsqSlHhdOueHDRydBUSNHUslNi4LZdY/04FIhMP2K/VYq58f+IpOdJ7afM
+ F4S2wSz+NBLx8mQbVrfu6HPMj8hkwfsESZnCyNnY/26/GDMd3HKRRBE0GITtRdDOBaBe+dbnX
+ UfG1RNmZKrZ0gNLdmBdz9TF6CdIzHSZHilNpiCRwtrsBEdK43vJrf5SGhOOtyetreQOdMyNeq
+ hd8GWhpgLbiSc62GFwyDD8ujFq4il9fSPl+WsjpCo0NnZYHkr1YO14QtbNq29W5ADiy9zZleH
+ xWSg3Fdeuc2wD0PY5Rk7ZR72AQgyZ9gewHLsGb2m4cDmjYDrpEq09LTSpK+Sa+qMcLHZYZPt/
+ Uh1ihqW2eLT/LGw6+wH8A30iFlPUVW1XABomC5+cFAjgr70NAKK1SIYKNn3i0A/h99VwlfgPa
+ tMb4UKd4Beeun/UZlgMFd+irWaKVwcJ8bRVd0jD6NjzI88RojyPfJzK0lxlfN7gVUJycer63z
+ j5KJYQdcdFVHKLvn5SdrGnhxxrTlTqIa6C7+Jd1LXZjwXKSm/alJ6qAW7b6+gKEGhf635qLYr
+ KQVJC6AqgwOOPEDTgGsnRVPF/0kI1ssk/8+2/nmXGdOkKYw1PDUQD2XKbmaxIrk8hCT6sRuFa
+ TF3CyAQ/hSr9SUcWPdXahVhqE6Cci+OER4aLaowiuWRwkQ98YVjiE+syPFm7m5POZzhfnHZJh
+ TDOKz+SDUtc1Smc1CMXMjPCGpjWjEMEuvfbpsQgmqO7zFZu3xtd3vOH1J5MV5zo1397ZwhyB2
+ bFxGd7eD5oEfNnXblm0pUt6KI6hM8aVrmHumeMnOmKNavWQRmAC8ev9Arx8tA3JbKuNxgag8D
+ ulAQyJJBHLw3mLTizhPbb3m+e+f5CEefNY62OCLhloy4JxZ2fGYa+QV2aSPwzPaANNugjVAbZ
+ 7jp0wk08F3RNA3h0VSA+fvYTgwmB/GFNfgBeru7kV6qh0HdF9+29+mPv90BWYvah2fnM78obu
+ UQQlm5W5OioVfStHGLjemXJ22umpIANqo3qrb6BBJ5ZKA108=
+
+Hallo zusammen,
+
+Herr Ritzinger war so freundlich zu antworten und das aufzuklären.
+
+Damit ist dieses kleine Rätsel nun gelöst - zumindest Joachim hätte es 
+sich aber wohl schon früher einfacher und direkter erklären lassen können.
+
+@Joachim - den persönlichen und respektvollen Kontakt wünsche ich mir auch !
+
+Liebe Grüße,
+Ingo.
+
+
+
+Am 13.06.2018 um 23:37 schrieb Prince Ritzinger:
+> Sehr geehrter Herr Schneider,
+>
+> ich erhielt heute ein Schreiben vom 03.06.2018 in welchen Sie von diverser Post an "Prince Ritzinger c/o Schneider” berichten, die fälschlicherweise bei Ihren Mieter ankam. Die Adresse an welche der Brief gesendet wurde ist jedoch nicht meine aktuelle Adresse. Laut der Datenschutz Grundverordnung ist, wer auch immer Ihnen die veraltete Adresse übermittelt hat, verpflichtet gewesen die ausdrückliche Zustimmung zur Weitergabe Personenbezogener Daten an 3. Personen bei mir einzuholen; was leider nicht der Fall war. Das nur am Rande.
+>
+> Zur Aufklärung Ihrer Frage:
+> Ich bin seit Ende Februar Eigentümer der Wohnung Nr. 17 in der Leipartstr. 12 und hatte geplant eine gewisse Frau Schneider in diese vorübergehend einziehen zu lassen. Da ich zu dem Zeitpunkt selbst beruflich viel unterwegs war und dadurch keine feste Bleibe hatte plante ich meine Post ebenfalls an diese Adresse schicken zu lassen. Da hierzulande aber in fast jeder Mietergemeinschaft eine Person mit den recht beliebten Nachnamen “Schneider" vorzufinden ist kam es leider, so der Zufall will, dazu dass im selben Haus, auf dem selben Stockwerk und auf der Klingel zu allen Überfluss auf gleicher Höhe, der Name Schneider angebracht wurde und meine Post nicht richtig zugeordnet werden konnte. Leider fiel dieses Missgeschick recht spät auf und sorgte zunehmend für Verwirrung als Frau Schneider auszog und nun ein anderer Name das Klingelschild ziert.
+> Mehrmals versuchte ich in der Vergangenheit mit dem derzeit in Ihrer Wohnung hausenden Herrn Schneider vergeblich diesbezüglich persönlich in Kontakt zu treten, jedoch gab er sich nicht sonderlich kontaktfreudig und schlug mir sogar beim Angebot die ganze Sache bei einem Stück Pizza aufzuklären, ablehnend die Türe vor der Nase zu.
+> Nichts desto trotz hoffe ich dass ich nun das Geheimnis um die dubiosen Briefe lüften konnte und entschuldige die durch diesen Zufall entstandenen Unannehmlichkeiten vielmals. Ich hoffe dass zukünftige Probleme in der Nachbarschaft ganz einfach durch reden, den persönlichen und respektvollen Kontakt miteinander auf schnellen Wege gelöst werden können und wünsche Ihnen und Ihren Mieter eine schöne Restwoche.
+>
+> Mit freundlichen Grüßen
+>
+>
+> Prince Ritzinger
+>
+> P.s. sollten weiterhin Briefe an “c/o Schneider” bei Ihren Mieter eintreffen so bitte ich freundlichst um Information damit die betreffenden Körperschaften von mir über den neuen Adresszusatz “c/o Schwarz” informiert werden können
+
+

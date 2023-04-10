@@ -1,0 +1,191 @@
+Return-Path: <api@prodtrta.netim.net>
+Delivered-To: post.hoernchen@mail.de
+Received: from director01 ([10.0.121.147])
+	by dovecot12 with LMTP id MG0jK6ShX2PLbgAAJesNpQ
+	for <post.hoernchen@mail.de>; Mon, 31 Oct 2022 11:21:24 +0100
+Received: from localhost ([10.0.121.147])
+	by director01 with LMTP id oGnpKqShX2O+PwAASyX6IQ
+	; Mon, 31 Oct 2022 11:21:24 +0100
+X-Original-To: chercheling@e.mail.de
+Received: from smtp2.netim.com (unknown [185.26.104.242])
+	by mxpostfix03.mail.de (Postfix) with ESMTP id 7E1F6801E3
+	for <chercheling@e.mail.de>; Mon, 31 Oct 2022 11:21:24 +0100 (CET)
+Authentication-Results: mxpostfix03.mail.de;
+	dkim=pass (2048-bit key; unprotected) header.d=netim.com header.i=@netim.com header.b="L+rWSJud";
+	dkim-atps=neutral
+Received: from [185.26.104.242] (helo=smtp2.netim.com)
+	by mx02.mail.de with ESMTPS (eXpurgate 4.42.0)
+	(envelope-from <api@prodtrta.netim.net>)
+	id 635fa1a3-069e-0a0078ca0019-b91a68f2b46e-3
+	for <chercheling@e.mail.de>; Mon, 31 Oct 2022 11:21:24 +0100
+Received: from prodtrta.netim.net (prodtrta.netim.net [185.26.104.136])
+	by smtp2.netim.com (Postfix) with ESMTP id 88A22E00B8
+	for <chercheling@e.mail.de>; Mon, 31 Oct 2022 11:21:22 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=netim.com; s=201611;
+	t=1667211682; bh=31ZFCPRMTvbdf9wnm5gZObBhsU1jRhphgwigSoaepRU=;
+	h=To:Subject:From:Date:From;
+	b=L+rWSJudNiMWYEDyOJL2gU7AbcBLUgDmZfIjE2OuiFNzxbH8wR1O/EXA1UyIcIb6A
+	 WUB4WHVO25Ove5+KYH5JRfiyNsyAZxsaBoe77JQc5lo260neWfjv5C7gcEHw493CLh
+	 Ovlp15pPq7CQRAhEzfpbyIN+TsBj0aPH7ui7e9+l77DM2S2nVFi39yEvzpDnhVohyB
+	 ZdeGW9BGocKrZdRHS2bqCt+NWfp8GCl0lXZNuw3EXOupJ0XJCUGVPe2ZozEHoBKWtt
+	 Nmtxid2Gx8bd1fApbmUasLjLIe8ZIdX7sfT8CuTHIduI9FtVUAgtTXCB3dwBdbxh8m
+	 D6Y+A84n4K0SA==
+Received: by prodtrta.netim.net (Postfix, from userid 1001)
+	id 799752C008E; Mon, 31 Oct 2022 11:21:22 +0100 (CET)
+To: chercheling@e.mail.de
+Subject: =?UTF-8?Q?[posthoernchenklackern.de]=20Authorization=20code=0D=0A?=
+X-PHP-Originating-Script: 65534:mail.php
+MIME-Version: 1.0
+From: support@netim.com
+X-Priority: 3
+Organization: Netim
+Content-Type: multipart/alternative;
+ boundary="=_e3217f580398f28b483c51dce3a7a919"
+Message-Id: <20221031102122.799752C008E@prodtrta.netim.net>
+Date: Mon, 31 Oct 2022 11:21:22 +0100 (CET)
+X-purgate-ID: 153031::1667211684-21FF9892-02ED1D73/0/0
+X-purgate-type: clean
+X-purgate-size: 3320
+X-purgate-Ad: Categorized by eleven eXpurgate (R) http://www.eleven.de
+X-purgate: clean
+
+--=_e3217f580398f28b483c51dce3a7a919
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+
+Dear customer,
+
+Further to your request dated 2022-10-31, please find below your domain nam=
+e Authorization code.
+
+1$nC7sc1CrET
+
+This code is only required for transferring the domain to another registrar=
+=2E  It identifies and guaranties the transfer request to the actual regist=
+rar.
+
+For any further information, feel free to contact our support.
+
+The Netim team
+
+----BEGIN-OF-CPS----
+TYPE: domainAuthid
+REQUEST: 5853226
+OBJECT: posthoernchenklackern.de
+ACTION: DONE
+VALUE: 1$nC7sc1CrET
+----END-OF-CPS----
+
+--=_e3217f580398f28b483c51dce3a7a919
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+	=09
+		.contenu {
+			color: #777777;
+			line-height: 1.7;
+			width:550px;
+			word-break: break-word;
+		}
+	=09
+		pre
+		{
+		   width:inherit;
+		   font-size:inherit;
+		   font-family:inherit;
+		   word-break: break-all;
+		   overflow: hidden;
+  		   text-overflow: ellipsis;
+		}
+	=09
+		.btn-info{
+		  border-radius: 20px;
+		  border: 1px #0090c3 solid;
+		  padding: 10px 30px;
+		  background-color: #0090c3;
+		  font-size: 14px;
+		  letter-spacing: 0.02rem;
+		  transition: all 0.3s;
+		  height: 40px;
+		  text-decoration: none;
+		  color: white;
+		  font-family: sans-serif;
+		}
+		.btn-info:hover{
+		  background: white;
+		  color: #0090c3;
+		}
+	</style>
+=09
+	<table style=3D"width: 100%; height: 100%; margin: auto; border: none;">
+		<tr>
+			<td bgcolor=3D"#fbfbfb">
+				<table style=3D"border-collapse: collapse; width: 650px; margin: auto; =
+background-color: #ffffff; box-shadow: 0 0 20px 0 darkgrey;">
+					<!-- Header -->
+					<tr style=3D"height: 40px; background-color: #f3f3f3;">
+						<td colspan=3D"5">
+							&nbsp;
+						</td>
+					</tr>
+					<tr style=3D"height: 30px;">
+						<td colspan=3D"5"></td>
+					</tr>
+                    <tr>
+                        <td colspan=3D"5">
+							<table style=3D"border-collapse: collapse; width: 100%; font-size: 1=
+4px; font-family: arial;">
+								<tr>
+									<td style=3D"width:50px"></td>
+									<td class=3D"contenu">
+Dear customer,
+<br/><br/>
+Further to your request dated 2022-10-31, please find below your domain nam=
+e Authorization code.
+<br/><br/>
+1$nC7sc1CrET
+<br/><br/>
+This code is only required for transferring the domain to another registrar=
+=2E  It identifies and guaranties the transfer request to the actual regist=
+rar.
+<br/><br/>
+For any further information, feel free to contact our support.
+<br/><br/>
+The Netim team
+<br/></td>
+									<td style=3D"width:50px"></td>
+								</tr>
+							</table>
+						</td>
+                    </tr>
+					<tr style=3D"height: 30px;">
+						<td colspan=3D"5"></td>
+					</tr>
+					<!-- Footer -->
+					<tr style=3D"height: 40px; margin-top: 30px; background-color: #f3f3f3=
+; font-family: arial; font-weight: bold; font-size: 20px; text-align: cente=
+r;">
+						<td style=3D"width: 100%;"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>=09
+	</table>
+
+</body>
+</html>
+--=_e3217f580398f28b483c51dce3a7a919--
+

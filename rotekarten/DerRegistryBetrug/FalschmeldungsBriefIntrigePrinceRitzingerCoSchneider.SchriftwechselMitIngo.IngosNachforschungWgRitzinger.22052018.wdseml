@@ -1,0 +1,89 @@
+X-Account-Key: account1
+X-UIDL: 0MSKal-1fobN749IB-00TXpQ
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <mail@ingo-schneider.de>
+Received: from mo4-p00-ob.smtp.rzone.de ([85.215.255.24]) by mx-ha.gmx.net
+ (mxgmx116 [212.227.17.5]) with ESMTPS (Nemesis) id 1MEnZ5-1fbJiX2qUt-00FqYY
+ for <das.schneiderlein@gmx.net>; Tue, 22 May 2018 18:03:50 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1527005030;
+	s=strato-dkim-0002; d=ingo-schneider.de;
+	h=Subject:References:In-Reply-To:Message-ID:To:From:Date:
+	X-RZG-CLASS-ID:X-RZG-AUTH:From:Subject:Sender;
+	bh=6+pOP3gxwkS5Vlrqx7dvEFSUtwm+vcjigRR4SIJAZGI=;
+	b=jUfGLftERa+0D4uYK4ZQzAD6XLITh5KjQI42UovyzzmsHi1apk817KcSIlM8U/dcWJ
+	3o3BL9ab2tspocnS8KL30EHU+5zt641/h2Hy88WnI8b1sMjiUYis0ylr9MNxetr1aiNP
+	TFW4EA9gxbcIIjsYSsY5sW9oTHRDLuW8qeYVisFYtq8hwtSUBhjsQc870Li089H5yasq
+	UEkUEGoJLstpc0WzRpH8CzhCZWb6+oFJduPitX1yYfg+xf2FHgueJ5qRHRlXpQOIeWlA
+	WFcxCj6+U3dUIJqHg/ipUJKAgAgsJpwaER6dXm5+PEFGU74fdTG7RLbQgkr8fwRTzXOF
+	OYLw==
+X-RZG-AUTH: ":IW0NeWChdfgUP3I8wG5kEJaZM3MN1uYcA7nx1znWhWcWD1BzfkMsiJKBT86Ia2SVGNjt3KLy"
+X-RZG-CLASS-ID: mo00
+Received: from oxapp01-03.back.ox.d0m.de
+	by smtp-ox.front (RZmta 43.8 AUTH)
+	with ESMTPSA id R087cau4MG3nduT
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (curve X9_62_prime256v1 with 256 ECDH bits, eq. 3072 bits RSA))
+	(Client did not present a certificate);
+	Tue, 22 May 2018 18:03:49 +0200 (CEST)
+Date: Tue, 22 May 2018 18:03:49 +0200 (CEST)
+From: Ingo Schneider <mail@ingo-schneider.de>
+To: Joachim Schneider <das.schneiderlein@gmx.net>,
+	Egon Schneider <schneegon@gmail.com>,
+	Roswitha Schneider <rofischneider@t-online.de>
+Message-ID: <285579007.340148.1527005029546@communicator.strato.de>
+In-Reply-To: <181601775.208478.1520950289373@communicator.strato.de>
+References: <ea2e46bd-2f77-8437-2077-3fd3c1a8d9a4@gmx.net>
+ <1366070612.384036.1520246070749@communicator.strato.de>
+ <aa9f0fb3-8684-c8f6-f3a8-dbb660b52418@gmx.net>
+ <1394704164.407583.1520273988609@communicator.strato.de>
+ <84fe5be4-3400-97c1-b90c-47692c7a6dbd@gmx.net>
+ <592612275.513657.1520421255768@communicator.strato.de>
+ <43f85b33-7bc2-62d7-d612-6f5a0d9473ee@gmx.net>
+ <1725325942.197479.1520945146555@communicator.strato.de>
+ <2d7eaaaf-a4f9-8ca6-2430-e1a65db060da@gmx.net>
+ <181601775.208478.1520950289373@communicator.strato.de>
+Subject: =?UTF-8?Q?Re:_Bericht_zu_Ungew=C3=B6hnlichkeiten?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.8.3-Rev48
+X-Originating-Client: open-xchange-appsuite
+Envelope-To: <das.schneiderlein@gmx.net>
+X-GMX-Antispam: 0 (Mail was not recognized as spam); Detail=V3;
+X-UI-Filterresults: notjunk:1;V01:K0:oYeGteJHqaw=:QaJ8dKUognbQ3l/oS62uHbkVp0
+ SRP6DCn8XBHrp26ldYnZsP02TpWBXFoc7nam/WSapmHwA9sJZtq52nKvZ61Hy/uXgKtAlYIHw
+ ij5C4tNqtyK9/+5IoWoW+E5dAZHhKgnxFLt9/mHcVVAYP4WN1jZ+BL5ZLQKbZDHgLG8iu5C7k
+ ERbVbFuDAhdclYfGpYiM0nmCDeXQc7FCy9dd1pviJvjfu51LRR8U7EC6NGQIASo9gXjvrPQQr
+ H+lqZc/mvYwdjd9buTPhSmGjr1lBJh6xXi2UIaB29ZnHRzxoHt1UHyjaUD/kcNBP++6C+gof6
+ 8p5voZ4UmCbTmpfhzp6Zfbh2Hq38VUjphmLrGpcEvXAGRrnE82WhzcgQ7o3dMQz2xs3Ji2Zys
+ Gh9Jp0S+B5quhyEOEU8H7yAQ9t9xSXVL/ATuRFfJRnOd53rp0F0z73n9mz82lcvURsZrw/YKj
+ BVV/n0GuGp/jPomVE6xONlM8OJq9VmxV8Qf60zuCcw1pgviAlREmXbDHOR3aPkB60PpUK73vt
+ xsSqlwsL6z3fkd0uMUBslf8EtRQ4vMV892c/zVag6VZUuNyvYCY6WhG79BGvBOOv7hUb2CvMV
+ 85hCDupTKIOKAbZtjqWPu5k29q5suiGZXmBVbiAPvLqjLtgMmhEJUBP5a5qlMH83O0RiumK9h
+ 2CkN6STwL1CkZeudoshmBNd8pGnBRzyMiipdoyDGe8wLX+mzCLJXejjeDj04+G6ZWrDxmj/5k
+ eOgPEhOck50QhaXNhMORuACD92nSDNAAf0LhbxHJfTJw+MkjKnNEHjCO43sY4P87bsxeYxymJ
+ 7mBKPoRE9oL/K1xJgKggJM/iRLRz4Tt7rNXizmk76JqQe+ghqNsuaN1jxUzOm4/9qfJbn+Rh7
+ Fz6gdpmTIQ8oP3O2QsTRPQjoXNjDtthT0GxXZfdajFVSsXxIG7F6nYchAV+x6e7tYAef3bu/w
+ /cvCekSKHoaIZmw2TNYOm+QGvV02rGSmrLA/+PFnKwRM20WFqpU5sryOmAfKgIMtiqNKNKobh
+ RAOjFALTfIBZ6Tb+uskVtvWAvPFh4JM/TtThVesX97mQm9qnZ3GmAjA70H5JI7TPLuRiOm+pb
+ FwQREgMcQFgYDxtrP4vou/nfspT/qNctYQJNOU/0dgdql5/Rnjakdxxg0lp6+eUhbvku3Jo/R
+ DVnqKNA+mSsgJ+1JT61qjJaKT6aNmbcIV8bv7jwZ9qNxB7D5L+pEavpaCpKyt+s1ZhFvlik/N
+ oLzdJFY44LZOEEG2V2nlb82WQ0kSr8qCY3AGFBG7y4VqKTDQX7yjIIQ+bbjQtRiJRq7OV8gN/
+ CfSurHCobfpMKHclNzDV50dp8t4JgE31Eg1MyISh2cp7q2KKy4kOOac9Dy7dvFjFazpPOpCmF
+ JdV8SVyUpDmcDUNJrupTz3kw8rEX2BDNjWDMHrExI0ArPwl0e1E/R6Bo2IhV+RndbxXF5UK1n
+ YbC9ko0DEME4zRxx48UiAv8PxB29iM6PTasug0HNwGsmajkkJpT/H0tPtkMfArvo9HxAs12KL
+ hnVVwDkKwJDyL60yRpU/0lkewcMWISj8RjHstGxKZoaVXHu2RGIOVBT2cbHlzvyX+B6Udasc2
+ mo4mg5Na90m3lytF5delTakd9FaWmeUma+mQ3A/cPEluOIQnuGukgWY33u8hNAm08i1XWRfSO
+ NBoBaqKtGoa6+EJtQ7rNcA9HRaZvHG6utcHybodIXvBHrjXtlwZdRnIttDRMo5K37L7k9xzpd
+ UoxFAHYDhk4zROO6B8lxpMgjeDg3G6pLA02f6KsHj+e4h6+zDzX+Fk5Ck5WbFpLGkTZsKjfv0
+ j0+mC7lBWYmw2DKXyNJ3ZNdTNgP/oDUBIviwPDtz0sGj9n6k=
+
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8">
+</head><body><p>Hallo zusammen,<br></p><p>es gibt Neuigkeiten in der Sache &#34;Prince Ritzinger c/o Schneider&#34;.<br></p><p>Wie ich anhand des Aktenzeichens &#34;Leinhart/Ritzinger&#34; in dem von Joachim fotografierten Adressfenster des Notarschreibens schon vage vermutet hatte, hat Prince Ritzinger eine Wohnung gekauft.</p><p> Im Nachgang der diesj&#228;hrigen Eigent&#252;merversammlung - auf der er leider selbst nicht anwesend war - habe ich nachgeforscht:</p><p>Und zwar hat er zum 1.3.18 die Wohnung Nr. 17 (3.OG links vom Treppenhaus aus) gekauft - das ist die gegen&#252;ber von Joachim. Dort m&#252;sste nun &#34;Schwarz&#34; als Namensschild sein laut Hausverwaltung.<br></p><p>Da ich anhand der Eigent&#252;merliste nun eine &#34;richtige&#34; Postadresse habe, werde ich ihn mal anschreiben, was ihn dazu brachte, seine Post an Joachim zu addressieren - denn das finde auch ich mindestens merkw&#252;rdig.<br></p><p>Liebe Gr&#252;&#223;e,<br>Ingo.<br></p></body></html>
+ 
+
