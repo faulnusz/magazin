@@ -22,7 +22,8 @@ Rubriquen:
 [.|.|.](https://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html)
 Die Nachrichtenpolizeianzeige   
 
-Zeitung, die davor davon schreibt.  
+Zeitung, die davor davon schreibt. Vor den anderen Zeitungen. Und vor
+deren Zeit. Unter dem selben Dach.  
   
 
 Die bessere Hälfte der Welt [(only online on googlegroups
@@ -196,21 +197,22 @@ yet)](https://groups.google.com/g/posthoernchenschalen/c/PBx9gs9sJYA/)
 
 Fast-Food-Kette startet hauseigene Zeitschrift. Die kostenpflichtige
 Zeitschrift hat in jeder Filiale eine eigene Redaktion. Die Rubriken
-werden jeweils landesweit vorgegeben: Die Restauration
-(Freibühnenführer) | Schlepperpaket (Stellengesuche und -angebote von
-und speziell für Selbstzahlerasylanten) | Die Halbdeutschen in der Arche
-der Archaischen (Werbung & Veranstaltungen) | Das Gespenst des Königs im
-Palast (Zimmergesuche und Wohnungsgesuche von Asylanten) |
-Rücksiedlereskorte (Reiseangebote) | Herkunftsangabe (Nachrichten von
-Asylanten aus ihren Heimatländern) | Huren Und Luden Aller Länder
-Verheiratet Eure Spioninnen und Flüchtlinge Lieber (Kontaktgesuche von
-und für Asylanten und Asylantinnen) | Mischfruchtacker (Nachrichten aus
-der Gegend der Filiale) | Kopftuchsache Frackschöße (Dresscodes in
-fremden Ländern). | Matrix: The Game (Kritiken zu Fernseh- und Radio-
-und Kinoprogrammen in Heimatländern von Flüchtlingen). |
-Zweifachklassensprachschule (Ausgewählte deutsche Texte von
-Inhaltstoffangabe bis Bibelvers in lateinischer und in jeweiliger
-nichtlateinischer Schrift nebst Übersetzung).
+werden jeweils landesweit vorgegeben:   
+ Die Restauration (Freibühnenführer) | Schlepperpaket (Stellengesuche
+und -angebote von und speziell für Selbstzahlerasylanten) | Die
+Halbdeutschen in der Arche der Archaischen (Werbung & Veranstaltungen) |
+Das Gespenst des Königs im Palast (Zimmergesuche und Wohnungsgesuche von
+Asylanten) | Rücksiedlereskorte (Reiseangebote) | Herkunftsangabe
+(Nachrichten von Asylanten aus ihren Heimatländern) | Huren Und Luden
+Aller Länder Verheiratet Eure Spioninnen und Flüchtlinge Lieber
+(Kontaktgesuche von und für Asylanten und Asylantinnen) |
+Mischfruchtacker (Nachrichten aus der Gegend der Filiale) |
+Kopftuchsache Frackschöße (Dresscodes in fremden Ländern). | Matrix: The
+Game (Kritiken zu Fernseh- und Radio- und Kinoprogrammen in
+Heimatländern von Flüchtlingen). | Zweifachklassensprachschule
+(Ausgewählte deutsche Texte von Inhaltstoffangabe bis Bibelvers in
+lateinischer und in jeweiliger nichtlateinischer Schrift nebst
+Übersetzung).
 
 Hausverwaltungsberatungsgesellschaft
 
@@ -280,7 +282,7 @@ außer in Luxemburg, denn dort hat es keine
 Werbeplakate](https://groups.google.com/g/posthoernchenschalen/c/y3h093nUSKY/)
 
 Derzeit mit den laufenden Ausstellungen:   
- Ein pieksendes Gatter von Longinus' Format. | Konsens der Ikone! | Kein
+ Ein pieksendes Gatter für Longinus' Format. | Konsens der Ikone! | Kein
 Pranger im Paradies! | Thekentapetenwelthandel. |   
  Die Gallerie vom Christlichen Zoll. | Für Schnelle und Frische
 Neugierige: Bald verschwindende Fotos vom Reliquiensammeln. |
@@ -1155,4 +1157,4 @@ Posthoernchen Nussschalen
 
 * * * * *
 
-212.31.2023 (31. Juli)
+226.33.2023 (14. August)
