@@ -214,7 +214,8 @@ Heimatländern von Flüchtlingen). | Zweifachklassensprachschule
 lateinischer und in jeweiliger nichtlateinischer Schrift nebst
 Übersetzung).
 
-Hausverwaltungsberatungsgesellschaft
+Hausverwaltungsberatungsgesellschaft [(only online on googlegroups
+yet)](https://groups.google.com/g/posthoernchenschalen?label=Hausverwaltungsberatungsgesellschaft)
 
 Hausmeister suchen Hausmeister.
 
@@ -224,7 +225,7 @@ yet)](https://groups.google.com/g/posthoernchenschalen?label=PackstationSupermar
 erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GelbeKarte.DerPackstationSupermarkt.pdf)
 
 Der Packstation Supermarkt  
- empfiehlt ein zweites Fließband hinter der Kasse, Holzfassbier und
+ empfiehlt ein zweites Fließband hinter der Kasse, leichtes Bier und
 Mineralwasser in 10 Liter Öko-Fässchen und Großpackungen frei Haus
 liefern und ein einheitliches archivierbares
 Internetzseitenlesezeichenformat als betriebsystemunabhängige
@@ -234,8 +235,8 @@ Internetzseitenlesezeichenformat als betriebsystemunabhängige
 
 Stillebenobst und Geilsalat in der Globalsaison [(only online on
 googlegroups
-yet)](https://groups.google.com/g/posthoernchenschalen/c/4RYPAQkM4P0/)
-[Die Grüne Karte. Nachdrucken zur Werbung
+yet)](https://groups.google.com/g/posthoernchenschalen?label=SEKGD) [Die
+Grüne Karte. Nachdrucken zur Werbung
 erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GrueneKarte.pdf)
 
 Für eine einheitliche Ausschilderung aller Lebensmittel jenseits von
@@ -245,7 +246,7 @@ Chemiewaffenvertrag: **S**aatgut, **E**rnte, **K**üche, **G**ifte und
   
 
 Schächte und Äste vom Stammstrecken [(only online on googlegroups
-yet)](https://groups.google.com/g/posthoernchenschalen/c/jJf25ekq7TQ/)
+yet)](https://groups.google.com/g/posthoernchenschalen?label=stammstrecken)
 
 Spät aber ohne Doppeltunnel einfacher und arbeitslos multizentral zur
 Passagieraufkommensverdoppelung.  
@@ -279,7 +280,7 @@ Zustandszahlen. Bald mit Vergleichswerten aus neuem Experiment-Aufbau:
 
 Das Luke Sam Bourg Werbeplakatmuseum [Für ein reeles Werbeplakatmuseum
 außer in Luxemburg, denn dort hat es keine
-Werbeplakate](https://groups.google.com/g/posthoernchenschalen/c/y3h093nUSKY/)
+Werbeplakate](https://groups.google.com/g/posthoernchenschalen?label=LukeSamBourg)
 
 Derzeit mit den laufenden Ausstellungen:   
  Ein pieksendes Gatter für Longinus' Format. | Konsens der Ikone! | Kein
@@ -295,7 +296,8 @@ Selbstmördern! Für sie hervor, in ihrer Schau aus ihnen hervor! |
  \*Activity\* spielen mit Marktforschern | Heilige Kunst ist nicht
 verschanzt, sondern geschützt überpersönlich. | Kann auch ein Künstler
 enteignet werden? | Wie der Adam-Preis für Neologismen verliehen wird? |
-  
+Weil Außenwerbung nicht bei allen Betroffenen innenbewusst bewirkt haben
+braucht!   
  Das Kongeniale Genie aus dem Ingenium heraus UNschalten. | Im Winkel
 des Holograms. | Lügen sind wie Farben. | Pointillismen der Nähe. |   
  Der Farbdruck brachte den Frohsinn in die bunte Runde. | Die neuen
@@ -315,7 +317,10 @@ Kleinlasterverfahren vor den Toren der Stadt. |
 und Strahlenkanonen. | Beim »Beamen« wird das Modell selbst zum Modell.
 | Kostenloses Bildschirmkater-Weibchen mit kostenlosem Bildschirm. | Das
 Perfekte Modell aller vermiedenen \*Flirts\* und ein \*Flirt\* mit einer
-Werbedesignerin dazu. |   
+Werbedesignerin dazu. | Wenn Modelle grundsätzlich und überhaupt nur
+\*Models\* erkennen, nur die eigenen grundsätzlich und überhaupt
+verkennen, dann sind die Modelle des unfreiwilligen \*Models\* alle
+Diakone, und nur das unfreiwillige \*Model\* selbst ein Modell.   
  Die gerettete Haut jener Wand, an der sie die Wand mir nicht allein für
 mich spielen hätte wollen. | Ist für dich an der Tafel mit Modellen die
 Hölle wesentlich pornografisch? | Unterschwelligen Reizwäsche. | Modelle
@@ -333,161 +338,96 @@ Kartina. Visitenkartenbonmots und vermutlich Tarotarkanas einer
 Therapie-Verlobten.
 [(OffeneBriefeAnKerstinGelöscht)](https://groups.google.com/g/posthoernchenschalen/c/JZ93pi7TI80)
 
-Bisher unveröffentlichte Sammlung von Gedichten seit November 2017 auf
-die schon seit 2015 gesammelten verdächtigen Sprüche von drei Jahre
-älterer Mitpatientin aus Psychiatrie Haar zur Dokumentation der Wandlung
-der Bedeutung ihrer mitunter bedrohlichen und beleidigenden Botschaften
-und zur Unterscheidung ihrer so offenbar wie womöglich feindseligen
-Projektionen von auftrags- und planmäßig injektiven oder sondierenden
-Desinformationen, sowie zur Verwahrung gegen die durch sie mitunter
+Bisher unveröffentlichte Sammlung von Gedichten ab November 2017 auf die
+schon seit 2015 gesammelten unvergesslich wiederkehrenden verdächtigen
+Sprüche von drei Jahre älterer Mitpatientin Kerstin Pokorny aus
+Psychiatrie Haar zur Dokumentation der Wandlung der Bedeutung ihrer
+meistens bedrohlich und verletztend beleidigenden Botschaften und zur
+Unterscheidung ihrer so offenbar wie womöglich feindseligen Projektionen
+von auftrags- und planmäßig injektiven oder sondierenden
+Desinformationen, zur Verwahrung gegen die durch sie mitunter
 unterstellten und angezogenen eigenen Projektionen, zur Prüfung von
-Hoffnungen und Sehnsüchten auf Erziehen und Ausweichen und zur
-Erforschung des Stimmenhörens seit Trennung 2010 auf die Ursächlichkeit
-der von ihr aufgezwungenen spiritistischen, konkretistisch telefonischen
-Vormundschaft.
+Hoffnungen und Sehnsüchten wie zur Erforschung ihrer vermutlichen
+Vernetzung mit Mitpatienten und Psychiatern auf ihre Besessenheit, oder
+auf ihren Versuch einer spiritistischen, konkretistisch-telepathisch
+telefonischen Vormundschaft, sowie zur Ergründung von Stimmenhören seit
+erster Trennung am Telefon 2010.
 
-Anzeige und Klage wegen nötigender Verleumdung und beleidigendem
-Vormundschaftsbetrug und verschleierter Hurerei unaufgenommen, scheint
-als Therapiepatientin nicht nur angewiesen sondern auch gedeckt, jedoch
-zur Klärung und Entschuldigung bei mir und zwischen uns nicht
-verpflichtet zu werden, gegen eigenen Anspruch auf Rechtmäßigkeit und
-Staatlichkeit selber andauernd erpresst auf Narrenfreiheit und bedroht
-mit Enteignung und Entmündigung. Verschimpfung von therapierelevanten
-Bekannten durch pseudo-akustische Stimmen, welche sie zwischen 2010 und
-2016 hinterhältig auszukundschaften und anzuvisieren anmerken hatte
-lassen, zwar angeregt Streitsachen und Konfliktsachen aufzunehmen und
-anzugehen, aber als aufgeschwungen oder herablassend zu deren
-übervorteilender oder verächtender Verteidigung.
+Botschaft ihrer \*Ex\*-Geschichten jeweils auf Rücktritt von Heirat,
+2010 als Facetten eines Verlobungsringdiamanten bezeichnet, 2019 in
+erstem offenen Brief als Flüche und Götzen, mittlerweile ihre
+»Ex«-Freunde teilweise als Charakterbilder auch den Streitsachen und
+Verleumdungen mit und durch Dritte zuordenbar.
+
+Mitpatient Fuchs spielte sich 2010 erst am Telefon als Beschützer auf,
+»Und habt's g'schnackelt? (...) Nicht mal?! Das wär ungefähr das
+letzte!«, Ja mei, i sag des halt so, empfiehlt nächstens bei Besuch in
+seinem Wohnwagenpark eine Hure, »Ich habe einen Freund, der ist
+Zuhälter!«, kein Interesse, »Du verstehst meine Liebe nicht!«, auf
+Toleranz herausgeredet, auf Besuch und Übernachtung bei dem angeblich
+schwulen und krebskranken Bettler Hanselmann verglichen, nach
+Übernachtung bei ihm im Wohnwagen. Tage später sie am Telefon »Ohne
+diesen Schwuchtel hätten wir es schon!« zusammenhanglos, als ihr Schimpf
+und Schmäh und Verleumdung auf mich vor irgendwem ihr Vorstelligen, aber
+nicht dem Gespräch mit Mitpatienten Fuchs zuordenbar, »Ohne diesen
+Schwuchtel hätten wir es schon!«; »Du bist meine Entsprechung! Werde
+meine Frau!«, »Du hast niemanden, Joachim!«, auch nach Übertölpelung und
+Neuanfang durch sie 2012 noch vergessen, nach Wiedertrennung Ende 2012
+weiter vergessen, seit 2017 in vielen Anläufen bis zur Entdeckung ihrer
+Absprache mit Matthias Fuchs sondierend auf mögliche Verächter und
+Trauzeugen damals, weitere Anläufe bis höchstens zur Beschwerde einer
+Verhurten, schmeichelnd unglaubwürdig, eingependelt auf Erhabenheit der
+Mitpatientin über Verdacht auf bezahlte Hurerei und auf ihre Empörung
+als heimliche und verschworene Freundin von Mitpatient Fuchs,
+Ehrenrührigkeit darüber umgekehrt, und Mitpatient Fuchs soll brüderlich
+an das Anrecht ihrer vermutlichen tatsächlichen \*Ex\* gemahnt haben,
+2021 Juxerei ob sie noch Jungfrau oder bis 2018 noch gewesen. Mich 2010
+vor ihr als von Fuchsens Musikerbande ausgegeben, nach Zusammentreffen
+mit anderer Musikerbande um Mitpatienten von Station 64, Christof
+Mettler, beim Herumstreifen um ihre Wohnung in Giesing. Von 2008 bis
+2012 unter gerichtlicher Betreuung durch Eltern.
 
 Im Sommer 2017 Absetzung von Neuroleptika erstmals ausschleichend und
-geglückt, seither fleischlose Kost, Rauchen aufgehört, nervlich
-unterstützt von einem täglichen Bier, später stattdessen zwei
-alkoholfreie.
+daher geglückt, nervlich unterstützt von einem täglichen Bier, später
+stattdessen zwei alkoholfreie für Hopfen, seither auch fleischlose Kost,
+und Rauchen aufgehört, nach 9 Jahren.
 
-Stimmen unter Neuroleptika oft fangspruchartig, quälend wiederholend,
+Stimmen unter Neuroleptika resistent, fangspruchartig, Reizworte,
+Reizthemen, instrumental stimmungsabhängig, quälend wiederholend,
 sachlos drohend, dabei Zorn und Wut bewusst und gezielt verkehrend,
 verstörend, verfolgend, manchmal Personen identifizierbar, etwa unter
-der Verleumdung durch den Nachbar Pin öfters dieser. Versuch,
-bedrohliche Stimmen als öffentliche und allgemeine Beleidigung und
-Verleumdung dingfest zu machen an Psycho-Terror der Proforma-Rattenjagd
-in der Nachbarschaft mit Karikaturenplakataktion im November 2017,
-offenbar allerseits als Gegenangriff und Frechheit und Fallenschnappen
-verrufen: Hausverwaltung und albanischer Hausmeister decken sich mit
-Gegenplakat gegenseitig auf immer nur eine einzige überfüllte Tonne
-erfolgreich. Im Sommer 2020 erstmals Rattenplage bei überfüllten
-Mülltonnen, kaputte danach ausgetauscht, zusätzliche angeschafft.
+der Verleumdung durch den Nachbar Pin, »Der ist schwul!«, Grillabend
+Frühsommer 2013, der Frau Nachbarin Elfers Witz auf »Willst Du eine
+Zieh-Gar-Hätte?« dann auch noch »ver-steht«, der »Sonst sagen Sie auch
+noch, ich hätte etwas mit Kindern!« als Zuhälterspruch für Frau
+Nachbarin Elfers nicht richtig verstanden haben will, zu Spielrücktritt
+bei Fußgänger-Polo mit den Elfers und Blazic im Garten, Fremdenlegionär,
+öfters wie drillend bei Küchenarbeiten, selten höhnisch-humorvoll
+selbstironisch, spielte einmal wie zufällig auf Pseudonym von einem
+handschriftlichen Text an.
 
-Verirrter Gasalarm wegen Trocknerabgas aus dem Keller im Juli 2017 gegen
-Nachbarn erst 2021 aufgeklärt, leider Entglaubigung in
-Ruhestörungsbeschwerde und Notruf seit deren Vergraulungsaktionen 2013.
-Im Spätsommer 2017 neue Vergraulungsaktionen durch Nachbarn.
+Versuch, bedrohliche Stimmen als öffentliche und allgemeine Beleidigung
+und Verleumdung dingfest zu machen an Psycho-Terror der
+Proforma-Rattenjagd in der Nachbarschaft mit Karikaturenplakataktion im
+November 2017, offenbar allerseits als Gegenangriff und Frechheit und
+Fallenschnappen verrufen: Hausverwaltung und albanischer Hausmeister
+decken sich mit Gegenplakat gegenseitig auf immer nur eine einzige
+überfüllte Tonne erfolgreich, keinerlei Rückmeldung auf Plakate mit
+Vorschlägen zur Hausmeisterei, teilweise als Stellenausschreibungen
+aufgemacht, Hausmeister ruft auf Gesprächsversuch sofort zuvorkommend
+die Polizei. Im Sommer 2020 bei überfüllten Mülltonnen erstmals
+Rattenplage, kaputte Mülltonnen danach ausgetauscht, zusätzliche
+angeschafft.
 
-Nach ausgelaufener Einladung im November 2017 gleichzeitig Mieteralarm
-und Streitschrift an Brüder und Eltern, Dringlichkeit verdeutlicht mit
-beispielhafter Psychotik aus abgewiesener Einladung an Mitpatientin, und
-damit auch erste Nachricht zu Verlobung, allerseits abgewiesen.
-
-Daher Kündigung der Miete bei 10 Jahre älterem Bruder Ingo,
-außerordentlich begründet gekünstelt um unterlassene Hilfeleistung im
-Nachbarstreit und Hausmeisterstreit und Vertragsbrüchigkeiten herum als
-wegen unter seiner vermutlichen Lüge von der erzwungenen
-Wohnungshilfeleistung psychiatrieartig pseudo-therapeutischer
-psychoterroristischer Wohnbedingungen, argumentativ gleiche Psychologie
-wie gegen Proforma-Rattenjagd, bisher verweigert Bruder und Vermieter
-Gespräch und Bündnis.
-
-Unter seit März 2018 im Stockwerk neuen Nachbarn der Drohbriefaktion
-»Prince Ritzinger c/o Schneider« Streit um Wohnungsdarlehen auf
-Arbeitslosengeldmiete abgebrochen und vereinnahmt, Bürgschaft
-arbeitslosenrechtlich verboten, Bruder als Treuhand ebenso,
-Verleugnungen durch Bruder und Vermieter von Nachbarstreit und
-Hausmeisterstreit bevormundend und demütigend und ermüdend, vermutlich
-methodisch, auf pseudo-normal, Rollentausch mit Schizo, Buhmann,
-Saubermann, jedoch keine Vollmacht oder Hilfe etwa gegen den schon seit
-2013 aktivistischen Hausmeister, Verleugnung von Notwendigkeit von Kamin
-auch für das Abgas vom Herd auch durch Kaminkehrer, leugnet Kalkwasser
-hinter Wasserfilter schon seit Sommer 2017, Nachbarn auf Plakate
-desinteressiert, Verleugnung und Verharmlosung von Lauschangriffen und
-Belästigungen durch Nachbarinnen und Nachbarn, Stattgabe von
-Verleumdungen, unterstellt mit Beschwerdeweiterleitungen und
-Betreuungsanträgen Eigentumsklage.
-
-Fehlerhafte Kündigung dennoch vorerst zurückgenommen im Sommer 2021,
-Bruder lehnt Kauf einer neuen Eigentumswohnung ab, Wohnungssuche 2021
-und 2022 wieder aufgenommen, über Internetzportale, erfolglos, Kündigung
-von \*Newsletter\* angenommen im Sommer 2022, die von älterem Bruder und
-Cousin nachträglich zu 2018.
-
-Im Streit außerdem mit zweiter Frau des Bruders und Vermieters und
-Diplom-Informatikers Ingo seit Muttertag 2017, einer Arbeitsagentin,
-Trauungsfest 2014, vorherige Frau von Bruder und Vermieter ursprünglich
-arbeitslos, geschieden zum Ende der Verlobung mit Mitpatientin 2010,
-deren Bruder angeblich auch arbeitslos und ein Kind mit einer
-Arbeitslosen, eigener Heiratsbetrugsverdacht gegen die geschiedene
-Schwägerin seit ca. 2020, ungeteilt. Zu den Ehen der 10 und 11 Jahre
-älteren Brüder insgesamt nur äußerst spärlich und vieldeutig informiert.
-Frau von Vermieter und Bruder lässt Einladungen zur Beilegung der
-Streitsachen von 2017 zu Jahrestagen 2022 und 2023 absagen. Zu neuer
-Heirat des älteren von zwei Brüdern und Steuerfahnder Joel im Herbst
-2019 nicht benachrichtigt, dessen Scheidungsehe deutsch-französisch,
-geschieden Ende 2016, Lymphkrebs-Chemo als routinemäßig in der Stillzeit
-des einzigen Kindes und Sohnes 2005, zuvor Schilddrüsen-Entfernung.
-
-Seit erstmaliger Verständigung von Familienangehörigen im November 2017
-per \*E-Mail\* endlich Raum erschlossen außer für Therapiepatientin für
-weitere wichtige Themen und Auseinandersetzungen, Übertragungen aus
-Streitsachen mit Nachbarinnen und Nachbarn und aus Scheidungen der
-Brüder schon vor der Unterbringung in der Psychiatrie 2019 erkennbar,
-Einladungen zu Lesungen und Besprechungen auch an Nachbarn allerseits
-ausgelaufen, an Nachbarn außerdem Einladung zu Theaterstück anstatt von
-Nachrichtentheater zu Ostern 2019 ausgelaufen, jegliche Einlassung von
-allen Empfängern vermieden. Ebenso nach Plakatveröffentlichungen für
-Nachbarn, [bis
-heute](http://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html).
-
-Seit Sommer 2017 die lange unfassbar wiederholten und andauernden
-Visitationen zu ihren Sprüchen eindringlicher, seit November 2017, seit
-Karikaturenplakat wie seit \*E-Mail\* an Angehörige empörender.
-
-Para-akustische Stimmen seit Sommer 2017 thematisierbarer, absichtslose
-Sinnsprüche angreifbar, aber nicht beantwortbar, auf Widerrede
-ausweichend, mit Reden interessierbar, dabei insbesondere gegen
-Richtigstellungen mitunter erbost Störungen, nach Verortung von
-Morddrohungen bei Pseudo-Rattenjagd und nach Karikaturenplakataktion im
-November 2017 eindringlich in der Wut auf Kerstin, deren Kanaillerien
-als Halsabschneidereien darstellerisch grotesk vorgeführt,
-austreiberische Eindringlichkeiten und ekelhafte Anliebelungen
-unerträglich, Stimmen später öfter ausgedehnter wiedergebend und
-absichtlich unaufgeregt bevormundend, nach gleichzeitiger \*E-Mail\* an
-Familienangehörige mit erster Nachricht zu Verlobung Sprüche von
-Mitpatientin insgesamt wichtiger und leidenschaftlicher, etliche Lieder,
-vermutlich außerdem von Nachbarn mitgeschnitten oder ausgelauscht oder
-diesen weitergeleitet oder ausgekundschaftet. Verdacht auf Auslesung von
-Tagebüchern und auf Raubkopien von \*Scans\* derselben, auch gegen
-Bruder und Vermieter, dessen Türenaustauschantrag auf der
-Wohnungseigentümerversammlung von März 2018 zwielichtig,
-Jahrestaglesungen 2023 wie begleitet.
-
-Auch fremdländische Nachbarn drohen seit 2013 mit Auskundschaftung, dies
-erst seit Sommer 2017 nach und nach fassen können. Infiltration des
-zwischen Sommer 2017 und Winter 2022 ausschließlich genutzten
-Mobilfunktelefoninternetzes belegbar in manipulierten Internetzseiten,
-auch von Markenhändlern, falls nicht durch Auslauschung, diese
-vermutlich zusätzlich mit Hilfe von Wanzen.
-
-Bis zu Internetzsuche 2021 Aktivist »Prince Ritzinger« nicht als Star
-der \*Show\* »D.S.D.S.« erkannt, und nicht als Südafrikaner, sondern
-Latino, für einen weiteren ihrer \*Ex\*-Fabel-Darsteller gemieden (nach
-Buchautor Dour's »Arthur« in der Soteria 2011).
-
-Während Mietkündigungstreit im Februar 2018 drei Geschäftsbriefe
-erhalten, die erkennbar Unterlagen zur Nachbarswohnung von neuem
-Bewohner »Ritzinger« an »Prince Ritzinger c/o Schneider« enthalten;
-ungeöffnet zurückgesendet; mit Beschwerde; Absender (SWM,
-Hausverwaltung, Notarbüro Lorenz & Schmidt) verleugnen Meldebetrug und
-Strafbarkeit, auf Postbotenfehler, die Wohnung gehöre auch einem
-»Schneider«, obwohl an den Namenschildern des Nachbarn damals
-»Ritzinger«; dort seither »Schwarz«.
+Im Februar 2018 mitten im Nachbarschaftstreit und Hausmeisterstreit und
+Mietkündigungstreit drei Geschäftsbriefe erhalten, die erkennbar
+Unterlagen zur Nachbarswohnung von neuem Bewohner »Ritzinger« an »Prince
+Ritzinger c/o Schneider« enthalten; ungeöffnet zurückgesendet; mit
+Beschwerde; Absender (SWM, Hausverwaltung, Notarbüro Lorenz & Schmidt)
+verleugnen Meldebetrug und Strafbarkeit, auf Postbotenfehler, die
+Wohnung gehöre auch einem »Schneider«, obwohl an den Namenschildern des
+Nachbarn damals »Ritzinger«; dort seither »Schwarz«. Neuer Nachbar
+anscheinend weibstoll.
 
 Staatsanwaltschaft urteilt gleichfalls auf Postbotenversagen, beruft
 sich auf Hausverwaltung, Strafanzeige über das Grundbuchamt mit
@@ -510,103 +450,583 @@ Zahlungsaufforderungen widersprochen, Irrsinn über den Dokumenten als
 solchen selbstdiagnostiziert und als Beweis angegeben; insbesondere
 »Grundrechtanteil« für Bestechung, »Miteigentumsgeschäft« für Betrug.
 
-Kurz vor Bescheid Nachricht von Vermieter und Bruder, die
-Nachbarswohnung gehöre laut Urkunden der Hausverwaltung einem »Prince
-Damian Ritzinger«, dieser hätte geschrieben, hätte vorher kurzzeitig an
-eine Frau Schneider vermietet, tatsächlich öfters laute Unterhaltungen
-einer Frau in Begleitung aus dem Treppenhaus, vermutlich gezielt, die
-auch Gast von Nachbarn auf Nr. 14. Hausverwaltung in Beschwerde gegen
-die Staatsanwaltschaft sofort angezeigt, Hausverwaltung außerdem im
-Streit um Verschleppung von Bearbeitung von
-Haftpflichtversicherungsmeldung einer beschädigten Fassadenplatte durch
-diese und durch die Haftpflichtversicherung angezeigt, Gegenplakat der
-Hausverwaltung gegen Karikatur der Proforma-Rattenjagd vom November 2017
-erst 2021 in der Psychiatrie als Beweismittel einholen können,
-Beschwerden seit 2018 unbegründet und knappst abgelehnt, bis heute
-mehrmals ergänzt und wiederholt, letzter Bescheid Anfang 2019 (StA I:
-261 AR 2847/18, GStA: 22 Zs 2483/18 g).
+Kurz vor Bescheid Nachricht von Vermieter und Bruder am 14. Juni 2018,
+die Nachbarswohnung gehöre laut Urkunden der Hausverwaltung einem
+»Prince Damian Ritzinger«, dieser hätte auf Rückfrage an alte
+Postanschrift per \*E-Mail\* geantwortet, leitet Antworttext ohne
+\*E-Mail\* und ohne Absender weiter, darin Drohung mit Datenschutzklage,
+Zustimmung zur Weitergabe seiner alten Postanschrift wäre nicht
+eingeholt worden, hätte vorher seine neue Wohnung kurzzeitig an eine
+Frau Schneider vermietet, von daher wäre gleicher Name am Klingelschild
+und Briefkastenschild, Namenschilder anfangs Ritzinger, tatsächlich
+öfters laute vermutlich gestellte Unterhaltungen einer Frau in
+Begleitung aus dem Treppenhaus, diese auch bei neuen Nachbarn um
+Nachbarn Elfers auf Nr. 14, hätte mehrmals »in der Vergangenheit mit dem
+derzeit in Ihrer Wohnung hausenden Herrn Schneider vergeblich
+diesbezüglich persönlich in Kontakt zu treten« versucht, und wünscht
+sich zukünftige Probleme in der Nachbarschaft »ganz einfach durch Reden«
+zu lösen, und »durch persönlichen und respektvollen Kontakt«, und bittet
+im P.S. »um Information« für den Fall weiterer Briefe an »Prince
+Ritzinger c/o Schneider«, damit er die »betreffenden Körperschaften«
+selber über den neuen Addresszusatz »c/o Schwarz« informieren könnte,
+Bruder und Vermieter trägt grundsätzlich Schwarz, scheint in
+Begleitschreiben seiner Weiterleitung sarkastisch, der Herr Ritzinger
+hätte freundlicherweise geantwortet, damit das »kleine Rätsel nun
+gelöst«, »zumindest« ich hätte es mir einfacher und direkter erklären
+lassen können, er würde sich auch so einen persönlichen und
+respektvollen Umgang wünschen, spielt hintergründig Klage wegen seiner
+abschätzigen und abfertigenden Antworten auf gleichzeitig
+Nachbarschaftsalarm, Fehlbehandlungs-Streitschrift und
+Trennungsnachricht in \*E-Mail\* an Brüder, Schwägerinnen, Cousins und
+Eltern vom November 2017 gegen Klage auch gegen Eltern und übrige und
+vermeintlich weitere Empfänger wegen Hinterhältigkeit bzw. Abfertigung
+aus, als gegen die Absicht derer Autoren auf »Ghostwriter«. In
+\*E-Mail\* an Angehörige vom November 2017 Dringlichkeit und
+Antwortabhängigkeit verdeutlicht mit beispielhafter Psychotik aus
+abgewiesener Einladung an Mitpatientin vom Mai 2017, und damit erste
+nähere Nachricht zu gescheiterter Verlobung 2010.
 
-Seit März 2018 in der Gegenöffentlichkeit durch einen neuen Nachbarn und
-Aktivisten »Prince Ritzinger c/o Schwarz« im selben Stockwerk
-vereinzelte geschützte und teils auf aktuelle Ereignisse und Berichte
-andeutungsreiche Aktionen durch Gegenaktivisten und Nachbarn, Gegenwart
-der Belagerung durch Lauscher und Spioninnen auch oft gemütlich und
-spielerisch unterhaltsam, Verleumdungen mehr und mehr als Aufstellungen
-und Umzingelungen durch Nachbarn auch fantastisch eindrücklich, zur
-Dramatisierung mit ausgegliederten und entmündigenden Rollen vermutlich
-Stuhlkreise, Signalmanöver von Nachbarn mit Hupen, Rufen, Kreischen, ob
-als lästige Andienungen, oder ob als beleidigend vergleichende
-Gegenüberstellungen, Mimikry vor allem auf Brüder und Mitpatientin, auch
-Streitsachen jeweils verhetzend verausmaßt und zur Verteidigung und
-Mäßigung aufgestachelt, dabei immerzu und jederzeit, in Entspannung wie
-in Überlegenheit stetig gegenlenkend und zeitraubend, manchmal gezielte
-Stellungen auf verfängliche oder selbstbezügliche Widerreden, auch in
-die Rotation hetzend, Widerreden sämtlich unerhört und unaufgenommen.
+Hausverwaltung in Beschwerde gegen den Beschluß der Staatsanwaltschaft
+sofort auch wegen Irreführung und Verkeilung angezeigt, Bruder und
+Vermieter pflichtet nicht bei und leugnet auch diese Intrige.
+Hausverwaltung außerdem angezeigt im Streit um Verschleppung und
+Veruntreuung von Bearbeitung von Haftpflichtversicherungsmeldung einer
+beschädigten Fassadenplatte, sowie die Haftpflichtversicherung wegen
+versuchter Anstiftung zur Zeugenbeeinflussung und zum Betrug mit Verbot
+von Schuldeingeständnis der Fahrlässigkeit.
 
-Seit Ende 2016 kolumbianische Nachbarin Espana im Stockwerk tiefer einen
-Mitbewohner, beide ausgezogen Anfang 2018, seit 2017 Verdacht auf
-Spionage, vorher durch Fehlinfo von alarmiertem Nachbar Metz
-mitverdächtig für Lauschangriff einer orgasmisch stöhnenden Frau 2013,
-dieser Nachbar Metz 2016 ausgezogen, früherer Lauschangriff einer
-deutschen Nachbarin Theuschel bis 2023 unbeachtet, diese unabsichtlich
-auch selber gedeckt, in Projektzeitung mit [Offenkundigen
-Enten-Schlagzeilen zur Aufdeckung von Vergraulungsaktionen und Spionage
-von
-Nachbarn,](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html "Rubrik Nachrichtenpolizeianzeige")
-seit Oktober 2018 auch mit Aushängen am Mülltonnenschuppen, fortlaufend
-und nachgiebig verbessert und ergänzt, [erst im April 2023 (laufende
-Arbeit)](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachAllerheiligenBettschellerin "Dr. Klatsch's sieben Antworten auf eine unziemliche Frage")Entdeckung
-der Verschwörung um den[ursprünglichen Lauschangriff einer anderen
-Nachbarin](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagStalkerorden "Neue Stalkerstelle Vom Amtsgericht Verleiht Posthörnleinklackerns Nachbarn Für Ihre Aktivitäten In Der Leipartstraße Stalkerjäger-Orden. "),
-Streit mit dem Hausmeister um Versperrung von Zählerkeller im Frühjahr
-2018 [schon im April 2019
+Zur Karikatur der Proforma-Rattenjagd und zum Gegenplakat der
+Hausverwaltung vom November 2017 im Streit über kurz frühere Nachricht
+die Familie erst im Herbst 2018 benachrichtigt, erst 2021 in der
+Psychiatrie auf Betreuungsantrag des Bruders und Vermieters als
+zusätzliches Beweismittel gegen die Hausverwaltung nachzuholen Anlass
+wahrnehmbar, Schreiben an Staatsanwaltschaft der Familie nicht
+weitergeleitet gehabt, laut ehemaligen Betreuer Jürgen Baumgartner
+Strafanzeigen und Gegenbeschwerden gegen Nachbarn auch schon verjährt,
+Beschwerden bei Staatsanwaltschaft seit 2018 unbegründet und knappst
+abgelehnt, bis heute mehrmals ergänzt und wiederholt, letzter Bescheid
+Anfang 2019 (StA I: 261 AR 2847/18, GStA: 22 Zs 2483/18 g).
+
+Im November 2017 Kündigung der Miete bei 10 Jahre älterem Bruder Ingo,
+schriftliche Fassung vom Mai 2018 außerordentlich begründet gekünstelt
+um unterlassene Hilfeleistung im Nachbarstreit und Hausmeisterstreit und
+Vertragspflichtbrüchigkeiten herum als wegen unter seiner vermutlichen
+Lüge von seiner erzwungenen Wohnungshilfeleistung psychiatrieartig
+pseudo-therapeutischer pseudo-normaler psychoterroristischer
+Wohnbedingungen, argumentativ gleiche Psychologie wie gegen
+Proforma-Rattenjagd. Bruder und Vermieter hätte 2012 eigentlich neue
+Wohnung für sich selber nach Scheidung von erster Frau kaufen wollen,
+Verkäufer sei kurz vor Unterzeichnung des Kaufvertrages abgesprungen.
+Bruder und Vermieter hatte 2013 nach erster Eigentümerversammlung auf
+die Rattenjagdintrige in der Nachbarschaft hingewiesen, und auf extra
+Putzhilfstelle für intriganten Hausmeister, »Wer macht hier so viel
+Dreck?«, Bruder und Vermieter verweigert seit Nachricht von neuen
+Vergraulungsaktionen im November 2017 Gespräch und Bündnis weiterhin.
+
+Streit um Wohnungsdarlehen auf Arbeitslosengeldmiete unter Einmischung
+durch Nachbarn »Prince Ritzinger c/o Schneider« unterbunden und
+vereinnahmend, Bruder und Vermieter auf Rückfragen 2021 vorbehaltlich,
+ob Streitsache unterstellt und vorausgesehen, der trotz Bitte um Umzug
+und Neuwohnung auch Nachbarschaftsaktivismus gegen Hausmeister und
+Kaminkehrer bisher nicht beipflichtet, Mietkauf und Eigentumswohnung für
+Arbeitslose rechtlich möglich, anders als von Mutter früher vertreten,
+jedoch in Sachen Erbschaft der Wohnung der Eltern.
+
+Höhnische Aktion von Mitpatienten auf eigenen Hilferuf an Mutter am
+Stationstelefon: »Hol' mich hier 'raus, Kerstin!« als Bekenneraktion,zur
+überraschenden Wohnungshilfe durch Bruder in Haar 2012 Stat. 12/4a bis
+2022 undurchstiegen. Familie 2022 mitgeteilt.
+
+Seit Sommer 2017 die lange unfassbar wiederholten und andauernden
+Visitationen zu den Sprüchen der Mitpatientin eindringlicher und
+greifender, seit November 2017, seit Karikaturenplakat und seit
+\*E-Mail\* an Familie, Dreistigkeiten und Verhohlenheiten zunächst
+gewichtiger und empörender, auch das Gehabe von Bruder und Eltern.
+Endlich Raum für wichtige Themen und Auseinandersetzungen, außer für
+Therapiepatientin auch für abgebrochenes Studium.
+
+Im Streit außerdem mit zweiter Frau des Bruders und Vermieters und
+Diplom-Informatikers Ingo seit Eklat zum Muttertag 2017, der
+Arbeitsagenturbeamtin Hanna Graf, freikirchlich getraut 2014. Damals
+Bruder zum Thema antisemitische Schulbücher der Hamas an dessen
+untergegangener vorheriger frivoler Anspielung an seine Frau vorbei
+zurecht geschraubt, wie in etwa in deutschen Schulbüchern auch mit toten
+Juden wie mit Äpfeln gerechnet würde, ich hätte gut reden, steht vom
+Tisch auf und verschwindet auf den Balkon zum Telefonieren, auch Thema
+der \*E-Mail\* von November 2017. Auch nach vorläufiger Rücknahme der
+Mietkündigung nach Entlassung aus Psychiatrie 2021 möchte sich Frau von
+Bruder und Vermieter ausdrücklich nicht äußern und nicht treffen, lässt
+Einladungen zur Beilegung der Streitsachen von 2017 zu Jahrestagen 2022
+und 2023 absagen.
+
+Zu den Ehen der 10 und 11 Jahre älteren Brüder insgesamt nur äußerst
+spärlich informiert. Zu neuer Heirat des älteren Bruders und
+Steuerfahnder Joel Schneider im Herbst 2019 nicht benachrichtigt, dessen
+Scheidungsehe deutsch-französisch, geschieden Ende 2016, angeblich wegen
+irrigem Ehebruchsverdacht gegen ihn. 2005 Lymphkrebs-Chemo als
+routinemäßig in der Stillzeit des einzigen Kindes und Sohnes, zuvor
+Schilddrüsen-Entfernung wegen Überschnappgefahr.
+
+Vorherige Frau von Bruder und Vermieter ursprünglich und meiste Zeit
+arbeitslos, Sabine Andel, damals deren Bruder arbeitslos und ein Kind
+mit einer Arbeitslosen, angeblich Modefachverkäuferin.
+Heiratsbetrugsverdacht seit ca. 2020, nicht bündnisfähig, auch bei
+Mutter nicht, erste Frau geschieden gleichzeitig zum endgültigen
+Scheitern der Verlobung mit Mitpatientin 2010.
+
+Zuletzt Treffen vereinbart für einvernehmlichen Abschied an der Isar im
+Sommer 2016, ihre Antwort, was sie eigentlich mit ihren Anratungen
+wollen würde, ob sie mich doch eigentlich heiraten wollen würde, »Wir
+passen nicht, Joachim«, zum Abschied aufgebrochen, zurückhalten lassen
+mit »Komm schon, Jocki!«, Spitzname aus Schulzeit ihr vordem nicht
+gebräuchlich, sie täuscht Brautkuss an, spuckt mir antäuschungsweise in
+den Mund, lange vergessen, im Juni/Juli 2021 verziehen als ihre
+Einlenkung mehr für den Flaschensammler, den sie abgewiesen hatte, der
+ein Glas Wein hatte mittrinken wollen, heute mehr für den vermutlichen
+Asylanten unter den Passanten an der Isar, mit diesem vor ihr sich
+damals verglichen, was sich also als diesen vereinnahmt gerächt;
+ansonsten als ihre Heimzahlung ihrer eigenen Überrumpelung schon früher
+verwünscht; außerdem aber als Information auf Hörspiel »Kaffeekränzchen«
+der Fördergruppe »spuc«, 2002 mit Schulkameraden und -kameradinnen im
+Puchheimer Culturcentrum (puc), ihr bisher noch nicht vorgespielt,
+Handlung Gesprächstherapierunde in Irrenhaus um eingebildete
+Schwangerschaft der Figur der Co-Autorin Veronika Duckstein, verliebt
+geschrieben, Co-Autorin schon vergeben, währenddessen neu vergeben,
+Co-Autorin darüber später Darstellerin in Rendevouz-Kurzfilm 2003,
+selber nur Regisseur, den Kurzfilm Kerstin 2010 vorgeführt, scheint tief
+zu blicken, auch die frühe Fassung des zweiten Kurzfilms und
+Götzinnen-Ehe-Kurzfilm, beide im Spätsommer 2009 auch einem Therapeuten
+Dr. Michael Werner vorgeführt, empfohlen von der Jeden-Tag-
+Mittagessenkochen-Station »Soteria«, dort auch einer Therapeutin eine
+Frühfassung des neueren Kurzfilms. Sie zeigt Tage später ihren Kurzfilm,
+angeblich auch aus Fachhochschulzeit, einzelne Motive mit beiden
+vergleichbar, sie im Lotterielos-Brautkleid schießt in Kamera.
+
+Angetrunken, bei sorgenvoll angebotener Übernachtung ist sie beim
+Abschiedsreffen 2016 weiter böse auf Ritterlichkeit, am nächsten Morgen
+spottet sie »So etwas tut man nicht!«, schmerzlich unklar was oder wen
+sie meint, oder wen sie wiederholen will, »Dann muss ich wieder deinen
+Bruder aufrufen!«, gezielte Sticheleien auf Frömmlerei und auf den Namen
+und Beruf meines Bruders und Diplom-Informatikers Ingo Schneider und auf
+seine zweite Ehe mit der Arbeitsagentin Hanna Graf dumpf beängstigend,
+kaum und schlecht geschlafen, müde und entnervt, lässt sich nach Hause
+schicken, anschließend ruft sie mehrmals hintereinander an und würde es
+nun selber wissen wollen, reizt und stichelt gezielt, Trennungswunsch
+nun als ihr wiederholt: »Ich lass' mich doch nicht verarschen!«, darauf
+kein Rückruf, auch später nicht.
+
+2016 zu ihrem Geburtstag im September zu einer selbstgemachten Pizza
+eingeladen, sie würde lieber etwas trinken gehen, obwohl begrüßt mit
+»Ich bin sitt«, ein Neologismus zu satt, man soll sich nur dann in einem
+Wirtshaus treffen, wenn man sich auch nach Hause begleiten würde. Neue
+Einladungen zur Aussprache und Grußbotschaften seither unbeantwortet.
+Wieder kniefällig mit planlosem Besuch bei ihr im Februar 2017. Sie
+würde zur Abendschule gehen, ihr Abitur nachholen, auf dem Weg zu ihr an
+Pappschachteln mit Büchern vorübergekommen, ihre Erzählung zwischen Tür
+und Angel auf Spitznamen eines dubiosen »ebay«-Verkäufers um damals
+aktuelle Retoure gelegt, ihr nicht bekannt gemacht gehabt, auch nicht
+darauf, diesmal schlägt sie einen »neutralen Ort« für ein Treffen vor.
+Einladung von Mai 2017 mit Treffpunkt und Uhrzeit und Themenliste für
+Gespräch bleibt sie fern, erstbestes Lokal auf halber Wegstrecke
+zwischen uns »World of Wine«. Damals und bislang »Ich bin sitt« noch
+nicht verständlich als Reue auf ihre quengeligen Fragen »Holst Du mir
+ein Bier?« und »Krieg ich einen Kaffee?« auf dem Weg zu ihr trotz allem
+angebotener Ausnüchterungsübernachtung, »Holst Du mir ein Bier?« bisher
+verstanden als bewusste Anspielung auf Arbeitsagent namens Biermann, ihr
+ungenannt, 2016 nur sehr selten Bier oder Wein, oder aber wegen eigenem
+Scherz »Rauch und sauf!«, beim Aufbruch vom Picknick 2016, auf ihre
+Bitte nach Feuer für eine Zigarette, nachdem uns einer der vielen
+Isargäste auf dem Nachhauseweg auf Kiff angesprochen hatte, insofern
+verständlich als ihre Bekehrung zu Verzicht auf Substanzmissbrauch, im
+Jahr 2012 noch, »Ohne Wein bist Du nicht willkommen!«, 2012 trotzdem
+eine Flasche von der Tankstelle geholt, »Der Wein ist Pisse!«. Tägliches
+Bier und sieben Mahlzeiten hilfreich zur Heilung der Pornosucht.
+
+Sprüchesammlung Grundlage für Fragen und Forderungen in [Offenen Briefen
+an die
+Mitpatientin](https://groups.google.com/g/posthoernchenschalen/c/JZ93pi7TI80)
+und an Mitpatienten Fuchs und Dour, die in *E-Mails* an Familie, an
+ausgewählte Bekannte fast völlig, an Amtsgericht und Polizei, an
+einzelne Mitpatienten und Psychiater der WG-Station »Soteria« (an die
+Mitpatientin nur Druckausgaben, da ihre *E-Mail-Address* unbekannt)
+völlig antwortlos bleiben, und damit ganz leerig annahmslos, bis zur
+amtlichen Androhung durch deren gerichtliche Betreuerin, die würde Bitte
+folgen, Frau Pokorny möchte »keinerlei Kontakt« mehr, »auch wenn Ihre
+Briefe keinen zu beanstandenen Inhalt«, so auch zuvor auf den Umschlägen
+der zurückgesendeten Ausdrucke des Offenen Briefes zu ihrem Geburtstag
+im September 2020 »Lass uns in Ruhe, sonst verklage ich dich«, ihre
+Mutter »ungelesen zurück!!! da müll!« in gemeinsamem Umschlag,
+Betreuerausweis von Dezember 2015; auch Patientin der Psychiatrie
+Mentorschwaige.
+
+Kurz nach erstem Offenen Brief im Januar 2019 präsentiert sie sich als
+Passantin am nahen S-Bahnhof, macht sich mit dem Begleiter in
+Mienenspiel und Pose über Vorwurf der Spionage und Desinformation
+lustig, sie äugt »to gaze« und er gähnt »Yawn« wie »to own«, bis dahin
+zig Versionen von Kartinas insbesondere zur Anspielung auf das imitierte
+Gähnen von Patienten Fuchs, in anderer Männerbegleitung in der S-Bahn
+mit Afrikaner vorbeihuschend (Frühsommer 2019), Penetration, nach
+Porno-Hörspiel von Stimmen dazu, reagiert damit jeweils bevorzugt auf
+Gespitzel und Gehetz zu ihrem Verbleib, nimmt aufgehobenes Urteil über
+sie vorweg, unterstellt insbesondere von Stimmen unter Belagerung
+gehaltenen Verdacht auf Telepathie bei früherem Wicksen damit
+unnachgiebig weiter und verbietet Fragen zum Thema Sexual-Gewalt von
+Frauen. Wicksen auch Thema der Einladung vom Mai 2017, ihr die Nachricht
+an Familie vom November 2017 bis dahin noch nicht bekannt gemacht,
+insbesondere nicht Theorie zum psychotischen Leiden und Schaden unter
+Ausnutzung von Erwartungen und Kundschaftervorteil, weicht damit
+Streitfragen und Aufrollungen aus und schlägt Angebot auf eigenes
+Publikum gegen Psychiatrie außer Dour und Ritzinger aus. Bis zu
+Internetzsuche 2021 Aktivist »Prince Ritzinger« nicht als Star der
+\*Show\* »D.S.D.S.« erkannt, und nicht als Südafrikaner, sondern Latino,
+für einen weiteren ihrer \*Ex\*-Fabel-Darsteller gemieden, nach
+Buchautor Dour's »Arthur« in der Soteria 2011 [und dessen
+Lanzelot-Persiflage »Epico. Eine Erzählung aus
+Anderwelt«](https://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachAllerheiligenLanzelotverschnitt "Neue Rezension von Mitpatient David Dours »Epico«: Wieso ist Göttin Enja keine Prophetin?"),
+auch erst Ende 2017 entschleiert, für den jüdischen Vater ihres
+abgetriebenen Kindes Sascha Schwarz, der fast täglich seine Türmatte
+saugt.
+
+Jedoch auch früher keine Verdächtigungen gegen Mitpatient von Station
+12/3b 2011, von dort aus Flucht und sofortige polizeiliche Rückführung
+von Kerstin, bald darauf wird auch Afrikaner auf Station zurückgebracht,
+unfraglich wohin geflohen, ihn auf Rosenkranz mit Sektenführerikone
+schon angesprochen gehabt, schlechtes Deutsch und Englisch, Besuch von
+Afrikanern in Che-Guevara-Basken, putzte sich auf Zimmer die Zähne auf
+abgelehnte Weintrauben, nachträglich Aktion auf »jmd. Trauen« oder auf
+»Trau-Benn«, einer der \*Ex\*-Märchen von Kerstin namens Benjamin hätte
+eine Isabella geheiratet, so auch der Name der Hure, die Mitpatient
+Fuchs empfehlen würde, ihr Name damals und lange als Anspielung auf ein
+Lied von Jimmi Hendrix abgelenkt und verloren über mangelnde Kenntnis
+und fehlende Nachforschung zu ihrem biblischen Mythos, 2010 am Morgen
+nach einer Übernachtung an der Isar einer wassertriefenden Passantin
+begegnet, die am Vorabend von den Sanitätern im Einsatz auf der nahen
+Brücke übersehen worden sein müsste, ihr die Decke überlassen. Kerstin
+hatte von ihrem Vater gefabelt, ihr Hund hätte diesen in die Scheidung
+verfolgt, und wäre dabei in die Isar gesprungen und in einem Rotor
+umgekommen.
+
+Weggetreten unter starken Neuroleptika im Raucherzimmer der Station
+12/3b 2009 Mitpatientin Anna vom Schoß weg mit aufgelegtem CD-Lied
+angespielt (Venetian Snares: Koonut Kalifee), stellte sich als
+Satanistin vor, würde unbedingt ein »schwarzes« Kind wollen, malte in
+Kunsttherapie afrikanische Flagge und präsentierte sich mit
+afrikanischem Besucher als Vater, mit dem sie auf dem Stationsklo
+gewesen wäre, auf andere Station verlegt und keinen Kontakt gesucht.
+Therapeutische Anweisung von Psychiatriepatienten noch undenkbar, und in
+diesem Fall auch angstlos, Andeutung auf Familiensex unerkenntlich bis
+spät 2022. Afro- und Filzlocken-Motiv im \*Sample\* von Techno-CD noch
+undurchdrungen, Schwager von Bruder und Steuerfahnder Joel hat
+afrikanische Frau, Ermahnung an Schulkameradin und Co-Autorin von
+Hörspiel um Psychotherapierunde mit eingebildeter Schwangerer verhalten
+und heiratsanträglich, schwarze Tischplatte als Fernseher im zweiten
+Kurzfilm als schwarzes »Brad« eher »Table« oder »Board«.
+
+Albanischer Hausmeister schimpft bei regelmäßiger Stromzählerablesung im
+Keller im Frühjahr 2018, wäre lästig, wenn jeder einzeln ablesen müsste.
+Jahresabrechnungen mit der Arbeitsagentur jedes Jahr ärgerlich um
+pflichttreue aber aufwändige Rückzahlung von ausgezahlter Gutschrift aus
+monatlichen Abschlägen der Strom- und Gaskosten, mit der Arbeitsagentur
+Pauschalabrechnung zum jährlichen Weiterbewilligungsantrag ausgehandelt,
+von den SWM teure abschlagslose Abrechnung angeboten, Saisonabrechnung
+über zusätzliche Ablesungsaufforderung zu Sonnenwenden vorgeschlagen,
+und über undurchsichtigen Gaspreisfaktor bei Abrechnung direkt in
+Kilowattstunden in Streit getreten, dabei die Zahl »18« englisch »aid
+teen« und »ate teen« verdächtig auf Kindermissbrauch. Rückzahlung von
+Gutschrift übrigens unrechtmäßig, wie zufällig 2023 bei Recherche in
+anderer Sache in Merkblatt der Arbeitsagentur gefunden. Streit mit dem
+Hausmeister um Versperrung von Zählerkeller im Frühjahr 2018 [schon im
+April 2019
 aufgedeckt](https://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#antiantisemitismusheilung "Papiertiger lieben Monkeys, Rechnungsprüfer lieben Dengler. Die Wilden im Asylum Ignorantiae.")
 und während zweiter Unterbringung in der Psychiatrie von November 2020
 bis Mai 2021 in neuer Serie neu entdeckt, zum [Artikel mit Thema der
 Nummernsymbolik der Zahl
 »18«](https://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#antiantisemitismusheilung "München: Schwuler aus Lateinamerika heilt verkappten schwulen Jesuitenstudenten von Anti-Anti-Semitismus!")
-erst 2022 Aufdeckung der Ursächlichkeit des[ersten
-Nervenzusammenbruches](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagAntiantisemitismusheilung)
-nach drei Tagen Hungerfasten zwischen den Jahren 2007/8.
 
-Im Sommer 2019 Enten-Beschwerde und Falschzeugnis der Nachbarin Gordana
-Blazic durch Bruder und Vermieter weitergeleitet. Keine Bezugnahme auf
-Veröffentlichungen am Mülltonnenschuppen und Enten-Nachrichten gegen
-Nachbarn, auch nicht durch den Bruder und Vermieter, der vorbeileitet zu
-Betreuungsbehörden. Nachbarskinder Hussein dürften auch selber lügen,
-hätte ihr Fahrrad auf sie geworfen, mit dem sie den schmalen Gehweg
-blockiert, waren beim Wegräumen gestolpert. Verleumdung als jähzorniger
-Wüterich, Deckung der Nachbarin Theuschel in Sachen Lauschangriff vor
-Orgasmus-Stöhnen am helllichten Tag durch die Nachbarinnen Blazic und
-Espana als mein Gedächtnisschwund offenbar bewusst verhext. Damals
-entglaubigt wegen Wutabreagieren an Zimmertür in Wohnung wegen
-Nachbarsfeier im Winter 2017/18, dafür Racheakt von Nachbarn während
-Einkaufsgängen mit Einbrüchen von März-Juni 2018, von innen
-ausgefahrenes Türriegelschloß drei Mal zerschlagen, mehrmals repariert,
-zeitgleich Antrag auf Austausch aller Wohnungstüren durch Bruder und
-Vermieter, der Einbrüche und Nachrichten vor dem Betreuungsgericht
-verheimlicht. Unter Meidung von allen Seiten im März 2019 allerdings an
-Kellertür gegen hetzende und verfolgende Lauscher Wut abreagiert, und
-den streitsuchenden Nachbarn Blazic Junior im Treppenhaus stehen lassen.
+Bis zur Psychiatrieunterbringung 2020 Hetze und Feme auf »Kinderficker«
+bei jeder Gelegenheit und bei jeder Begegnung bei Einkäufen und in jedem
+Online-Shop im Mobilfunk-Internetz, abschirmend und deckelnd,
+eigentliche Vorwürfe und Anzeigen erstickt, schon erste psychiatrische
+Behandlung ohne
+[Eigenanamnese](https://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagAntiantisemitismusheilung "Zwischen den Jahren 2007/8. Nach über einem Jahr Gekrebs beim Schnitt des Anti-Porno-Kurzfilms »reprojexion« und Wintersonnwende-Hungerfasten zur Wickser-Heilung anlässlich Zeitgeist-Movie-Inspiration: Post-Fasting Internetforum-Posting-Performance mit Stunt-In-Poetry-Bibleverse-Adaptation zum Kelch von Jesous Christous und Reply-To-All-Poetry-Collection-E-Mail-Spammer-Publication. Abschließend Remote-Party mit Spam-Food Coffin-Coffee und Waiter-Water bis zur Real-Eucharisty in der Psychiatrie mit Haloperidol-Injection und Neuroleptical-Program-and-Work-Total-Reset-For-Over-10-Years. ")
+zur Psychotik von Nervenzusammenbruch nach drei Tagen Hungerfasten zur
+Jahreswende 2008 und von dichterischer Bibelvers-Adaptation zu »Lass'
+diesen Kelch an mir vorübergehen!«, \*Spammer-Publication\* bei der
+Mitpatientin seit 2010 bekannt, Dours Buch zum Ende nochmals jeden Satz
+in umgekehrter Reihenfolge im Schematismus der unendlichen »8«,
+Verschwörung von Mitpatienten unter Behandlungsgeheimnis nicht
+skandalträchtig oder ausnutzungsverdächtig, Hexensprüche nicht
+verschleierungsverdächtig und aufklärungsbedarfverdächtig, Vermeidung
+und Umgehung von Eigenanamnese in der Psychiatrie nicht skandalträchtig
+und Geistheilungsmedikamente nicht esoterikverdächtig, langjährige
+Pornosucht vom Kiffenaufhören mit 17 bis zum Alter von 35
+(ausschließlich Kategorie »straight«) nicht skandalträchtig aber
+familienauffällig, nicht agenturverdächtig aber pathogen, jeden Tag
+Mittagsgericht nicht missbrauchsverdächtig. Ebensowenig gestellter
+Bruder von erster Frau und angeblicher Modefachverkäuferin von Bruder
+und Vermieter Ingo, oder Verzicht auf ehelosen und vertrauenslosen Sex
+gegenüber Mitpatientin, oder Spättaufe auch meiner beiden Brüder erst
+zur Konfirmation, oder meines Vaters Mitarbeit bei inzwischen
+aufgelöster messianisch-jüdischer Gemeinde mit einmal im Jahr
+Eucharistie zu »Passah« aber ohne monatliche Kalenderfeier und ohne
+Fastenorgie und ohne Sauerteigfest.
 
-Unangemeldeter Hausbesuch von Gesundheitsbeamten verpasst, die
+Im heiligen Land von David Dours Lanzelot-Persiflage Juden und
+Mohammedaner hässliche Orks, Rassismus auf Konzept des Semiten,
+Happy-End Gassigehen mit eroberter geliebter Göttin, Stationen-Drama
+Installations-Rundgang, beruft sich damit auf ihr \*Ex-Märchen\* eines
+Arthur, stellt mich im Winter 2010/11 wieder auf Station in der
+»Soteria« seinem Miniatur-Kristallschädel als seinem Vater vor, hätte
+einen Sohn, beruft sich auch auf die ihr angebotene Tournee, versucht
+gerollten Reisebrief zu überreichen, erst seit circa Mai 2023
+aufgedeckt: in Kerstins Märchen vom in der Isar verunglückten
+Scheidungsspürhund auf der Suche nach der Pension in Borkum ihres Vaters
+Besetzung von Rügen, ihr bei gemeinsamen Ausgängen 2010
+Hochzeits-Tournee spontan in Richtung Ostsee und Nordwald vorgeschlagen,
+Exempel auf ihre Vertraulichkeiten, Rotor demnach ihre Anspielung auf
+Neiße, Oder-Neiße-Grenze, Helferkomplextherapie-Station »Soteria« im
+sog. Isar-Amper-Klinikum, Pokorny Dour nach Polin, und ihr Vater
+Deutscher, asiatischen Zügen nach Ungarin, Freudianer von wegen ihres
+womöglichen Missbrauchs als Kind schon 2010 für abwegig und sadistisch,
+vermutlich Verachtung für Schwiegersohnkönige und Psychiaterkonformität
+nachvollziehbar, Andeutung ihrer eigenen Verwaisung abweisend, bei Umzug
+der Eltern mit beiden Brüdern aus Bonn Großmutter mütterlicherseits mit
+nach München umgezogen, gestorben 1980, diese nach dem Krieg
+hochschwanger aus Pommern geflohen, Mutter im August 1945 geboren,
+Großmutter nach Nervenzusammenbruch in Psychiatrie Haar wegen
+Schizophrenie behandelt, Großmutter auch in Offenen Briefen bisher mit
+Kerstin kein Thema. 2012 hätte ihr Vater außer der Pension in Borkum
+nunmehr auch ein Haus in Aachen gehabt, wo mein Vater auf der
+Technischen Hochschule gewesen, Fragen dazu an sie unbeantwortet,
+Scheidung ihrer Eltern mit zwölf Jahren vermutlich auf Kuckucksuhr oder
+Vogelhaus gelegt.
+
+Seit 2018 unter der Einmischung und Spionage und Belagerung durch
+weibstollen Südafrikaner aus Star-Casting-Show »Deutschland sucht den
+Superstar« »Prince Ritzinger« und dessen wechselnder Mitbewohner im
+Mietvertragstreit mit großem Bruder und Lauschangreiferinnenstreit
+gezielte und ablenkende Verdächtigungen auf meinen sexuellen Missbrauch
+als Kind, und andererseits auf verschleierte Herkunft des Vaters aus
+Bonn, außerdem Zurückhaltungen auf eigene Weibstollheit. Mutter geb.
+Fisch, Schwester des Vaters vor ihm einen Fischbach geheiratet, 2023
+erstmals verdächtig befunden. Vater umarmt 2019 erst frühere Nachbarin,
+dann Verkäuferinnen im Supermarkt, die auf seiner psychiatrischen
+Behandlung zum Vergleich mit einer Strafanzeige bestehen, Dementia
+diagnostiziert und unter Behandlung verschlimmert, vergreist.
+Ausgezogene Nachbarin auch nach 2019 noch zu Besuch als Haarschneiderin,
+verwickelt in auffällige Manien bei erstem Nervenzusammenbruch: nach
+drei Tagen Hungern bei ihr nach Maismehl für Desert zum Fastenbruch bei
+ihr geklingelt, geschiedene Mutter von zwei Kindern, die Wochen zuvor
+Studentenmatte gekürzt hatte, hätte nur Rosenmehl, eine Tür weiter
+alleinstehende Nachbarin sofort offen auf Sex ersucht, abgewiesen. Nach
+durchgemachter Nacht und \*Spammer-Publication\* gesammelter Gedichte an
+alle gesammelten \*E-Mail\*-Addressen, später außerdem eingebildete
+Bräutigamserwartung von Co-Autorin von Hörspiel »Kaffeekränzchen«
+eingegangen, Haustürschlüssel und Geldbeutel den Eltern hinterlassen,
+unterwegs zum Haus ihrer Eltern von Rollläden erschrocken. Nach weiter
+unregelmäßiger Ernährung auf Tasse Kaffee Panik, darauf erste
+psychiatrische Behandlung. In Jahre später angefordertem Arztbrief von
+\*Spammer-Publication\* irrig »Liebeserklärung an die Nachbarin«, bzw.
+an ein »Mädchen«. Erst 2022 Aufdeckung der Ursächlichkeiten des [ersten
+Nervenzusammenbruches nach drei Tagen Hungerfasten zwischen den Jahren
+2007/8](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagAntiantisemitismusheilung)
+aus jahrelang widerredeten vielfältigsten schändlichsten Verdächtigungen
+und Spitzeleien.
+
+2016 Polizeiruf wegen störend lauter alleinerziehender kolumbianischer
+Nachbarin Espana mit Tochter im Stockwerk tiefer, Beschwerden über
+Hausverwaltung seit 2015 schriftlich und telefonisch erfolglos,
+Nachbarin telefoniert abends spanisch, Laute ihrer Stimme impulshaft
+deutsch sondierend, unter Neuroleptika denkstörend, quälende
+Ungewissheit. Seit Ende 2016 einen Mitbewohner, seit Sommer 2017
+Untermieterinnen und Untermieter »Alfa Roja«, Anfang 2018 ausgezogen. Im
+Juli 2017 Fehlalarm wegen Gasgeruch, Gaswache misst in Briefklappe der
+Nachbarin Espana minimal erhöhten Wert, ob nicht etwas anderes stinken
+würde, am nächsten Morgen Bierbraugeruch über dem Viertel. Waschlappen
+verschwunden, vermutlich gestohlen, Nachbarin Espana im Stockwerk tiefer
+Flies auf dem Fenstersims. Besucherinnen präsentieren sich in Schleier
+im Treppenhaus vermutlich in Versuch, Mitpatientin zu beschwören. Erst
+2021 zufällig wieder Trocknerabgas aus dem Keller der Nachbarin Blazic
+in die Nase bekommen, kurz nach Fehlalarm im Treppenhaus hinter Nachbarn
+Blazic frische Wäsche im Treppenhaus gerochen gehabt, nicht begriffen.
+2013 leitet Hausverwaltung nach Spannerangriff mit orgasmischem
+Frauengestöhn Beschwerde von früheren Nachbarn Tunten-Paar
+Güttler-Scherübl an Vermieter und Bruder weiter, wegen Gitarrenspiel und
+Gesang frühmorgens und gezielt erlogen: Handwerkerlärm. 2013 spielt
+Nachbarsohn Blazic auf Bruder Steuerfahnder an, mit einer
+Zeitungsnachricht über Steuersünder vom F.C.Bayern, vermutlich in
+gezielter Anspielung auf komplexe Anspielung und Nachrichtenaktion von
+ältestem Bruder bei Umzug 2012, der mitterweile Fußball begeistert wäre.
+
+Nachbarin Espana seit 2013 stellvertretend verdächtig wegen orgasmischen
+Gestöhn am helllichten Tag, Fortsetzung von vorherigem Lauschangriff der
+Nachbarin Theuschel damals undenkbar und nicht erkennbar, Tage oder
+Wochen vorher, ob ich von der Nachtschicht kommen würde, wie zuvor
+heimlich angedacht, warum Spaziergang bei Sonnenaufgang,
+Arbeitslosigkeit verheimlichen, als unnötige Ausrede längst verworfen,
+»Mit Speck fängt man Mäuse«, noch eine Therapie-Nachbarin. Lautes
+Stöhnen nur Frau, nicht identifzierbar, bei nächster Gelegenheit
+übereilt und furchtsam Nachbarn Metz im Treppenhaus auf das Stöhnen
+angesprochen, Besucher der Nachbarin Espana würden nachts bei ihm
+klingeln, Zwischenfall zu erstem Besuch von Mitpatientin vergessen,
+hätte sich sein \*Handy\* ausgeliehen, hätte kein Guthaben mehr gehabt,
+»Komm' vorbei! Aber Du musst schnell sein!«, war sie selber los, schon
+an der Bushaltestelle. Nachbar »Netz« würde Nachbarin »e' Spanner«
+hinausschmeißen, Ominöse Namen unbemerkt, übertölpeln lassen und fremde
+Nachbarin vorerst in Schutz genommen, da bisher keine Besucher.
+Nachbarin Blazic im Gespräch mit Nachbarn Metz im Treppenhaus
+vorbeigelaufen, lässt laut fallen »Wenn die Espana-Fotzen kommen...«,
+Sondierung auf Nachbarin Theuschel undenkbar und unverstanden, Tage
+darauf klingelt Nachbar Wagner mit fremder Dame in Kopftuch und Kittel,
+ob ich Kinder hätte, ein Kind drohe aus dem Fenster auf die Straße zu
+fallen, die Passantin habe ihn alarmiert, Nachbar Wagner laut schwarzem
+Brett 2013 in Verkehrsunfall verunglückt. 2018 als Spionage-Coup
+entdeckt und mit eigener Werbezeitung im Herbst 2018 angeprangert, auch
+am Mülltonnenschuppen, Nachbar Metz 2016 ausgezogen,
+[Ursächlicher](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagStalkerorden "Neue Stalkerstelle Vom Amtsgericht Verleiht Posthörnleinklackerns Nachbarn Für Ihre Aktivitäten In Der Leipartstraße Stalkerjäger-Orden. ")
+Lauschangriff von Nachbarin Theuschel [in laufender Arbeit zur
+Sache](http://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html#AlmanachAllerheiligenBettschellerin "Dr. Klatsch's sieben Antworten auf eine unziemliche Frage")
+bis April 2023 vergessen.
+
+Kerstin 2012: »Und dann will er die Tochter der Schamanin ficken!«, will
+er doch gar nicht, Dour angeblich einen Sohn, aber keine Tochter, »Ich
+hab so komische Brustwarzen!«, Ich:»Deine Brüste sind perfekt!«,
+trotzdem Versuch mit latexfreiem Kondom, sie unnahbar und unersichtlich,
+Vision von Riesenbaby, zweiter Versuch bei ihr zu Hause Krampf,
+Rektalsex nicht wegen sich wieder eingeengter Vorhaut nicht probiert,
+auch nicht wegen Gefahr von Kondomabstreifen, auch nicht aus Angst vor
+Vulkanen oder Hochöfen. »Ehe ist schwul« klingt bei Tolkien noch
+schrecklich, Huren küssen nicht, Huren küssen nicht auf den Mund, Huren
+küssen nicht den Vormund, Huren küssen nur den Vormund, Huren sind
+mündige Frauen, Huren haben eine Hochzeitsgesellschaft, Huren sind treu,
+Huren sind Ehefrauen, seit 1918 brechen die Vulkanier aus der Kirche
+aus, »Du willst nur deine Mutter! Dich gibt es also noch gar nicht!«,
+sagen die edlen Elfinnen zu der Einen, alle Frauen sind Prophetinnen,
+sagt Paulus oder Petrus wegen Kopfbedeckung den geneigten jungen
+Täuflingen und Novizen und Firmlingen der Gemeinde, die Traumfrauen, die
+fluchenden Närrinnen, die Prophetinnen, zu denen sagt der jüdische
+Beichtvater Doktor Freud »Und ich will meine Mutter ficken!«, sagen
+Beichtväter Ödipus, sagt auch der Seneca mit seinem Theaterstück Odipus,
+aber nicht zu Nero, denn der sagt es zu seiner hexenden Mutter, und die
+tut es, und dafür tötet er sie, nicht umgekehrt, weil es sonst umgekehrt
+ist, wenn man es nicht sagt, wenn man sie nicht tötet, und dann tut man
+es nicht, nur daß Seneca wenigstens eins von beiden die Christen tun
+lassen will, die aber eigentlich nicht nur an die Sohnschaft zum
+Strohmann Caesar öffentlich und lauthals glauben, sondern auch an die
+Leibhaftigkeit und Leibeigenschaft der unzüchtigen Salome, Schwester
+bzw. Tochter des jeweiligen Herodes, dann hat Nero vermutlich geglaubt,
+wenn er das vorauseilend vormacht, er erzeugt mit seinen Promi-Skandalen
+die Reibung, um die Häuser der Kreuziger anzuzünden. Die Heidengötzen
+aus der Schmiede ausgebrochen, die bayerischen Gräzisten mit ihrem
+griechischen Königstempel haben die Harem-Türken vergöttert, die Hagia
+Sophia betet nicht mehr vor dem Kruzifix für Gnade für Ehebrecher, den
+edlen Elfinnen ginge es dann doch auch noch einiger, vielleicht
+Nachbarin Elfers gemeint, die 2012 erster und letzter Außen-Kontakt
+überhaupt mit Kerstin, die aber als Freundin vorgestellt, anstatt als
+Verlobte, ob wir ein Paar wären, »Sie strahlt, aber du!«, würde auch
+malen, grau auf Rollpapier, fragten nur Kerstin aus, bei Grillbankett im
+Garten, als ob mich die Nachbarn schon kennten, sie wäre im Theater
+Atelier, e.V., Nachbar Elfers hätte hingegen bei »Virgin Entertainment«
+gearbeitet, sie war nur nach nebenan auf die Couch, nicht aus der Tür,
+weil sie zu viel Wein getrunken hatte, wäre schon um alle Ecken nach
+Hause gelaufen, Heiligenblut, gibt es vom Türken an der Kreuzung,
+Lufthansawein empfliehlt der Wochen später stolz. Tischgespräch
+irgendeines anderen Tages Besuches bei mir, »Mein Mann ist nach
+Rosenheim geflohen...«, unvermittelt, abgebrochen, vielleicht zu jener
+»Claudia Schneider«, einer Einladung vom Arbeitsamt auf Station 69,
+2011, »die [vom Wohnungsamt] kümmern sich dann darum«, Sozialpädagoge
+Bach, »Die?«, warum nicht Sie, vermutlich Homo, oder zum Schaffner vom
+Zug nach Freilassing, zu Besuch bei ihr, 2012: »Ich bin Dir mit einem
+Immobilienmakler fremdgegangen...«, von erzwungener Hilfe durch Bruder
+und Vermieter erzählt gehabt, die Kerstin Pokorny weiß nichts von
+Josephus Flavius »De Bello Judaico« und von Salomes Brüdern, oder von
+der Sakralen Trinität, und die Wickser sind in der Ehe, was Schlaumeier
+in der Philosophie, und Sprücheklopfer in der Rede sind, dann sind die
+jeweiligen Frauen in ihrem Korb, und die Pornostars und Phantome
+deswegen nicht erbärmlich genug, und echte Anziehung zu einer
+Vorgestellten deswegen verletztlich, meistens Kerstin, Nachbarinnen
+keine.
+
+Nachbarn und Gäste der Nachbarn missbrauchen übertriebene Schlagzeilen
+zur Deckung und zum Vergnügen als vermeintliche Vorbilder, ebenso
+Sprüche der Mitpatientin. Andauernde spionagegestützt andeutungsreiche
+Passantenspiele auf Besorgungsgängen. Nach Nachbarin Espana und Nachbar
+Blazic »Prince Ritzinger« vereinzelte gegen Paranoia oder Sex geschützte
+und teils auf aktuelle Ereignisse und Nachrichten per \*E-Mail\* an
+Familie, Psychiatrie, Freundeskreise andeutungsreiche Aktionen.
+
+Gegenwart der Belagerung durch Lauscher und Spioninnen auch oft
+gemütlich und spielerisch unterhaltsam, Verleumdungen mehr und mehr als
+Aufstellungen und Umzingelungen durch Nachbarn auch fantastisch
+eindrücklich, ob als lästige Andienungen, oder ob als beleidigend
+vergleichende Gegenüberstellungen gegen öffentliche Person geschützt,
+Fiesheiten gegen Streitsachen mit Bruder und Vermieter geschützt, oft
+gezielte Stellungen auf verfängliche oder selbstbezügliche Widerreden,
+2020 Versuche in die Rotation zu hetzen, zur Dramatisierung mit
+ausgegliederten und entmündigenden Rollen vermutlich Stuhlkreise,
+Ursache Falschzeugen-Manegerie und Verleumdungs-Stattgabe über
+mehrfachen Verrat vieler Beamter und Beamtinnen wiederholt erfolglos
+angeführt und eingeklagt und belehrt, Widerreden sämtlich unerhört und
+unaufgenommen. Signalmanöver von Nachbarn mit Hupen, Rufen, Kreischen
+und Maunzen von Kindern. Publikumsbeschimpfungen auf Freundeskreise und
+großen Bruder gedacht. Mimikry zuerst auf Steuerfahnder Bruder und
+Vater, dann auf Mitpatientin, Nachstellung und Simulation von
+informatischen Konkretismen und Egoismen wie der am Willen vorbei
+bestellbaren und beziehbaren Vertraulichkeit oder Ur-Person über
+jahrelange Auslauschung und Einnistung und jahrelangen Verrat,
+Streitsachen jeweils verhetzend verausmaßt und Aufstachelungen zur
+Verteidigung und Mäßigung, dabei bei der Verfassung von wichtigen
+Artikeln, in Entspannung wie in Überlegung stetig gegenlenkend und
+zeitraubend.
+
+Im Winter 2017/18 Wut im über feiernde Nachbarn an Zimmertür abreagiert,
+dafür Racheakt von Nachbarn während Einkaufsgängen März-Juni 2018, von
+innen ausgefahrenes Türriegelschloß drei Mal von innen zerschlagen,
+mehrmals repariert, Einbrecher demonstrieren nach dem ersten Mal in
+meiner Anwesenheit Unsicherheit von Türschloß wie zur Entschuldigung von
+großem Bruder, Konfrontation ausgewichen, nicht angezeigt, auch großem
+Bruder und Vermieter zunächst nicht, damals zeitgleich Antrag auf neue
+Wohnungstüren durch Bruder und Vermieter. Nach Veröffentlichungen am
+Mülltonnenschuppen von allen Seiten gemieden, im März 2019 gegen
+hetzende und verfolgende Lauscher an Kellertür Wut abreagiert, und den
+darauf sofort streitsuchenden in den Weg platzenden Nachbarn Blazic
+Junior im Treppenhaus stehen lassen, der Polizei ruft, die sich ebenso
+nicht für Nachrichten und die Hausmeistervorschläge interessieren, sowie
+die Hausverwaltung, die von einer »heftigen Auseinandersetzung«
+schreibt, hätte den Nachbarsohn Blazic gepackt, man würde sich gegen
+mich »massiv beschweren«, während ich verbale Anschuldigungen ausstoßen
+würde, ob Bruder und Vermieter das »abschalten« könnte, vermutlich meine
+Verteidigungen und Zimmerreden gemeint.
+
+Bruder und Vermieter leitet im Sommer 2019 Gegen-Ente und Falschzeugnis
+der Nachbarin Gordana Blazic zu Gesundheitsamt vorbei: Hätte in
+Wutanfall auf Nachbarskinder Hussein deren Fahrrad geworfen, mit dem sie
+den schmalen Gehweg blockiert, waren beim Wegräumen kaum gestolpert,
+dürften auch selber lügen. Keine Bezugnahme auf Veröffentlichungen am
+Mülltonnenschuppen und Enten-Nachrichten gegen Nachbarn durch die
+Beschwerdeführerin, auch nicht durch den Bruder und Vermieter, der die
+Beschwerde verheimlicht
+
+Unangemeldeten Hausbesuch von Gesundheitsbeamten verpasst, die
 schriftliche und ausführliche Terminvereinbarung zu Treffen außer Haus
-und zu Sachen der Veröffentlichungen ablehnen. Im August 2019 beim
-Abbiegen in Kreisverkehr nahe Polizeiwache Beethovenplatz wegen
-Trunkenheitsverdacht festgenommen, aber polizeibekannt als wiederholt
-angehaltener bewusster Geisterfahrer auf den Fahrradwegen der linken
-Straßenseite, Alkoholtest verweigert, außerdem seit August 2018 im
-[Strafprozess um Fahrradunfall bei eigenhändiger Zustellung von
-Kündigung von Gas und Strom mit einer
-SWM-Mitarbeiterin](http://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagZebraUeberfall "Zebra-Überfall 2018: Überfalltäterin war eine Komplizin des Gaspreisfaktorbetrugsklägers"),
-erste Kenntnis zu Beschwerden der Nachbarn mit Unterbringungsbeschluß
-der Polizei erhalten (Betreuungsverfahren 2019: 716 XVII 5114/19,
+und zu schriftlichen Veröffentlichungen und jede schriftliche
+Untersuchung ablehnen. Bruder und Vermieter scheint mich unterdessen in
+selber \*Mailinglist\* Stellung der Einbrüche von 2018 zu verdächtigen,
+wenn nicht Wutanfall, herausgefordert, unbeachtet.
+
+Im August 2019 beim Abbiegen in Kreisverkehr nahe Polizeiwache
+Beethovenplatz wegen Trunkenheitsverdacht festgenommen, aber
+polizeibekannt als wiederholt angehaltener bewusster Geisterfahrer auf
+den Fahrradwegen der linken Straßenseite, Alkoholtest verweigert. Erste
+Kenntnis zu Beschwerden der Nachbarn mit Unterbringungsbeschluß der
+Polizei erhalten (Betreuungsverfahren 2019: 716 XVII 5114/19,
 Unterbringungsverfahren 2019: 716 XIV 2032(L)), darin auch vorauseilende
 Beschwerden des Hausmeisters, der Gesprächen zu Sachen von Plakaten und
 Veröffentlichungen nach wie vor ausweicht, ebenso wie Bruder und
-Vermieter. Von Weiterleitung der Nachbarbeschwerden durch Bruder und von
-Betreuungantrag erstmals bei beantragter Akteneinsicht im Amtsgericht
-Linprunstraße im August 2021 Kenntnis erhalten.
+Vermieter. Von Weiterleitung der Nachbarbeschwerden durch Bruder und
+Vermieter erstmals bei beantragter Akteneinsicht im Amtsgericht
+Linprunstraße im August 2021 Kenntnis erhalten, sowie von dessen
+Betreuungantrag.
 
 Zur Entlassung im Oktober 2019 beantragt Bruder und Vermieter heimlich
 Betreuung und erneute Unterbringung mit diesmal Zwangsmedikation, noch
@@ -619,35 +1039,18 @@ März und Juli 2018, diese dem Bruder und Vermieter im Frühsommer 2019
 jedoch angezeigt, sowie den Beamten vom Gesundheitsamt, das jeden
 Schriftwechsel abgelehnt hatte.
 
-Außerdem unerwähnt von Bruder und Vermieter: Streit um Kamin auch für
-das Abgas vom Gasherd und nicht nur von Wasserkessel für Heizung und
-Warmwasser, Nebenkosten einbehalten um Beistand zu erzwingen und Kosten
-zu decken, sofort vom Mahnungsgericht Coburg eingetrieben, Alleingang
-gegen eigenen Vermieter, verblendet und übertrieben in
-Gegenöffentlichkeit; seit Zählerkellerstreit mit Hausmeister 2018
-irakische Nachbarskinder regelmäßig störend bei Schriftwechseln und
-Beschwerden bei SWM, wegen Preisfaktor-Betrug und für Saisonabrechnung
-ohne Überschneidung mit jährlichem Arbeitslosengeldantrag, pünktlich zur
-Kündigung der SWM im Sommer 2018 Werber der »Gaza Gas« im Haus. Keine
-alternativen Anbieter ohne Gaspreisfaktorbetrug, Kündigung aufgeschoben,
-Mahnungen jeweils einzeln widersprochen, Ende Oktober 2020 berufener
-Betreuer zahlt nach, seit Entlassung 2021 Zahlung unter Vorbehalt, siehe
-dazu[Schreiben an die SWM vom 14 April
-2022](https://groups.google.com/g/posthoernchenschalen/c/xUNmdyUZJVE/m/Ic8Z6qVrBAAJ "Der")).
-Grillen am Fenster, Grillqualm aus dem Garten, Plakate mit Beschwerden
-dagegen 2022 auch Hausverwaltung zugeschickt, Beschwerden übergangen,
-auch in diesem Jahr. Albanische Nachbarn im Stockwerk tiefer attackieren
-seit 2021 bei offenen Fenstern regelmäßig unauffällig mit Deo-Spray und
+Außerdem im Betreuungsantrag unerwähnt von Bruder und Vermieter: Streit
+um Kamin auch für das Abgas vom Gasherd und nicht nur von Wasserkessel
+für Heizung und Warmwasser, Nebenkosten einbehalten um Beistand zu
+erzwingen und Kosten zu decken, sofort vom Mahnungsgericht Coburg
+eingetrieben, Alleingang gegen eigenen Vermieter, verblendet und
+übertrieben, in Gegenöffentlichkeit verwegen. Grillen am Fenster,
+Grillqualm aus dem Garten, Plakate mit Beschwerden dagegen 2022 auch
+Hausverwaltung zugeschickt, Beschwerden übergangen, auch in diesem Jahr.
+Albanische Nachbarn im Stockwerk tiefer attackieren seit 2021 bei
+offenen Fenstern regelmäßig unauffällig mit Deo-Spray und
 Putzmittel-Gas, länger ungewaschene Kleidung in Küche muffelt trotz
 abgeschalteter Gaswasserheizung nach Abgas.
-
-Betreuungsgericht verlässt 2019 anstehende Beschwerden und
-Richtigstellungen gegen Beschwerden von Nachbarn mit neuem Aktenzeichen
-und übergeht begründeten Widerspruch gegen Ladung mit Polizeiabholung im
-Oktober 2020 als »zu umfangreich«, bis heute unablässlich beschwert,
-dennoch abgefertigt und verweigert (Betreuungsverfahren 2020/21:
-716 XVII 1388/20, Beschwerdeverfahren zum Betreuungsverfahren 2020/21:
-13 T 1617/21).
 
 Gutachterin lässt Betreuungsverfahren zum Winter 2019 zunächst
 einstellen, zum Winter 2020 begründet sie Zwangsbehandlung auf
@@ -655,6 +1058,7 @@ Selbstgefährdung mit Lappen im Kaminrohr; damit war Luftsog durch Kamin
 gestopft, Gas nachweislich und auch dem Kaminkehrer bekanntlich
 abgedreht seit Sommer 2019, im Gas-Boykott für Herdkamin, dennoch von
 Kaminkehrer sofort gesperrt, der ebenfalls Richtigstellung verweigert;
+Kamine anderer Hausnummern mit Aluminiumrohren verengt und verlängert;
 außerdem als wegen tödlich gefährlichem Hautekzem an Kehle (am obersten
 Hemdknopf), Kalkwasser und Parfumwaschmittel vermieden seit Sommer 2017,
 Waschmaschinen in Waschküche stinkend und Wäsche dort erfahrungsgemäß
@@ -665,178 +1069,116 @@ in Wolfratshausen, verfolgt (in Sachen angeschnitzter Pseudo-Biberbäume
 an »Stammplätzen«, bei der Polizei Wolfratshausen: BY1619-007444-21/0;
 abgewiesen bei der StA II: 43 UJs 1795/22 qu, Beschwerde bei der GtA:
 403 Zs 618/22 b), bei Tagebuch und bei Gedichten auf Sprüche der
-Mitpatientin auch dort aufgelauert und belagert, seit 2021 Baden
+Mitpatientin auch dort aufgelauert und belagert, nach Psychiatrie 2021
+bei Buchenhain Scherben in Barfußwege gesteckt, Glück gehabt, Baden
 seltener, »Voralterung« inzwischen schwerer, keine Gesprächspartner
-außer Reden für Lauscher und gegen Spione, Persönlichkeits- und
-Stimmverfremdungen.
+außer Reden für Lauscher und gegen Spione, dabei erste
+Stimmverfremdungen schon im Herbst 2018, als an einem Fenster gegenüber
+ein Vorsitzender oder Politiker im Fernsehen, Floskel- und
+Schmatzerschmäh, Persönlichkeitsverfremdungen.
 
-Im März 2022 nach Anschreiben und Telefonat mit Dame von der
-Betreuungsstelle »Prüfung der Erforderlichkeit einer Betreuung«
-eingestellt (716 XVII 1233/22). 18. Januar 2023: wieder nach Anschreiben
-und Telefonat mit Dame von der Betreuungsstelle, diesmal trotz
-Beschwerde erneut »Prüfung der Erforderlichkeit einer Betreuung«, auch
-bereits wieder dieselbe Verfahrenspflegerin bestellt (716 XVII 6430/22),
-als auf deren Anraten mit Bescheid und Beschluß vom 15. Mai 2023 wieder
-eingestellt, verweigerte Beschwerden mit Schreiben vom 22. Mai 2023 bei
-der Polizei angezeigt.
+Seit Zählerkellerstreit mit Hausmeister 2018 irakische Nachbarskinder
+regelmäßig störend bei Schriftwechseln und Beschwerden bei SWM,
+pünktlich zur Kündigung der SWM im Sommer 2018 Werber der »Gaza Gas« im
+Haus. Keine alternativen Anbieter ohne Gaspreisfaktorbetrug, Kündigung
+aufgeschoben, Mahnungen jeweils einzeln widersprochen, Ende Oktober 2020
+berufener Betreuer Baumgartner übergeht Klage und zahlt, seit Entlassung
+2021 Zahlung unter Vorbehalt, siehe dazu[Schreiben an die SWM vom 14
+April
+2022](https://groups.google.com/g/posthoernchenschalen/c/xUNmdyUZJVE/m/Ic8Z6qVrBAAJ "Der")).
+
+Außerdem seit August 2018 im [Strafprozess um Fahrradunfall bei
+eigenhändiger Zustellung der Kündigung von Gas und Strom mit einer
+SWM-Mitarbeiterin](http://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagZebraUeberfall "Zebra-Überfall 2018: Überfalltäterin war eine Komplizin des Gaspreisfaktorbetrugsklägers"),
+seit Herbst 2020 auch im Schmerzensgeldprozess, pünktlich zur Entlassung
+aus Psychiatrie im Mai 2021Einladung zu einer Ersatzhaftstrafe,
+Versäumnis von ehemaligem Betreuer Baumgartner, bestellte Anwältin nur
+in Schmerzensgeldprozess, Anwältin Künzinger verweigert Mandat für
+Strafprozess und Teilschulderklärung und Gegenanzeigen, sowie für
+Fehlbehandlung und Betreuungsgerichtbeschwerde, Richterin Wild im
+Schmerzensgeldprozess veranstaltet teures Gutachten der Klägerin und des
+Fahrrads auf Kosten des Prozessverlierers, Teilschulderklärung und
+Gegenanzeigen und Anzeigen gegen SWM wären falsche Strategie, Anwältin
+kündigt auf Beschwerde zuvorkommend, Rechtsanwaltskammer wäre im
+laufenden Prozess nicht zuständig, Richterin beantragt statt Notanwalt
+Betreuung, Betreuungsverfahren nach Monaten eingestellt, seither keine
+Nachricht mehr vom Gericht, Strafprozess eingestellt, Beschwerde gegen
+Freispruch »keine Beschwer« im Frühjahr 2023, seither keine Nachricht.
+
+Im März 2022 Anschreiben und Anruf von Dame der Betreuungsstelle wegen
+erneuter »Prüfung der Erforderlichkeit einer Betreuung«, auf
+telefonischen und schriftlichen Widerspruch eingestellt (716 XVII
+1233/22). 18. Januar 2023: wieder nach Anschreiben und Telefonat mit
+Dame von der Betreuungsstelle, diesmal trotz schriftlicher Beschwerde
+erneut »Prüfung der Erforderlichkeit einer Betreuung«, auch bereits
+wieder dieselbe Verfahrenspflegerin bestellt (716 XVII 6430/22),
+Betreuungantrag der Richterin im Schmerzensgeldprozess, als auf Anraten
+der Verfahrenspflegerin mit Bescheid und Beschluß vom 15. Mai 2023
+wieder eingestellt.
+
+Betreuungsgericht verlässt 2019 anstehende Beschwerden und
+Richtigstellungen gegen Beschwerden von Nachbarn mit neuem Aktenzeichen
+und übergeht begründeten Widerspruch gegen Ladung mit Polizeiabholung im
+Oktober 2020 als »zu umfangreich«, ebenso Beschwerden gegen ehemaligen
+Betreuer Baumgartner, bis heute unablässlich beschwert, dennoch
+abgefertigt und verweigert (Betreuungsverfahren 2020/21:
+716 XVII 1388/20, Beschwerdeverfahren zum Betreuungsverfahren 2020/21:
+13 T 1617/21), mit Schreiben vom 22. Mai 2023 bei der Polizei angezeigt,
+bisher ebenfalls ohne Bestätigung.
+
+Verleugnungen durch Bruder und Vermieter von Nachbarstreit und
+Hausmeisterstreit bevormundend und demütigend und ermüdend, vermutlich
+methodisch, auf pseudo-normal, Rollentausch mit Schizo, Buhmann,
+Saubermann, jedoch keine Vollmacht für Eigentümerversammlung und
+Hausverwaltung. Mutter verleugnet ebenso, auf Fachmannsache und
+Normalität abgewimmelt. Kein Beistand etwa gegen den schon seit 2013
+aktivistischen Hausmeister, Verleugnung von Notwendigkeit von Kamin auch
+für das Abgas vom Herd auch durch Kaminkehrer, Bruder und Vermieter
+leugnet Kalkwasser hinter Wasserfilter schon seit Sommer 2017, Nachbarn
+auf Plakate desinteressiert, Verleugnung und Verharmlosung von
+Lauschangriffen und Belästigungen durch Nachbarinnen und Nachbarn,
+Stattgabe von Verleumdungen, Bruder und Vermieter unterstellt mit
+Beschwerdeweiterleitungen und Betreuungsanträgen trotz allem
+Eigentumsklage.
+
+Fehlerhafte Kündigung dennoch vorerst zurückgenommen im Sommer 2021,
+Bruder lehnt Kauf einer neuen Eigentumswohnung ab, Wohnungssuche 2021
+und 2022 wieder aufgenommen, über Internetzportale, erfolglos, Kündigung
+von \*Newsletter\* angenommen im Sommer 2022, die von älterem Bruder und
+Cousin nachträglich zu 2018.
 
 Den belagernden Nachbarinnen und Nachbarn im Sommer 2022
 Applaus-\*Samples\* vorgespielt, die rufen Polizei, die mit
 Beschlagnahmung der Lautsprecher droht, Applaus nur noch im Zimmer
-gespielt, Schilder gegen die Psycho-\*Sounds\* von Ritzinger und gegen
-die Fiepstimmen von nebenan mit \*Loops\*, seit 2023 jederzeit Watte im
-Ohr, bald darauf, seit 7. März 2023 unaufhörliches Dröhnen angeblich von
-Kanalreinigung, auch nach Abzug von
+gespielt, Klangschilder gegen die Psycho-\*Sounds\* von Ritzinger und
+gegen die Fiepstimmen von nebenan mit \*Loops\*, seit 2023 jederzeit
+Watte im Ohr, bald darauf, seit 7. März 2023 unaufhörliches Dröhnen
+angeblich von Kanalreinigung, auch nach Abzug von
 [Kanalreinigungslaster](https://faulnusz.github.io/magazin/NachWatteImOhrBaldDroehnenDasInDenParkUndBisNachWolfratshausenFolgt.07032023.JPG)
 vor dem Fenster in der ersten Juni-Woche 2023, Dröhnen folgt auch in den
 Park und nach Wolfratshausen an die Isar, Nachbar auf III.M springt mit
 Roller in seiner Wohnung, vermutlich auch deswegen Gas-Wasserheizung
 kaputt, Bruder und Vermieter verzichtet auf Anzeige wegen bebendem
-Fußboden, tauscht Gerät wegen Alter gegen neues aus, leugnet aber auch
-das in den Füßen spürbare Dröhnen.
+Fußboden, lässt sofort ganzes Gerät wegen Altersfrisst gegen neues
+austauschen, leugnet auch das in den Füßen spürbare Dröhnen.
 
-Bekenneraktion von Mitpatienten zur überraschenden Wohnungshilfe durch
-Bruder in Haar 2012 bis 2022 undurchstiegen als Verspottung von eigenem
-Hilferuf an Mutter am Stationstelefon: »Hol' mich hier 'raus, Kerstin!«.
-Verdacht auf Anstiftung von Vergraulungsaktionen durch Nachbarn 2012 und
-2013 durch Mitpatientin. Anspielungen der Mitpatientin und weiterer
-Mitpatienten auf Verschwörung untereinander schon 2010, diese
-Anspielungen und Streuungen schrittweise entdeckt erst seit 2018, schon
-vor November 2017 mehrmals in Briefen an Mitpatientin Austausch gesucht,
-seit 2011, auf entscheidende Streitsachen zu, unbeantwortet.
-
-Grundlage für Fragen und Forderungen, diese in [Offenen Briefen an die
-Mitpatientin](https://groups.google.com/g/posthoernchenschalen/c/JZ93pi7TI80)
-und an weitere Mitpatienten, an Prince Ritzinger und an Bruder und
-Vermieter Ingo seit 2018 stetig nachgebessert und aufholend, die in
-*E-Mails* an Familie, an ausgewählte Bekannte fast völlig, an
-Amtsgericht und Polizei, an einzelne Mitpatienten und Psychiater der
-WG-Station »Soteria« (an die Mitpatientin nur Druckausgaben, da ihre
-*E-Mail-Address* unbekannt) völlig antwortlos bleiben, und damit ganz
-leerig annahmslos, bis zur amtlichen Androhung durch deren gerichtliche
-Betreuerin, die würde Bitte folgen, Frau Pokorny möchte »keinerlei
-Kontakt« mehr, »auch wenn Ihre Briefe keinen zu beanstandenen Inhalt«,
-so auch zuvor auf den Umschlägen der zurückgesendeten Ausdrucke des
-Offenen Briefes zu ihrem Geburtstag im September 2020 »Lass uns in Ruhe,
-sonst verklage ich dich«, ihre Mutter »ungelesen zurück!!! da müll!« in
-gemeinsamem Umschlag, Betreuerausweis von Dezember 2015; auch Patientin
-der Psychiatrie Mentorschwaige, andauernde spionagegestützt
-andeutungsreiche Passantenspiele auf Besorgungsgängen, seltener mit der
-Mitpatientin, sie einmal in Männerbegleitung am Bahnhof (kurz nach
-erstem Offenen Brief im Januar 2019), in anderer Männerbegleitung in der
-S-Bahn vorbeihuschend (Frühsommer 2019), an der Spitze eines Geschwaders
-(August 2021) vorübermarschierend (bald mehr in kommentierter Neuauflage
-der Offenen Briefe), macht sich mit Mitpatienten in Mienenspiel und Pose
-über Vorwurf der Spionage lustig, reagiert jeweils bevorzugt auf
-Gespitzel und Gehetz zu ihrem Verbleib, unterstellt Verdacht auf
-Telepathie beim Wicksen unnachgiebig weiter und verbietet Hinterfragen,
-nimmt Empörung über ihre Wickserei vorweg, hetzt auf vergleichbare
-Erziehung durch Bruder und Eltern, desinformierte vermutlich auch bei
-Dritten, weicht Angebot auf eigenes Publikum außer Dour und Ritzinger
-aus, weicht Streitfragen und Aufrollungen aus.
-
-Auch Nachbarn missbrauchen erfundene Schlagzeilen zur Deckung und zum
-Vergnügen, ebenso Sprüche der Mitpatientin, Imititationen auch ihrer
-Person, Nachstellung und Simulation von informatischen Konkretismen und
-Egoismen wie der bestellbaren Vertraulichkeit oder austauschbaren
-Persönlichkeit über jahrelange Auslauschung und Einnistung, und über
-betreuungsgerichtlich gesicherte Verleumdung und Verfolgung, sowie über
-mehrfachen Verrat vieler Beamter.
-
-Zuletzt Treffen für einvernehmlichen Abschied an der Isar im Sommer 2016
-trotz allem hoffnungsvoll, was von ihr verspielt und verhöhnt, in
-betrunkenem Zustand, bei sorgenvoll angebotener Übernachtung ebenso
-boshaft, danach Trennungswunsch überreizt als ihr wiederholt.
-
-Neue Einladungen zur Aussprache und Grußbotschaften seither
-unbeantwortet. Rückfällig mit planlosem Besuch bei ihr im Februar 2017.
-Ihre Erzählung zwischen Tür und Angel bedeutungsvoll um Spitznamen eines
-dubiosen »ebay«-Verkäufers um damals aktuelle Retoure, diesmal schlägt
-sie einen »neutralen Ort« für ein Treffen vor, und gegen eine
-Selbsteinladung, 2016 sie zu ihrem Geburtstag zu einer selbstgemachten
-Pizza eingeladen, sie würde lieber etwas trinken gehen, Telefongespräch
-angefangen hatte sie mit »Ich bin sitt«, ihr abgesagt gehabt, man sollte
-sich nur dann in einem Wirtshaus treffen, wenn man sich auch nach Hause
-begleiten würde. Auch auf Einladung von Mai 2017 mit Treffpunkt und
-Uhrzeit und Themenliste für Gespräch bleibt sie fern.
-
-Ihre Antwort auf neuen Antrag beim Picknick 2016, was sie eigentlich mit
-ihren Anratungen wollen würde, ob sie mich doch eigentlich heiraten
-wollen würde, »Wir passen nicht, Joachim«, zum Abschied aufgebrochen,
-zurückhalten lassen mit »Komm schon, Jocki!«, Spitzname aus Schulzeit
-ihr vordem nicht gebräuchlich, sie täuscht Brautkuss an, spuckt mir
-antäuschungsweise in den Mund, erstmals Juni/Juli 2021 verstanden als
-ihre Einlenkung mehr für den Flaschensammler, den sie abgewiesen hatte,
-der ein Glas Wein mittrinken hatte wollen, heute mehr für den
-vermutlichen Asylanten unter den Passanten an der Isar, mit diesem vor
-ihr damals verglichen, als diesen vereinnahmt; ansonsten als Heimzahlung
-ihrer Überrumpelung; außerdem auf Hörspiel »Kaffeekränzchen« der
-Fördergruppe »spuc« mit Schulkameraden und -kameradinnen im Puchheimer
-Culturcentrum (puc) um Gesprächstherapieprojekt in Irrenhaus, Jahr 2002,
-ihr bisher noch nicht vorgespielt, Handlung Gesprächstherapierunde in
-Irrenhaus um eingebildete Schwangerschaft der Rolle der Co-Autorin,
-verliebt, vergeben, neu vergeben, später Darstellerin in
-Rendevouz-Kurzfilm.
-
-Mitpatientin Anna von 2009 in Offenen Briefen bis 2020 noch vergessen,
-unter starken Neuroleptika im Raucherzimmer der Station 12/3b vom Schoß
-weg mit aufgelegtem CD-Lied angespielt, stellte sich als Satanistin vor,
-würde unbedingt ein »schwarzes« Kind wollen, sämtliche ihre Anspielungen
-undurchsichtig unverstanden, malte in Kunsttherapie afrikanische Flagge
-und präsentierte sich mit afrikanischem Besucher als Vater, Afrikano-
-Subtext von Techno-CD noch undurchdrungen, afrikanische Vettern
-schwagerseits von Bruder und Steuerfahnder Joel uninteressant.
-Mitpatient von Passantinnenspiel in S-Bahn 2019 Afrikaner, huscht hinter
-Kerstin her, vermutlich Mitpatient von Station 12/3b 2011, von dort aus
-Flucht und sofortige polizeiliche Rückführung von Kerstin, bald darauf
-wird auch Afrikaner auf Station zurückgebracht, fraglich wohin geflohen,
-ihn auf Rosenkranz mit Sektenführerikone angesprochen gehabt, schlechtes
-Deutsch und Englisch, Besuch von Afrikanern in Che-Guevara-Basken,
-putzte sich die Zähne auf abgelehnte Weintrauben.
-
-Damals und bislang Kerstins späteres »Ich bin sitt« (sie, Telefonat zu
-Geburtstag 2016) noch nicht bezogen und auch noch nicht verständlich als
-Reue auf ihre quengeligen Fragen »Holst Du mir ein Bier?« und »Krieg ich
-einen Kaffee?« auf dem Weg zu ihr trotz allem angebotener
-Ausnüchterungsübernachtung, letztere bisher verstanden als bewusste
-Anspielung auf Arbeitsagent namens Biermann, ihr ungenannt, 2016 nur
-sehr selten Bier oder Wein, oder aber wegen eigenem Scherz »Rauch und
-sauf!«, beim Aufbruch vom Picknick 2016, auf ihre Bitte nach Feuer für
-eine Zigarette, nachdem uns einer der vielen Isargäste auf dem
-Nachhauseweg auf Kiff angesprochen hatte, insofern verständlich als ihre
-Bekehrung zu Verzicht auf Substanzmissbrauch, im Jahr 2012 noch, »Ohne
-Wein bist Du nicht willkommen!«, 2012 trotzdem eine Flasche von der
-Tankstelle geholt, »Der Wein ist Pisse!«.
-
-»Wir haben ein schlechtes Bindegewebe, oder?«, großer Bruder und
-Steuerfahnder zieht 2010 zum Geburtstag der Mutter an Zigarette, selber
-inzwischen wieder angefangen gehabt, Sommer 2008 in Haar. Schwägerin
-Marianne ungarische Freundin. Lädt mich ins Cafe am Krankenhaus
-Barmherzige Brüder ein, wäre an Analfistel operiert worden.
-Heilpraktikerin Pokorny raucht nicht, als sie mir ein Fadenkreuz für
-einen Nigger auf den Oberarm zeichnet: »Jetzt weißt du wie man tötet!«,
-der Sanitäter vielleicht? Hätte Marianne sonst in die Psychiatrie
-gemusst? Hätte Joel zum Besuch seiner Verlobten aus Regensburg in
-Studentenjahren einen kleinen Bruder gebraucht, der ihn und seinen
-\*Gentleman-Style\* verstanden hätte, warum er so traurig mit seiner
-Gitarre spielt, weil sie nicht bei ihm im Zimmer übernachten darf? »Ich
-hatte einen Freund, aber der Joel hat mir besser gefallen!«, meine
-deutsch-französische Schwägerin von der JU jedenfalls hatte nicht erst
-bei uns zu übernachten versucht, ob ich denn keine Freundin hätte, hatte
-sie angefangen, schon nach der Hochzeitsfeier, ich um die 15 Jahre alt,
-Pornosucht dauerprall vom Kiffen noch moderat. Mit ihrem \*Ex\*Oliver
-hätte Kerstin gefickt und gekifft, und »das Schwarze« geraucht, der wäre
-Arzt gewesen, mit 18 Jahren endgültig aufgehört zu kiffen, zur Frucht
-der Erkenntnis übergetreten, Steuerfahnder Joel also spiritus noch
-gewesen.
+Infiltration des zwischen Sommer 2017 und Winter 2022 ausschließlich
+genutzten Mobilfunktelefoninternetzes belegbar in manipulierten
+Internetzseiten, auch von Markenhändlern, falls nicht durch
+Auslauschung, diese vermutlich zusätzlich mit Hilfe von Wanzen. Im
+Sommer2017 Handy-Nummer gewechselt und Kabelnetz abbestellt wegen
+irriger Hoffnungen auf Anruf von Mitpatientin und Download-Beschränkung
+für Pornosucht. Nach Festnahme bei Fahrradunfall im August 2018
+Handy-Nummer der Polizei angegeben, altes Symbian-Handy schaltet sich
+selbst an und zerstört sich selbst.
 
 »Du rufst hier nicht deinen Vater an!«, unvermittelt,
-krankengeschichtlich bedeutsam zu Nervenzusammenbruch nach Hungerfasten
-zwischen den Jahren 2007/8 in Gedicht auf Bibelvers »Lass diesen Kelch
-an mir vorüber gehen!« in Rundbrief mit weiteren Werken per \*E-Mail\*
-an alle bis damals gesammelten Addressen; dieser ihr Spruch kurz bevor
-erstes und gebraucht gekauftes \*Handy\* klingelte, zu Besuch bei ihr
-Anruf von Vater, mit undeklariert auf Briefkasten in Frankfurt
+krankengeschichtlich bedeutsam zu erstem Nervenzusammenbruch nach
+Hungerfasten zwischen den Jahren 2007/8 in Gedicht auf Bibelvers »Lass
+diesen Kelch an mir vorüber gehen!« in Rundbrief mit weiteren Werken per
+\*E-Mail\* an alle bis damals gesammelten Addressen; dieser ihr Spruch
+kurz bevor erstes und gebraucht gekauftes \*Handy\* klingelte, zu Besuch
+bei ihr Anruf von Vater, mit undeklariert auf Briefkasten in Frankfurt
 vorregistrierter »S.I.M.«, von älterem Ehepaar an Tram angesprochen
 worden mit »die Sim!«, nicht geantwortet, ihr nicht erzählt, wo man
 hausen würde, vor seinem Besuch von ihr verscheucht. Vater
@@ -861,7 +1203,7 @@ Sexualkontakt, von ihr verführt unter schweren Neuroleptika, Kerstin auf
 einen Tee im Garten der Spezialstation vorgestellt, später bei Kerstin
 zu Besuch demonstrativ am \*Handy\* Verabredung abgesagt.
 
-Auf dem Weg zu ihr in S-Bahnen mehrmals Fahrgastspiele mit
+Auf dem Weg zu ihr in S-Bahnen 2010 mehrmals Fahrgastspiele mit
 Handy-Agenten, rückblickend vermutlich Patienten der Psychiatrie
 Mentor-Schwaige auf Beschützer-Mission, einen als aufdringlichen
 Nachrichtenagenten mit neuem Dolch bedroht. Nach Entlassung mit Eltern
@@ -872,31 +1214,91 @@ unvermittelt und unverstanden pseudo-telefonisch Vorstellung vor, »Ja!
 Deine Frau!«, damals Vermutung auf ihre Hörigkeit oder Prostitution, ob
 ich den \*Arthur\* haben wollen würde, aber ein Freund ihrer Freundin
 Verena, der wäre Schauspieler, würde Nietzsche lesen wie bei einem
-Besuch auch ich, darauf später Schundroman durch neuen Mitpatienten und
-Buchautor David Dour, den auch selbst sie bei Neuanfang 2012 aber nicht
-näher gekannt haben will, auch ihm hätten auf Station ihre Wanderstiefel
-besser gefallen, als ihre Absatzstiefel.
+Besuch auch ich ihr vor, darauf später Schundroman durch neuen
+Mitpatienten und Buchautor David Dour, den auch selbst sie bei Neuanfang
+2012 aber nicht näher gekannt haben will, auch ihm hätten auf Station
+ihre Wanderstiefel besser gefallen, als ihre Absatzstiefel.
 
-Dessen Lanzelot-Persiflage
-[spielt](https://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachAllerheiligenLanzelotverschnitt "Neue Rezension von Mitpatient David Dours »Epico«: Wieso ist Göttin Enja keine Prophetin?")
-im heiligen Land, Juden und Mohammedaner als hässliche Orks im
-Installations-Rundgang zur geliebten Göttin, seit kurzem aufgedeckt
-beruft er sich nicht nur auf ihren \*Ex\* Arthur und auf die ihr
-angebotene Tournee, auch auf deren Lüge, ihr Vater hätte eine Pension
-auf Borkum, dem ihr Hund hätte in die Scheidung folgen wollen, welcher
-später in die Isar gefallen und in einem Rotor verunglückt wäre: darin
-Besetzung von Rügen, Hochzeits-Tournee 2010 spontan in Richtung Ostsee
-und Nordwald vorgeschlagen, Rotor demnach ihre Anspielung auf Neiße,
-Oder-Neiße-Grenze, Soteria W.G. mit Vollpension im sog.
-Isar-Amper-Klinikum, Pokorny Dour nach Polin, und ihr Vater Deutscher,
-Freudianer von wegen ihres womöglichen Missbrauchs als Kind schon 2010
-für abwegig und sadistisch, vermutlich Verachtung für
-Schwiegersohnkönige und Psychiaterkonformität, Andeutung von Verwaisung,
-außerdem meine Schwägerin deutsch-französisch, damals kein Thema,
-Großmutter mütterlicherseits aus Bonn mit nach München umgezogen, nach
-dem Krieg aus Pommern geflohen, Mutter im August 1945 geboren, nach
-Nervenzusammenbruch in Psychiatrie Haar wegen Schizophrenie behandelt,
-gestorben 1980, ebenfalls seit 2010 Tabu.
+Psychotische Krise im Winter 2010/11 vor Pflegerin Dubuisson der
+Helferkomplex-, Anamnesegehilfen- und Mittagsfestmahlkochen- Station
+»Soteria« um Worte ringend als Kankra-Erfahrung bezeichnet, bis 2018/19
+nicht von der ungarischen Bedeutung von Pokorny gewusst, unter den Augen
+der Pflegerin damals noch Spinne zertreten, Pfleger Ziegler: »Sie haben
+sich hier als Sam vorgestellt?!«, ist auch ein Cineast und schaut in der
+Nachtschicht für mich weiter Kinofilme. Nachricht von Sam? Some. One.
+Einem Patienten Rainer, »Und dann Finger in den Po! Geil!«, von dem
+Rückzug auf die Alphütte des Alpenvereins bei Innsbruck dem noch nicht
+erzählt, niemandem ausführlich, von Verlockungen nach Italien auch
+nicht, auch nicht von der Maulwurffalle, 2010 außerdem Besenstil, 2015
+einen Dildo im Internetz bestellt, bis heute immer noch keine
+Rektalsexerfahrung, »Und dann Finger in den Po! Geil!«, Lass' uns die
+homosexuellen Menschen verarschen? Lass' uns die Fetischisten
+verarschen? Kerstin's Lache klingt beim Picknick 2016 nach Rainer, auf
+den Braut-Spuck, »Flopp«.
+
+Dem Bettler und Stadtstreicher Karl Hanselmann, nach Wohnheim in der
+Hanselmannstraße benannt, begegnet nach Flucht vor beleidigter
+Mitstudentin im neuen Seminar, damit zu Beginn vom Sommersemester 2010
+Studium nach mehreren Krankheitsemestern abgebrochen, er wäre aus
+Schausteller-Familie, spricht Nazi-Zeit an, spielt fließend jiddisch,
+unterhält Stupor nach rascher Neuroleptika-Absetzung, küsst auf gewagtes
+»Küss' mich Judas!« ernsthaft, entschuldigt seinen Griff unter Gürtel an
+Arschlochhaare mit Märchen von riesenpenisgeiler Polizistin,
+Po-liz-ist-n, der er einen Schwuchtel mit seinem Gürtel an Baum erhängt
+hätte, verscheucht Kinder an U-Bahnhof in Schwabing, besetzen Gleis in
+die andere Richtung, in Richtung Heimfahrt, und flieht vor Polizei, die
+er später mit Aids-Lüge vergrault haben will, bei Besuch in der
+Hanselmannstraße nach Entlassung aus Psychiatrie 2010, hätte Magenkrebs,
+wäre aus Krankenhaus geflohen, wieder in Begleitung von gleichaltem
+Jüngeren, mit dem wäre er in Schwulenbar gewesen, der hätte sich nur
+herumgedrückt, »der glaubt auch an Aids«, bei Festnahme als
+Trunkenheitsradfahrer in München im Winter 2010 bereitwillig nachgeahmt,
+unter Identifizierung, prophetische Schutzformel zurückerobert, Polizei
+macht Bluttest, unschuldig. 2009 in Schwabing Arbeitslose in der Laube
+von Psychologe und Gesprächstherapeut Dr. Michael Werner, Empfehlung der
+Soteria, die schwärmen, »Weidenrinde« zu rauchen, kannten wohl
+Praxiskollegen Zehentbauers Buch über alternative Neuroleptika, später
+gelesen, noch später entdeckt.
+
+»Wir haben ein schlechtes Bindegewebe, oder?«, dazu zieht großer Bruder
+und Steuerfahnder an Zigarette, 2010 zum Geburtstag der Mutter, selber
+inzwischen wieder angefangen gehabt, Sommer 2008 in Haar. Schwägerin
+Marianne ungarische Freundin. Lädt mich ins Cafe am Krankenhaus
+Barmherzige Brüder ein, wäre an Analfistel operiert worden.
+Heilpraktikerin Pokorny raucht nicht, als sie mir ein Fadenkreuz für
+einen Nigger auf den Oberarm zeichnet: »Jetzt weißt du wie man tötet!«,
+der Sanitäter vielleicht? Hätte Marianne sonst in die Psychiatrie
+gemusst? Hätte Joel zum Besuch seiner Verlobten aus Regensburg in
+Studentenjahren einen kleinen Bruder gebraucht, der ihn und seinen
+\*Gentleman-Style\* verstanden hätte, warum er so traurig mit seiner
+Gitarre spielt, weil sie nicht bei ihm im Zimmer übernachten darf? »Ich
+hatte einen Freund, aber der Joel hat mir besser gefallen!«, meine
+deutsch-französische Schwägerin von der JU jedenfalls hatte nicht erst
+bei uns zu übernachten versucht, ob ich denn keine Freundin hätte, hatte
+sie angefangen, schon nach der Hochzeitsfeier, ich um die 15 Jahre alt,
+Pornosucht dauerprall vom Kiffen noch moderat. Mit ihrem \*Ex\* Oliver
+hätte Kerstin gefickt und gekifft, und »das Schwarze« geraucht, der wäre
+Arzt gewesen, mit 18 Jahren endgültig aufgehört zu kiffen, zur Frucht
+der Erkenntnis übergetreten, Steuerfahnder Joel also spiritus noch
+gewesen.
+
+Para-akustische Halbtraumstimmen seit zweitem Fastenversuch im Sommer
+2017 thematisierbarer, absichtslose sinnsuchende Fangsprüche angreifbar,
+aber nicht beantwortbar, auf Widerrede ausweichend, mit Reden
+interessierbar, dabei insbesondere gegen Richtigstellungen mitunter
+erbost Störungen, nach Verortung von Morddrohungen bei Pseudo-Rattenjagd
+und nach Karikaturenplakataktion im November 2017 eindringlich in der
+Wut auf Kerstin, deren Kanaillerien als Halsabschneidereien
+darstellerisch grotesk vorgeführt, austreiberische Eindringlichkeiten
+und ekelhafte Anliebelungen unerträglich, Stimmen später öfter
+ausgedehnter wiedergebend und absichtlich unaufgeregt bevormundend, nach
+gleichzeitiger \*E-Mail\* an Familienangehörige mit erster Nachricht zu
+Verlobung Sprüche von Mitpatientin insgesamt wichtiger und
+leidenschaftlicher, im Winter 2017 etliche Lieder, vermutlich außerdem
+von Nachbarn mitgeschnitten oder ausgelauscht oder diesen weitergeleitet
+oder ausgekundschaftet. Verdacht auf Auslesung von Tagebüchern und auf
+Raubkopien von \*Scans\* derselben, auch gegen Bruder und Vermieter,
+Jahrestaglesungen 2023 von Stimmen wie begleitet.
 
 2010 bei geplanter Vorstellung bei ihrer Mutter Eklat um Arbeitslose auf
 Parkbank, »Und was sind das für welche?«, freche Antwort, schlägt vor
@@ -907,93 +1309,117 @@ und Junge in keinem Fußball-Verein, auch kein Thema, lange frühere blaue
 Tracht vermutlich unbezeugt. Einladung zu Besuch in Elternhaus in
 Puchheim bleibt sie fern mit der Entschuldigung: »Ich bin aufgewacht!«.
 
-Seit 2018 unter der Einmischung und Anwohnung durch vorgeblich Rektalsex
-praktizierenden Südafrikaner »Prince Ritzinger« gezielte und ablenkende
-Verdächtigungen auf meinen sexuellen Missbrauch als Kind, und
-andererseits auf verschleierte Herkunft des Vaters, erst im Juli 2023
-Verdacht gegen Mutter erhellt, geb. Fisch, Tante vor Vater einen
-Fischbach geheiratet, Vater fällt 2019 erst frühere Nachbarin an, dann
-Verkäuferinnen, die auf seiner psychiatrischen Behandlung zum Vergleich
-mit einer Strafanzeige bestehen, Dementia diagnostiziert und unter
-Behandlung verschlimmert, vergreist. Nachbarin zu Besuch als
-Haarschneiderin, verwickelt in auffällige Manien bei erstem
-Nervenzusammenbruch, nach Maismehl für Desert zum Fastenbruch nach drei
-Tagen Hungern bei ihr geklingelt, geschiedene Mutter von zwei Kindern,
-die Wochen zuvor Studentenmatte gekürzt hatte, hätte nur Rosenmehl, eine
-Tür weiter alleinstehende Nachbarin auf Sex ersucht, abgewiesen. Manie
-nicht als solche diagnostiziert, nicht befragt.
+Ein einziges Mal selber ihre Gedanken gelesen, 2010, »Aber er isst
+Schwein!«, Einkaufen gewesen, mag eigentlich kein Schwein, Wurmfresser,
+Schneckenfresser, Pilzfresser, Aasfresser, herumstreifende, suchende,
+stöbernde, wühlende, grabende, haarende. 2012, Öko-Gemüse-Terrine
+gekauft, Kerstin: »Ich mag Glutamat!«, Dour trinkt Schweineblut, hat
+eine Frisur wie Arthur, und er hat ganz zerritzte Unterarme, aber nicht
+wie ich mit einer gefundenen Scherbe damals am Isarhochufer vor einem
+Traumpaar von Gassigänger und Gassigängerin hinter mir über den
+Sandkasten, sah Matthias etwas ähnlich, sie eher diese hagere
+Mitpatientin, wie heißt sie? Mose sagt: Ihr sollt Euch nicht zur Trauer
+ritzen! »Für Amalekiter!«, Kerstin hatte vorher schon erzählt, oder
+nachher, »Da war ich in der Mentor Schwaige. Und da hat sich einer in
+seinem Zimmer geritzt und da habe ich es verstanden!«. Die Naemi in
+Freiburg hat vermutlich gelogen, sie wäre Kindergärtnerin, habe ich
+schon geschrieben, hatte sie in der Bahnhofsmission München als
+Post-Zivi ins Dienst-Bett eingeladen, ich war geil auf sie, von keiner
+anderen wieder so angezogen worden, obwohl zwei Köpfe kleiner, nicht
+einmal geküsst, hatte mich in Freiburg in der Wohnung einer Freundin
+empfangen, da ist das Bett, am Tag der Bahnhofsmissionübernachung hat
+mich Vroni zu den Aufnahmen des Hörspiels abgeholt und mich plötzlich
+doch auf ihre Hütte im bayerischen Wald eingeladen, in Freiburg auf dem
+Hochsitz, in Freiburg auf dem Kirchturm, Arsch, Ausblick, Schweigen,
+hatte ich Dr. Werner nicht erzählt, hatte ihm erzählt, wie ich mich
+losgerissen hatte, am Abend des nächsten Tages wieder vor der Haustür
+der Wohnung ihrer Freundin, »Du bist zu pummelig!«, nach einer Nacht in
+der Jugendherberge, dort beim Frühstück von einem Zimmernachbar als
+Schwuler taxiert worden, Naemi kam mit dem Auto meiner Schwägerin Sabine
+etwas später zurück, die Federn waren beim nächsten TÜV nicht mehr zu
+retten, die Arbeitslose mit dem arbeitslosen Bruder, der heroinsüchtig
+ist und ein Kind hat, im Wald schläft Naemi auf dem Beifahrersitz, ich
+steige derweil aus, kommt ein ausgewilderter weißer zotteliger großer
+Hund an, linksrum, rechtsrum, rote Augen, geht wieder, habe ich auch ein
+Gedicht darüber geschrieben, in meiner \*Spam-Publication\* von der
+Jahreswende 2008, die Du vielleicht kennst, Naemi murmelte etwas im
+Schlaf, hatte ich ihr auch nicht erzählt, sie hat mich etwa ein Jahr
+später überraschend besucht, bei meinen Eltern, sie hat bei mir im Bett
+geschlafen, »Nicht küssen!«, habe ich es ganz gelassen, dann hat sie ein
+Buch aus dem Regal genommen und hat mich nach »Pardon! Ich bin Christ!«
+von C.S. Lewis gefragt, und ich habe gesagt, aber das ist nicht das,
+dann haben wir irgendwann geschlafen, und ich soll im Schlaf »Nein!«
+gejammert haben. Mein Bruder Ingo kam mich am Nachmittag abholen, und
+hat zur Begrüßung geschnüffelt, als hätte er Naemi gerochen. Sabine und
+er haben im Auto beide andächtig geschwiegen, daß man nicht immer gleich
+Sex haben muss.
 
-Nummerncodes im Stromzählerstreit mit albanischem Hausmeister und
-irakischem Blockwart Hussein sowie im Gaspreisfaktorstreit mit den SWM
-2018 »aid teen« und »ate teen« auf Kindermissbrauch, darauf bis 2020
-Hetze und Feme bei jeder Gelegenheit und bei jeder Begegnung bei
-Einkäufen und im Mobilfunk-Internetz, abschirmend und deckelnd,
-eigentliche Vorwürfe und Anzeigen erstickt, schon erste psychiatrische
-Behandlung ohne
-[Eigenanamnese](https://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachKarfreitagAntiantisemitismusheilung "Zwischen den Jahren 2007/8. Nach über einem Jahr Gekrebs beim Schnitt des Anti-Porno-Kurzfilms »reprojexion« und Wintersonnwende-Hungerfasten zur Wickser-Heilung anlässlich Zeitgeist-Movie-Inspiration: Post-Fasting Internetforum-Posting-Performance mit Stunt-In-Poetry-Bibleverse-Adaptation zum Kelch von Jesous Christous und Reply-To-All-Poetry-Collection-E-Mail-Spammer-Publication. Abschließend Remote-Party mit Spam-Food Coffin-Coffee und Waiter-Water bis zur Real-Eucharisty in der Psychiatrie mit Haloperidol-Injection und Neuroleptical-Program-and-Work-Total-Reset-For-Over-10-Years. ")
-zur Psychotik von Nervenzusammenbruch nach drei Tagen Hungerfasten zur
-Jahreswende 2008 und von dichterischer Bibelvers-Adaptation zu »Lass'
-diesen Kelch an mir vorübergehen!«, \*Spammer-Publication\* bei der
-Mitpatientin seit 2010 bekannt, Dours Buch zum Ende nochmals jeden Satz
-in umgekehrter Reihenfolge im Schematismus der unendlichen »8«,
-Verschwörung von Mitpatienten unter Behandlungsgeheimnis nicht
-skandalträchtig oder ausnutzungsverdächtig, Hexensprüche nicht
-verschleierungsverdächtig und aufklärungsbedarfverdächtig, Vermeidung
-und Umgehung von Eigenanamnese in der Psychiatrie nicht skandalträchtig
-und Geistheilungsmedikamente nicht esoterikverdächtig, langjährige
-Pornosucht vom Kiffenaufhören mit 17 bis zum Alter von 35
-(ausschließlich Kategorie »straight«) nicht skandalträchtig oder
-familienauffällig oder agenturverdächtig oder pathogen oder
-missbrauchsverdächtig oder mästungsküchenverdächtig, oder erfundener
-Bruder von erster Frau und angeblicher Modefachverkäuferin von Bruder
-und Vermieter Ingo, oder Verzicht auf ehelosen und vertrauenslosen Sex
-gegenüber Mitpatientin, oder Spättaufe auch meiner beiden Brüder erst
-zur Konfirmation, oder meines Vaters Mitarbeit bei inzwischen
-aufgelöster messianisch-jüdischer Gemeinde mit einmal im Jahr
-Eucharistie zu Passah aber ohne monatliche oder wöchentliche
-Fastenfeier.
+Kerstin nach erster Übernachtung in ihrem Bett am nächsten Morgen 2010:
+»Es tut mir leid, Joachim! Ich habe ein Buch gelesen, das heißt: Starke
+Frauen sagen Nein!« Hätte ich diese ganze Geschichte vom Besuch von
+Naemi erzählen sollen, wenn schon nicht dem Dr. Michael Werner? Oder der
+Freundin Wehrena? Hattest Du das erwartet? Wieso hast Du Dir auch
+darüber nur die Andeutung gegeben, sowieso schon alles zu wissen? Wieso
+hast Du mir das nicht alles selber so vorgetragen? Welche Info hattest
+Du? Welches »Briefing« hattest Du? Wer war die »Brieffreundin«, deren
+Briefe Du bei Deinem Überraschungsbesuch 2014 wieder ungelesen
+mitgenommen hast und bis heute nicht hast lesen lassen wollen, die Dir
+nicht antworten würde? Wieso redest Du nicht im Telegramstil mit mir?
+Wieso nicht in einem Versmaß? Wie sind denn die Ur-Gedanken geformt?
+Hattest Du diesen Buchtitel im Gegensatz zu mir gerade wie ich es Dir
+schreibe, schon damals als »Männer, die Dein Nein glauben, sind starke
+Frauen und ergo schwul!« verstanden? Hattest Du jedenfalls nicht Naemi
+entschuldigen wollen, die mittlerweile auch selbst Freiere gewohnt sein
+kann, die mich in ihrem großen Traum sonst ihrerseits mit diesem
+entlaufenen Hund verwechseln könnte, oder meinen Vater, die doch eine
+Steigamme hätte sein wollen, der hingegen ich zu »bummelig« war? Hätte
+»die Weißeste« am Ende von Dour's Buch gerne gar keine \*Insider-Info\*
+gehabt, oder wenn über die wichtigen Sachen?
 
-Botschaft ihrer \*Ex\*-Geschichten jeweils auf Rücktritt von Heirat,
-2010 als Facetten eines Verlobungsringdiamanten bezeichnet, 2019 in
-erstem offenen Brief als Flüche und Götzen, mittlerweile teilweise als
-Charakterbilder Streitsachen und Verleumdungen mit und durch Dritte
-zuordenbar. Mitpatient Fuchs spielte sich 2010 erst am Telefon als
-Beschützer auf, empfiehlt nächstens bei Besuch in seinem Wohnwagenpark
-eine Hure, »Ich habe einen Freund, der ist Zuhälter!«, »Du verstehst
-meine Liebe nicht!«, auf Toleranz herausgeredet, auf Besuch und
-Übernachtung bei dem schwulen und krebskranken Bettler verglichen, Tage
-später bei Telefonat 2010 ihr »Ohne diesen Schwuchtel hätten wir es
-schon!« zusammenhanglos, als ihr Schimpf und Schmäh und Verleumdung auf
-mich nicht dem Gespräch mit dem Wohnwagenwohner und Mitpatienten Fuchs
-zuordenbar, 2012 vergessen, nach Wiedertrennung weiter vergessen,
-insgesamt gut 10 Jahre, hatte mich vor ihr als dessen Musikerbande
-ausgegeben, nach Zusammentreffen beim Herumstreifen in Giesing mit
-anderer Musikerbande um Mitpatienten von Station 64, Christof Mettler,
-nach Festnahme bei Kerstin wegen zu später Rückkehr nach Übernachtung.
+Verschimpfung von therapierelevanten Bekannten durch pseudo-akustische
+Stimmen, welche Mitpatientin zwischen 2010 und 2016 hinterhältig
+auszukundschaften und anzuvisieren anmerken hatte lassen, zwar angeregt
+Streitsachen und Konfliktsachen aufzunehmen und anzugehen, aber als
+aufgeschwungen oder herablassend zu deren übervorteilender oder
+verächtender Verteidigung. Anspielungen der Mitpatientin und weiterer
+Mitpatienten auf Verschwörung untereinander schon 2010 und 2011, diese
+Anspielungen und Streuungen schrittweise entdeckt erst seit 2018, schon
+vor November 2017 mehrmals in Briefen an Mitpatientin Austausch gesucht,
+seit 2011, auf entscheidende Streitsachen zu, unbeantwortet.
 
-Dem Bettler und Stadtstreicher Karl Hanselmann, nach Wohnheim in der
-Hanselmannstraße benannt, begegnet nach Flucht vor beleidigter
-Mitstudentin im neuen Seminar, damit zum Sommersemester 2010 Studium
-nach mehreren Krankheitsemestern abgebrochen, er wäre aus
-Schausteller-Familie, spricht Nazi-Zeit an, spielt fließend jiddisch,
-unterhält Stupor nach rascher Neuroleptika-Absetzung, küsst auf gewagtes
-»Küss' mich Judas!« ernsthaft, entschuldigt seinen Griff unter Gürtel an
-Arschlochhaare mit Märchen von riesenpenisgeiler Polizistin, der er
-einen Schwuchtel mit seinem Gürtel an Baum erhängt hätte, verscheucht
-Kinder an U-Bahnhof in Schwabing, besetzen Gleis in die andere Richtung,
-in Richtung Heimfahrt, und flieht vor Polizei, die er später mit
-Aids-Lüge vergrault haben will, bei Besuch in der Hanselmannstraße nach
-Entlassung aus Psychiatrie 2010, hätte Magenkrebs, wäre aus Krankenhaus
-geflohen, wieder in Begleitung von gleichaltem Jüngeren, mit dem wäre er
-in Schwulenbar gewesen, der hätte sich nur herumgedrückt, »der glaubt
-auch an Aids«, bei Festnahme als Trunkenheitsradfahrer in München im
-Winter 2010 bereitwillig nachgeahmt, unter Identifizierung, prophetische
-Schutzformel zurückerobert, Polizei macht Bluttest, unschuldig. 2009 in
-Schwabing Arbeitslose in der Laube von Psychologe und
-Gesprächstheraupeut Dr. Michael Werner, Empfehlung der Soteria, die
-schwärmen, »Weidenrinde« zu rauchen, kannten wohl Praxiskollegen
-Zehentbauers Buch über alternative Neuroleptika, später gelesen, noch
-später entdeckt.
+Anzeige und Klage wegen nötigender Verleumdung und beleidigendem
+Vormundschaftsbetrug und verschleierter Hurerei wird nicht aufgenommen,
+scheint als Therapiepatientin nicht nur angewiesen sondern auch gedeckt,
+jedoch zur Klärung und Entschuldigung bei mir und zwischen uns nicht
+verpflichtet zu werden, gegen eigenen Anspruch auf Rechtmäßigkeit und
+Staatlichkeit selber andauernd erpresst auf Narrenfreiheit und bedroht
+mit Enteignung und Entmündigung.
+
+In Bedeutung von Sprüchen Übertragungen aus Streitsachen mit
+Nachbarinnen und Nachbarn und aus Scheidungen der Brüder schon vor der
+Unterbringung in der Psychiatrie 2019 erkennbar und lösbar, Verhetzungen
+gegen Mutter, Bruder, Kerstin, usw. härmend und huldigend, Bösewichtelei
+von Bruder und Vermieter als Gegen-Bösewichtelei und Prüfung von
+Entschuldigung auf Therapie verblendet und verrufend, Bruder und
+Vermieter zum Informatiker der Zaubersprüche wie Kerstin selber
+geworden, Pseudo-Experiment zur Drohung auf psychotische Wirkung von
+Antwortlosigkeit in Argwohn gegen Heilsamkeit und Treuheit von
+Öffentlichkeit und in Unmut gegen Sorgsamkeit der Wissenschaft
+verweigert bis zum Einstrafungs-Pranger der magisch-telepathischen
+Hälftigkeit und Halbheit in methodischer Isolation und Spionage und
+Untreue und Verrat und schriftartig zur Hinnahme berechneter Beleidigung
+und Bedrohung und Belästigung in arglistiger und höhnischer Verbietung
+jeder Sorge um und jeder Ermahnung an Kerstin als in erwiderter anstatt
+erwiderter Ehrsucht, alle Einladungen zu Lesungen und Besprechungen an
+Familie, Psychiater und Bekannte, auch an Nachbarn allerseits
+ausgelaufen, an Nachbarn Elfers, Blazic, Stillner-Grobner außerdem
+Einladung zu Theaterstück »Nero's Rache« zu Ostern 2019 ausgelaufen,
+Verzeihungsangebot Verfolgung auf die Bühne ausgeschlagen, jegliche
+Einlassung von allen Empfängern der Ausgaben des E-Magazins Posthörnchen
+seit Anfang 2018 vermieden, ebenso der Offenen Briefe an Kerstin Pokorny
+und Mitpatienten Fuchs und Dour seit Anfang 2019. Ebenso
+Plakatveröffentlichungen bei Nachbarn, [bis
+heute](http://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html).
 
 Kartina, nicht Kartagina. Nach Osten nur ein Berg, nach Norden hoch
 hinaus liegt Bonn, nur in meinen Augen, nur Statt von Garden, von
@@ -1004,122 +1430,6 @@ machen nur Faustianer ihre Besenstiele, die Bergmauer, von der haben
 sich die Ostländer erst 1990 auch selbst und unter der Führung von
 Geistlichen befreit, »Leg' Dich nicht in die getünchten Gräber der
 Schriftgelehrten, sonst störst Du den Kaiser Otto!«, sagt der Verleger.
-
-Psychotische Krise im Winter 2010/11 vor Pflegerin Dubuisson der
-Helferkomplex-, Anamnesegehilfen- und Mittagsfestmahlkochen- Station
-»Soteria« um Worte ringend als Kankra-Erfahrung bezeichnet, bis 2018/19
-nicht von der ungarischen Bedeutung von Pokorny gewusst, unter den Augen
-der Pflegerin damals noch Spinne zertreten, noch immer keinerlei
-Rektalsexerfahrung, 2010 Besenstil und Maulwurffalle, 2015 einen Dildo
-im Internetz bestellt. Pfleger Ziegler: »Sie haben sich hier als Sam
-vorgestellt?!«, einem Patienten Rainer, »Und dann Finger in den Po!
-Geil!«, von dem Rückzug auf die Alphütte des Alpenvereins bei Innsbruck
-ihm noch nicht erzählt, niemandem ausführlich, auch nicht von der
-Maulwurffalle, ist auch ein Cineast und schaut in der Nachtschicht für
-mich weiter Kinofilme. Nachricht von Sam? Some. One. Lass' uns die
-Homologen verarschen? Kerstin's Lache klingt 2016 nach seiner, »Flopp«.
-
-Kerstin 2012: »Und dann will er die Tochter der Schamanin ficken!«, will
-er doch gar nicht, »Ich hab so komische Brustwarzen!«, Ich:»Deine Brüste
-sind perfekt!«, Dour angeblich einen Sohn, aber keine Tochter, beim
-Versuch mit latexfreiem Kondom sie unnahbar und unersichtlich, Vision
-von Riesenbaby, zweiter Versuch bei ihr Krampf, aktiven Rektalsex nicht
-wegen sich wieder eingeengter Vorhaut vermieden, auch nicht wegen Gefahr
-von Kondomabstreifen. »Ehe ist schwul« klingt bei Tolkien schrecklich,
-Huren küssen nicht, Huren küssen nicht auf den Mund, Huren küssen nicht
-den Vormund, Huren küssen nur den Vormund, Huren sind mündige Frauen,
-Huren haben eine Hochzeitsgesellschaft, Huren sind treu, seit 1918
-brechen die Vulkanier aus der Kirche aus, »Du willst nur deine Mutter!
-Dich gibt es also noch gar nicht!« sagen die edlen Elfinnen, alle Frauen
-sind Prophetinnen, sagt Paulus oder Petrus wegen Kopfbedeckung den
-geneigten jungen Täuflingen und Novizen und Firmlingen der Gemeinde,
-sagt der Seneca mit Odipus nur zu Nero, sagt der Freud zu fluchenden
-Närrinnen »Und ich will meine Mutter ficken!«, sagen die Beichtväter
-Ödipus, die Heidengötzen aus der Schmiede ausgebrochen, die Gräzisten
-mit ihrem griechischen Königstempel haben die Harem-Türken vergöttert,
-die Hagia Sophia betet nicht mehr für die Todesstrafe für Ehebrecher,
-den edlen Elfinnen ginge es dann aber noch einiger, vielleicht Nachbarin
-Elfers gemeint, die 2012 erster Außen-Kontakt überhaupt mit Kerstin, die
-aber als Freundin vorgestellt, ob wir ein Paar wären, »Sie strahlt, aber
-du!«, würde auch malen, grau auf Rollpapier, fragten nur Kerstin aus,
-bei Grillbankett im Garten, als ob mich die Nachbarn schon kennten, sie
-wäre im Theater Atelier, e.V., Nachbar Elfers hätte hingegen bei »Virgin
-Entertainment« gearbeitet, sie war nur nach nebenan auf die Couch, nicht
-aus der Tür, weil sie zu viel Wein getrunken hatte, Heiligenblut
-Lufthansawein vom Türken an der Kreuzung, wäre schon um alle Ecken nach
-Hause gelaufen, Kerstin: »Mein Mann ist nach Rosenheim geflohen...«,
-unvermittelt, abgebrochen, Tischgespräch irgendeines anderen Tages
-Besuches bei mir, vielleicht zu jener »Claudia Schneider«, einer
-Einladung vom Arbeitsamt auf Station 69, 2011, »die [vom Wohnungsamt]
-kümmern sich dann darum«, Sozialpädagoge Bach, »Die?«, warum nicht Sie,
-vermutlich Homo, oder zum Schaffner vom Zug nach Freilassing, zu Besuch
-bei ihr, 2012: »Ich bin Dir mit einem Immobilienmakler
-fremdgegangen...«, von erzwungener Hilfe durch Bruder und Vermieter
-erzählt gehabt.
-
-Ein einziges Mal selber ihre Gedanken gelesen, 2010, »Aber er isst
-Schwein!«, Einkaufen gewesen, mag eigentlich kein Schwein, Wurmfresser,
-Schneckenfresser, Pilzfresser, Aasfresser, herumstreifende, suchende,
-stöbernde, wühlende, grabende, haarende. 2012, Öko-Gemüse-Terrine
-gekauft, Du: »Ich mag Glutamat!«, Dour trinkt Schweineblut, hat eine
-Frisur wie Arthur, und er hat ganz zerritzte Unterarme, aber nicht wie
-ich mit einer gefundenen Scherbe damals am Isarhochufer vor einem
-Traumpaar von Gassigänger und Gassigängerin hinter mir über den
-Sandkasten, sah Matthias etwas ähnlich, sie eher diese hagere
-Mitpatientin, wie heißt sie? Mose sagt: Ihr sollt Euch nicht zur Trauer
-ritzen! »Für Amalekiter!«, Du hattest vorher schon erzählt, oder
-nachher, »Da war ich in der Mentor Schwaige. Und da hat sich einer in
-seinem Zimmer geritzt und da habe ich es verstanden!«. Die Naemi in
-Freiburg hat vermutlich gelogen, sie wäre Kindergärtnerin, habe ich
-schon geschrieben, hatte sie in der Bahnhofsmission München als
-Post-Zivi ins Dienst-Bett eingeladen, ich war geil auf sie, hatte mich
-in Freiburg in der Wohnung einer Freundin empfangen, da ist das Bett, am
-Tag der Bahnhofsmissionübernachung hat mich Vroni zu den Aufnahmen des
-Hörspiels abgeholt und mich plötzlich doch auf ihre Hütte im bayerischen
-Wald eingeladen, in Freiburg auf dem Hochsitz, in Freiburg auf dem
-Kirchturm, Arsch, Ausblick, Schweigen, hatte ich Dr. Werner nicht
-erzählt, hatte ihm erzählt, wie ich mich losgerissen hatte, am Abend des
-nächsten Tages wieder vor der Haustür der Wohnung ihrer Freundin, »Du
-bist zu pummelig!«, nach einer Nacht in der Jugendherberge, dort beim
-Frühstück von einem Zimmernachbar als Schwuler toleriert worden, Naemi
-kam mit dem Auto meiner Schwägerin Sabine etwas später zurück, die
-Arbeitslose mit dem arbeitslosen Bruder, der heroinsüchtig ist und ein
-Kind hat, im Wald schläft Naemi auf dem Beifahrersitz, ich steige aus,
-kommt ein ausgewilderter weißer zotteliger großer Hund an, linksrum,
-rechtsrum, rote Augen, geht wieder, habe ich auch ein Gedicht darüber
-geschrieben, in meiner \*Spam-Publication\* von der Jahreswende 2008,
-die Du vielleicht kennst, Naemi murmelte etwas im Schlaf, hatte ich ihr
-auch nicht erzählt, sie hat mich etwa ein Jahr später überraschend
-besucht, bei meinen Eltern, sie hat bei mir im Bett geschlafen, »Nicht
-küssen!«, habe ich es ganz gelassen, dann hat sie ein Buch aus dem Regal
-genommen und hat mich nach »Pardon! Ich bin Christ!« von C.S. Lewis
-gefragt, und ich habe gesagt, aber das ist nicht das, dann haben wir
-irgendwann geschlafen, und ich soll im Schlaf »Nein!« gejammert haben.
-Mein Bruder Ingo kam mich am Nachmittag abholen, und hat zur Begrüßung
-geschnüffelt, als hätte er Naemi gerochen. Sabine und er haben im Auto
-beide andächtig geschwiegen, daß man nicht immer gleich Sex haben muss.
-
-Du hast nach meiner ersten Übernachtung in Deinem Bett am nächsten
-Morgen gesagt: »Es tut mir leid, Joachim! Ich habe ein Buch gelesen, das
-heißt: Starke Frauen sagen Nein!« Hätte ich die Geschichte vom Besuch
-von Naemi Dir erzählen sollen, wenn schon nicht dem Dr. Werner? Hattest
-Du das erwartet? Wieso hast Du Dir auch darüber nur die Andeutung
-gegeben, sowieso schon alles zu wissen? Wieso hast Du mir das nicht
-alles selber so vorgetragen? Welche Info hattest Du? Welches »Briefing«
-hattest Du? Wer war die »Brieffreundin«, deren Briefe Du bei Deinem
-Überraschungsbesuch 2014 wieder ungelesen mitgenommen hast und bis heute
-nicht hast lesen lassen wollen, die Dir nicht antworten würde? Wieso
-redest Du nicht im Telegramstil mit mir? Wieso nicht in einem Versmaß?
-Wie sind denn die Ur-Gedanken geformt? Hattest Du diesen Buchtitel im
-Gegensatz zu mir gerade wie ich es Dir shreibe, schon damals als
-»Männer, die Dein Nein glauben, sind starke Frauen und ergo schwul!«
-verstanden? Hattest Du jedenfalls nicht Naemi Prögler entschuldigen
-wollen, die mittlerweile selbst Freiere und Gewaltigere gewohnt sein
-kann, die mich in ihrem großen Traum sonst vielleicht mit diesem
-entlaufenen Hund verwechseln könnte, oder meinen Vater, die doch eine
-Steigamme hätte sein wollen, der hingegen ich zu »bummelig« war? Hätte
-»die Weißeste« am Ende von Dour's Buch gerne gar keine \*Insider-Info\*
-gehabt, oder wenn über die wichtigen Sachen?
 
 Eucharistische Formeln. [(only online on googlegroups
 yet)](https://groups.google.com/g/posthoernchenschalen/c/zgrMKu-CiUw)
@@ -1157,4 +1467,4 @@ Posthoernchen Nussschalen
 
 * * * * *
 
-226.33.2023 (14. August)
+247.36.2023 (4. September)
