@@ -335,7 +335,9 @@ nur, insofern ich sittlich handele, d.h. göttlich handele: »Kritik der
 praktischen Vernunft«).
 
 Kartina. Visitenkartenbonmots und vermutlich Tarotarkanas einer
-Therapie-Verlobten.
+Therapie-Verlobten. [Beschreibung wie ein Brachfeld mit Auftrittspuren
+von
+Fallschirmspringern.](https://groups.google.com/g/posthoernchenschalen/c/FVeG5TfWDYY)
 [(OffeneBriefeAnKerstinGelöscht)](https://groups.google.com/g/posthoernchenschalen/c/JZ93pi7TI80)
 
 Bisher unveröffentlichte Sammlung von Gedichten ab November 2017 auf die
@@ -474,13 +476,17 @@ Begleitschreiben seiner Weiterleitung sarkastisch, der Herr Ritzinger
 hätte freundlicherweise geantwortet, damit das »kleine Rätsel nun
 gelöst«, »zumindest« ich hätte es mir einfacher und direkter erklären
 lassen können, er würde sich auch so einen persönlichen und
-respektvollen Umgang wünschen, spielt hintergründig Klage wegen seiner
-abschätzigen und abfertigenden Antworten auf gleichzeitig
-Nachbarschaftsalarm, Fehlbehandlungs-Streitschrift und
-Trennungsnachricht in \*E-Mail\* an Brüder, Schwägerinnen, Cousins und
-Eltern vom November 2017 gegen Klage auch gegen Eltern und übrige und
-vermeintlich weitere Empfänger wegen Hinterhältigkeit bzw. Abfertigung
-aus, als gegen die Absicht derer Autoren auf »Ghostwriter«. In
+respektvollen Umgang wünschen, scheint Eskalation über seine
+Verweigerungen am Telefon im November 2017 zu entschuldigen, scheint
+mitleidig, ob vermutlicher Untreue von Mitpatientin oder ob
+Ausschlachtbarkeit meiner gleichzeitig Nachbarschaftsalarm,
+Fehlbehandlungs-Streitschrift und Trennungsnachricht in \*E-Mail\* an
+Brüder, Schwägerinnen, Cousins und Eltern vom November 2017, spielt
+hintergründig Klage wegen seiner abschätzigen und abfertigenden knappen
+Antworten gegen Klage auch gegen Eltern und übrige und vermeintlich
+weitere Empfänger wegen Hinterhältigkeit bzw. Abfertigung aus, arrogant
+und unterwandernd analytisch auf »Ghostwriter« als mir nicht
+entschleierbarer Absicht von interessierten gegenarbeitenden Autoren. In
 \*E-Mail\* an Angehörige vom November 2017 Dringlichkeit und
 Antwortabhängigkeit verdeutlicht mit beispielhafter Psychotik aus
 abgewiesener Einladung an Mitpatientin vom Mai 2017, und damit erste
@@ -568,39 +574,44 @@ routinemäßig in der Stillzeit des einzigen Kindes und Sohnes, zuvor
 Schilddrüsen-Entfernung wegen Überschnappgefahr.
 
 Vorherige Frau von Bruder und Vermieter ursprünglich und meiste Zeit
-arbeitslos, Sabine Andel, damals deren Bruder arbeitslos und ein Kind
-mit einer Arbeitslosen, angeblich Modefachverkäuferin.
-Heiratsbetrugsverdacht seit ca. 2020, nicht bündnisfähig, auch bei
-Mutter nicht, erste Frau geschieden gleichzeitig zum endgültigen
-Scheitern der Verlobung mit Mitpatientin 2010.
+arbeitslos, Sabine Andel, damals deren Bruder wie sie arbeitslos und
+heroinsüchtig und ein Kind mit einer Arbeitslosen, angeblich
+Modefachverkäuferin. Heiratsbetrugsverdacht seit ca. 2020, nicht
+bündnisfähig, auch bei Mutter nicht, erste Frau geschieden gleichzeitig
+zum endgültigen Scheitern der Verlobung mit Mitpatientin 2010.
 
 Zuletzt Treffen vereinbart für einvernehmlichen Abschied an der Isar im
 Sommer 2016, ihre Antwort, was sie eigentlich mit ihren Anratungen
 wollen würde, ob sie mich doch eigentlich heiraten wollen würde, »Wir
-passen nicht, Joachim«, zum Abschied aufgebrochen, zurückhalten lassen
-mit »Komm schon, Jocki!«, Spitzname aus Schulzeit ihr vordem nicht
-gebräuchlich, sie täuscht Brautkuss an, spuckt mir antäuschungsweise in
-den Mund, lange vergessen, im Juni/Juli 2021 verziehen als ihre
-Einlenkung mehr für den Flaschensammler, den sie abgewiesen hatte, der
-ein Glas Wein hatte mittrinken wollen, heute mehr für den vermutlichen
-Asylanten unter den Passanten an der Isar, mit diesem vor ihr sich
-damals verglichen, was sich also als diesen vereinnahmt gerächt;
-ansonsten als ihre Heimzahlung ihrer eigenen Überrumpelung schon früher
-verwünscht; außerdem aber als Information auf Hörspiel »Kaffeekränzchen«
-der Fördergruppe »spuc«, 2002 mit Schulkameraden und -kameradinnen im
-Puchheimer Culturcentrum (puc), ihr bisher noch nicht vorgespielt,
-Handlung Gesprächstherapierunde in Irrenhaus um eingebildete
-Schwangerschaft der Figur der Co-Autorin Veronika Duckstein, verliebt
-geschrieben, Co-Autorin schon vergeben, währenddessen neu vergeben,
-Co-Autorin darüber später Darstellerin in Rendevouz-Kurzfilm 2003,
-selber nur Regisseur, den Kurzfilm Kerstin 2010 vorgeführt, scheint tief
-zu blicken, auch die frühe Fassung des zweiten Kurzfilms und
-Götzinnen-Ehe-Kurzfilm, beide im Spätsommer 2009 auch einem Therapeuten
-Dr. Michael Werner vorgeführt, empfohlen von der Jeden-Tag-
-Mittagessenkochen-Station »Soteria«, dort auch einer Therapeutin eine
-Frühfassung des neueren Kurzfilms. Sie zeigt Tage später ihren Kurzfilm,
-angeblich auch aus Fachhochschulzeit, einzelne Motive mit beiden
-vergleichbar, sie im Lotterielos-Brautkleid schießt in Kamera.
+passen nicht, Joachim«, plötzlich wieder fahrig, redet daneben, »Dann
+sage ich halt, ich hätte einen schwulen Bruder!«, ansatzweise
+Eingeständnis zu ihren Ex-Märchen, jedoch keinerlei Anspruch an mich,
+zum Abschied aufgebrochen, zurückhalten lassen mit »Komm schon, Jocki!«,
+Spitzname aus Schulzeit ihr vordem nicht gebräuchlich, sie täuscht
+Brautkuss an, spuckt mir antäuschungsweise in den Mund, lange vergessen,
+im Juni/Juli 2021 verziehen als ihre Einlenkung mehr für den
+Flaschensammler, den sie abgewiesen hatte, der ein Glas Wein hatte
+mittrinken wollen, heute mehr für den vermutlichen Asylanten unter den
+Passanten an der Isar, mit diesem vor ihr sich damals verglichen, was
+sich also als diesen vereinnahmt gerächt; ansonsten als ihre Heimzahlung
+ihrer eigenen Überrumpelung schon früher verwünscht; außerdem aber als
+Information auf Hörspiel »Kaffeekränzchen« der Fördergruppe »spuc«, 2002
+mit Schulkameraden und -kameradinnen im Puchheimer Culturcentrum (puc),
+ihr bisher noch nicht vorgespielt, Handlung Gesprächstherapierunde in
+Irrenhaus um eingebildete Schwangerschaft der Figur der Co-Autorin
+Veronika Duckstein, verliebt geschrieben, Co-Autorin schon vergeben,
+währenddessen neu vergeben, Co-Autorin darüber später Darstellerin in
+Rendevouz-Kurzfilm 2003, selber nur Regisseur, den Kurzfilm Kerstin 2010
+vorgeführt, scheint tief zu blicken, auch die frühe Fassung des zweiten
+Kurzfilms und Götzinnen-Ehe-Kurzfilm, beide im Spätsommer 2009 auch
+einem Therapeuten Dr. Michael Werner vorgeführt, empfohlen von der
+Jeden-Tag- Mittagessenkochen-Station »Soteria«, dort auch einer
+Therapeutin eine Frühfassung des neueren Kurzfilms. Sie zeigt Tage
+später ihren Kurzfilm, angeblich auch aus Fachhochschulzeit, einzelne
+Motive mit beiden vergleichbar, sie im Lotterielos-Brautkleid schießt in
+Kamera, damals glaubwürdig schicksalshafte Verwandtschaft unserer Filme,
+wegen Selbstausknippsen am Ende von zweitem Kurzfilm »reprojexion«,
+vorher gezeigt, Selbstmörder-Thematik eigentlich ausgeschaltet gehabt.
 
 Angetrunken, bei sorgenvoll angebotener Übernachtung ist sie beim
 Abschiedsreffen 2016 weiter böse auf Ritterlichkeit, am nächsten Morgen
@@ -1036,21 +1047,28 @@ unnütz, 2021 nachgegeben), unerwähnt ebenfalls: eigenmächtig gebastelte
 Zwischentür im Betreuungsantrag, aus Garderobengitter und Hakenangeln
 gebastelt, wegen wiederholter Einbrüche während Einkaufsgängen zwischen
 März und Juli 2018, diese dem Bruder und Vermieter im Frühsommer 2019
-jedoch angezeigt, sowie den Beamten vom Gesundheitsamt, das jeden
-Schriftwechsel abgelehnt hatte.
+jedoch mittlerweile angezeigt gehabt, sowie den Beamten vom
+Gesundheitsamt, das jeden Schriftwechsel abgelehnt hatte, will Wohnung
+mit sperrangelweit offenen Fenstern aufgefunden haben, Zwischentür aus
+Garderbobengitter wäre schon abgebaut gewesen.
 
 Außerdem im Betreuungsantrag unerwähnt von Bruder und Vermieter: Streit
 um Kamin auch für das Abgas vom Gasherd und nicht nur von Wasserkessel
 für Heizung und Warmwasser, Nebenkosten einbehalten um Beistand zu
 erzwingen und Kosten zu decken, sofort vom Mahnungsgericht Coburg
-eingetrieben, Alleingang gegen eigenen Vermieter, verblendet und
-übertrieben, in Gegenöffentlichkeit verwegen. Grillen am Fenster,
-Grillqualm aus dem Garten, Plakate mit Beschwerden dagegen 2022 auch
-Hausverwaltung zugeschickt, Beschwerden übergangen, auch in diesem Jahr.
-Albanische Nachbarn im Stockwerk tiefer attackieren seit 2021 bei
-offenen Fenstern regelmäßig unauffällig mit Deo-Spray und
-Putzmittel-Gas, länger ungewaschene Kleidung in Küche muffelt trotz
-abgeschalteter Gaswasserheizung nach Abgas.
+eingetrieben, Nebenkosteneinbehaltung Alleingang gegen eigenen
+Vermieter, verblendet und übertrieben, bei der Gegenöffentlichkeit
+verwegen, Bruder und Vermieter leugnet Problem bei Herdabgas, will
+dagegen während Unterbringung in der Psychiatrie nennenswerten
+verkokelten Grind gefunden haben.
+
+Nachbarn grillen mit Gasgrill am Fenster, Grillqualm aus dem Garten,
+Plakate mit Beschwerden dagegen 2022 auch Hausverwaltung zugeschickt,
+Beschwerden übergangen, auch in diesem Jahr. Albanische Nachbarn im
+Stockwerk tiefer attackieren seit 2021 bei offenen Fenstern regelmäßig
+unauffällig mit Deo-Spray und Putzmittel-Gas, länger ungewaschene
+Kleidung in Küche muffelt trotz abgeschalteter Gaswasserheizung nach
+Abgas.
 
 Gutachterin lässt Betreuungsverfahren zum Winter 2019 zunächst
 einstellen, zum Winter 2020 begründet sie Zwangsbehandlung auf
@@ -1232,9 +1250,10 @@ erzählt, niemandem ausführlich, von Verlockungen nach Italien auch
 nicht, auch nicht von der Maulwurffalle, 2010 außerdem Besenstil, 2015
 einen Dildo im Internetz bestellt, bis heute immer noch keine
 Rektalsexerfahrung, »Und dann Finger in den Po! Geil!«, Lass' uns die
-homosexuellen Menschen verarschen? Lass' uns die Fetischisten
-verarschen? Kerstin's Lache klingt beim Picknick 2016 nach Rainer, auf
-den Braut-Spuck, »Flopp«.
+homosexuellen Menschen verarschen? Lass' uns die Fetischisten und
+Menschenfresser verarschen? Kerstin's Lache klingt beim Picknick 2016
+nach Rainer, auf den Braut-Spuck, diese Art von hoher Rat, diese Art von
+Brautwerbung,»Flopp«.
 
 Dem Bettler und Stadtstreicher Karl Hanselmann, nach Wohnheim in der
 Hanselmannstraße benannt, begegnet nach Flucht vor beleidigter
@@ -1309,7 +1328,7 @@ und Junge in keinem Fußball-Verein, auch kein Thema, lange frühere blaue
 Tracht vermutlich unbezeugt. Einladung zu Besuch in Elternhaus in
 Puchheim bleibt sie fern mit der Entschuldigung: »Ich bin aufgewacht!«.
 
-Ein einziges Mal selber ihre Gedanken gelesen, 2010, »Aber er isst
+Ein einziges Mal selber ihre Stirn gelesen, 2010, »Aber er isst
 Schwein!«, Einkaufen gewesen, mag eigentlich kein Schwein, Wurmfresser,
 Schneckenfresser, Pilzfresser, Aasfresser, herumstreifende, suchende,
 stöbernde, wühlende, grabende, haarende. 2012, Öko-Gemüse-Terrine
@@ -1406,19 +1425,19 @@ geworden, Pseudo-Experiment zur Drohung auf psychotische Wirkung von
 Antwortlosigkeit in Argwohn gegen Heilsamkeit und Treuheit von
 Öffentlichkeit und in Unmut gegen Sorgsamkeit der Wissenschaft
 verweigert bis zum Einstrafungs-Pranger der magisch-telepathischen
-Hälftigkeit und Halbheit in methodischer Isolation und Spionage und
-Untreue und Verrat und schriftartig zur Hinnahme berechneter Beleidigung
-und Bedrohung und Belästigung in arglistiger und höhnischer Verbietung
-jeder Sorge um und jeder Ermahnung an Kerstin als in erwiderter anstatt
-erwiderter Ehrsucht, alle Einladungen zu Lesungen und Besprechungen an
-Familie, Psychiater und Bekannte, auch an Nachbarn allerseits
-ausgelaufen, an Nachbarn Elfers, Blazic, Stillner-Grobner außerdem
-Einladung zu Theaterstück »Nero's Rache« zu Ostern 2019 ausgelaufen,
-Verzeihungsangebot Verfolgung auf die Bühne ausgeschlagen, jegliche
-Einlassung von allen Empfängern der Ausgaben des E-Magazins Posthörnchen
-seit Anfang 2018 vermieden, ebenso der Offenen Briefe an Kerstin Pokorny
-und Mitpatienten Fuchs und Dour seit Anfang 2019. Ebenso
-Plakatveröffentlichungen bei Nachbarn, [bis
+Hälftigkeit und Halbheit der wahrsagenden Mitpatientin in methodischer
+Isolation und Spionage und Untreue und Verrat und schriftartig zur
+Hinnahme berechneter Beleidigung und Bedrohung und Belästigung in
+arglistiger und höhnischer Verbietung jeder Sorge um und jeder Ermahnung
+an Kerstin als in erwiderter anstatt erwiderter Ehrsucht, alle
+Einladungen zu Lesungen und Besprechungen an Familie, Psychiater und
+Bekannte, auch an Nachbarn allerseits ausgelaufen, an Nachbarn Elfers,
+Blazic, Stillner-Grobner außerdem Einladung zu Theaterstück »Nero's
+Rache« zu Ostern 2019 ausgelaufen, Verzeihungsangebot Verfolgung auf die
+Bühne ausgeschlagen, jegliche Einlassung von allen Empfängern der
+Ausgaben des E-Magazins Posthörnchen seit Anfang 2018 vermieden, ebenso
+der Offenen Briefe an Kerstin Pokorny und Mitpatienten Fuchs und Dour
+seit Anfang 2019. Ebenso Plakatveröffentlichungen bei Nachbarn, [bis
 heute](http://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html).
 
 Kartina, nicht Kartagina. Nach Osten nur ein Berg, nach Norden hoch
@@ -1467,4 +1486,4 @@ Posthoernchen Nussschalen
 
 * * * * *
 
-247.36.2023 (4. September)
+249.36.2023 (6. September)
