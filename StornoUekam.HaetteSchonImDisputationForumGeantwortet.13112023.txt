@@ -1,0 +1,159 @@
+Delivered-To: posthoernchen.verteiler+jsmailde@gmail.com
+Received: by 2002:a05:7108:1b25:b0:342:50d2:67fb with SMTP id k5csp1093220gdf;
+        Mon, 13 Nov 2023 00:16:32 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IHXvNEgb+9mhC/OVQ+OJxVQDIvMHJEd44qH/mnmWgewJ2nljT5pDsAfpSgmpywZ1nCu5YMm
+X-Received: by 2002:aa7:d6c9:0:b0:542:d2c4:b423 with SMTP id x9-20020aa7d6c9000000b00542d2c4b423mr4319902edr.30.1699863392790;
+        Mon, 13 Nov 2023 00:16:32 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1699863392; cv=none;
+        d=google.com; s=arc-20160816;
+        b=gUKnf8P70u/7I7lSjwNqDEh8rHdpPMgs8RoocPkMSI6wjmWMc7QJNCU8/ccg5Fwbv7
+         KvO3PvrbY4JYu8XnDtCTwFthUOCW+F8QYPwD5CNtbXH85403lDdnhCqRGgQTHR4aCxqD
+         VwFs4g0fWNb0TIWKmgQz1JTEZoKwf1T4CxUDYaQ2QocD0buVe4wQryOxHDzo5/9nmOB6
+         4+pJ8XHZuNG1Z1uhgrccHep5mPVo9P/xLSIkRhkSce7CgDuZGz8Dkv762eCl1aaulMO2
+         ui008yEGqItnWYDiQ+cXsFxFIQJyYatgtEYII2iQwnNj54cgaPN597f3RcJA4YSoRSTG
+         H2ZA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-language:thread-index:content-transfer-encoding
+         :mime-version:message-id:date:subject:in-reply-to:references:to:from
+         :delivered-to:dkim-signature;
+        bh=cjooV4pa49PVu1XzGhWlYjEau6MnNVck46dPjqIEFyQ=;
+        fh=y2x50GzNpSm8RBKFDDQrPvIhEwhvbvnPgkXofVVQKAs=;
+        b=sDEkQimFOfAblThtDAkQ+kPrzoNSnHL5Y2hv5+Qdj599fc9s/qWZDCkvfso8Dy3bW+
+         NRV3bvkdaCUW99tNQ0HfqypNiAiLgyguTLlEryMZTa6KBYTvAFBauWgL6jhw3CDqnbQq
+         m2/iy7XNv52S7F4NeTeU9xak4KwhGucxWZrcqf6VP8Rl/y4VNUERvodUwbPZWp4KlzCr
+         C/KwyyOttXeQEq8wPnr9YvR0ntDsfEW9L3hpGW5yd92HhENDjQBXDdiUu7/fwQBkzA9U
+         9OT/xdjQ4iAGxilQhw3N1pt92DTVtiED1UnkKbeEUs6MOpP5Bp4dbRg/Bs4+dXlr24ru
+         PmWQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@mail.de header.s=mailde202009 header.b="vC7ps/xe";
+       spf=softfail (google.com: domain of transitioning webframework@graphtoweb.com does not designate 2001:868:100:600::217 as permitted sender) smtp.mailfrom=webframework@graphtoweb.com
+Return-Path: <webframework@graphtoweb.com>
+Received: from shout02.mail.de (shout02.mail.de. [2001:868:100:600::217])
+        by mx.google.com with ESMTPS id dz19-20020a0564021d5300b0053deaf26406si2576174edb.284.2023.11.13.00.16.32
+        for <posthoernchen.verteiler+jsmailde@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Mon, 13 Nov 2023 00:16:32 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning webframework@graphtoweb.com does not designate 2001:868:100:600::217 as permitted sender) client-ip=2001:868:100:600::217;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mail.de header.s=mailde202009 header.b="vC7ps/xe";
+       spf=softfail (google.com: domain of transitioning webframework@graphtoweb.com does not designate 2001:868:100:600::217 as permitted sender) smtp.mailfrom=webframework@graphtoweb.com
+Received: from postfix03.mail.de (postfix03.bt.mail.de [10.0.121.127])
+	by shout02.mail.de (Postfix) with ESMTP id 6679724112B
+	for <posthoernchen.verteiler+jsmailde@gmail.com>; Mon, 13 Nov 2023 09:16:32 +0100 (CET)
+Received: from dovecot08 (dovecot08.bt.mail.de [10.0.121.118])
+	by postfix03.mail.de (Postfix) with ESMTP id 4BAD4801F6
+	for <posthoernchen.verteiler+jsmailde@gmail.com>; Mon, 13 Nov 2023 09:16:32 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.de;
+	s=mailde202009; t=1699863392;
+	bh=7my9cEjZGt+HV+9pFa9DykmuR7l4Ks50k/KnkRDoVTQ=;
+	h=From:To:Subject:Date:Message-ID:From:To:CC:Subject:Reply-To;
+	b=vC7ps/xeEViMhJ+ZeFDQdyK5fcv5+U7r9ZmiF1vcz+RiJNKP5wlX0/qVHmFgOvAx2
+	 BqWLUbfMjnt+Qm6Sp5Up/nsoEQ0sKH2DPgRgXZdxsytPJUh7c9nnZdyZPN46TEvVfN
+	 WHkry83pED41cNAmmWZABc1KO5Yj2GFDkeT+0oS4Un/FwThIqbEOJTWT3K1InFK9ZX
+	 IjXCoXPTOo+h8XCJYexPyLdBBIEcuR0ugdxb3OSLFxpQ3QHGNS9sKwQSrFKu/qcUm6
+	 gGUmQxZ0V5O9b6juxMRzJ44t2ONxOQCeRabqYg3T75jOmBrnTDGSnPwXKfSx/bKo77
+	 vei0KXpxPT12g==
+X-Sieve: Pigeonhole Sieve 0.5.20 (149edcf2)
+X-Sieve-Redirected-From: joachim.schneider@mail.de
+Delivered-To: joachim.schneider@mail.de
+Received: from director02 ([10.0.121.147])
+	by dovecot08 with LMTP
+	id eNNfCWDbUWVC0QAAWLhAJQ
+	(envelope-from <webframework@graphtoweb.com>)
+	for <joachim.schneider@mail.de>; Mon, 13 Nov 2023 09:16:32 +0100
+Received: from localhost ([10.0.121.147])
+	by director02 with LMTP id qD1NCWDbUWWLQgAAvSMxcg
+	; Mon, 13 Nov 2023 09:16:32 +0100
+X-Original-To: schnej@e.mail.de
+Received: from 3.mo580.mail-out.ovh.net (unknown [178.33.255.153])
+	by mxpostfix03.mail.de (Postfix) with ESMTP id 08695802EC
+	for <schnej@e.mail.de>; Mon, 13 Nov 2023 09:16:31 +0100 (CET)
+Authentication-Results: mxpostfix03.mail.de; dkim=none; dkim-atps=neutral
+Received: from [178.33.255.153] (helo=3.mo580.mail-out.ovh.net)
+	by mx03.mail.de with ESMTPS (eXpurgate 4.48.0)
+	(envelope-from <webframework@graphtoweb.com>)
+	id 6551db5f-f653-0a0078cb0019-b221ff99c6b7-3
+	for <schnej@e.mail.de>; Mon, 13 Nov 2023 09:16:31 +0100
+Received: from mxplan8.mail.ovh.net (unknown [10.108.1.57])
+	by mo580.mail-out.ovh.net (Postfix) with ESMTPS id 300DB23D05
+	for <schnej@e.mail.de>; Mon, 13 Nov 2023 08:16:31 +0000 (UTC)
+Received: from graphtoweb.com (37.59.142.97) by mxplan8.mail.ovh.net
+ (172.16.2.41) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2507.34; Mon, 13 Nov
+ 2023 09:16:30 +0100
+Authentication-Results: garm.ovh; auth=pass (GARM-97G002a193551a-0483-42af-b2c4-9d6e872216ef,
+                    3F449BF1F177C1DE8E8C310F2D8D7390AB5B4FDE) smtp.auth=webframework@graphtoweb.com
+X-OVh-ClientIp: 212.10.62.129
+From: Formular <webframework@graphtoweb.com>
+To: <schnej@e.mail.de>
+References: <20231113033808.5CC587F9E0@cluster007.hosting.ovh.net>
+In-Reply-To: <20231113033808.5CC587F9E0@cluster007.hosting.ovh.net>
+Subject: RE: PayPal immediately returned my payment after opening a case because of unavailable Licence Keycode 
+Date: Mon, 13 Nov 2023 09:16:29 +0100
+Message-ID: <022201da1609$b4ea6d70$1ebf4850$@com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdoV4tKLwCMSOQbiSVOVEw4Ud6vUGAAI7sDw
+Content-Language: en-dk
+X-Ovh-Tracer-GUID: d532aad4-fab4-4cef-9aa2-41256c35e893
+X-Ovh-Tracer-Id: 15807353219697830935
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrgedvkedruddvledguddukecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfqggfjpdevjffgvefmvefgnecuuegrihhlohhuthemucehtddtnecunecujfgurhephffvfhgjufffkfggtgfgofhtsehtqhhgtddvtdejnecuhfhrohhmpefhohhrmhhulhgrrhcuoeifvggsfhhrrghmvgifohhrkhesghhrrghphhhtohifvggsrdgtohhmqeenucggtffrrghtthgvrhhnpedttdfgheevteejfeeuffeglefgtefhlefgjeelfeeifeeiieejuedtffevheeuueenucfkpheptddrtddrtddrtddpvdduvddruddtrdeivddruddvledpfeejrdehledrudegvddrleejnecuvehluhhsthgvrhfuihiivgeptdenucfrrghrrghmpehmohguvgepshhmthhpohhuthdphhgvlhhopehmgihplhgrnhekrdhmrghilhdrohhvhhdrnhgvthdpihhnvghtpedtrddtrddtrddtpdhmrghilhhfrhhomhepfigvsghfrhgrmhgvfihorhhksehgrhgrphhhthhofigvsgdrtghomhdpnhgspghrtghpthhtohepuddprhgtphhtthhopehstghhnhgvjhesvgdrmhgrihhlrdguvgdpoffvtefjohhsthepmhhoheektd
+X-purgate-ID: 153031::1699863391-9CCA8BD2-CEB2F787/0/0
+X-purgate-type: clean
+X-purgate-size: 1630
+X-purgate-Ad: Categorized by eleven eXpurgate (R) http://www.eleven.de
+X-purgate: clean
+
+Hello Joachim,
+
+Thank you for your interest in my apps.
+I'm sorry for the inconvenience.
+I have answer to the Paypal disputation forum with the license key.
+
+Once you have the key in the menu of the program choose =
+=E2=80=9CRegister=E2=80=9D, and in the popup menu choose =
+=E2=80=9CKey=E2=80=9D and enter the license in the popup dialog and OK.
+
+
+Regards
+
+Graphptoweb
+
+
+-----Original Message-----
+From: schnej@e.mail.de [mailto:schnej@e.mail.de]=20
+Sent: Monday, 13 November 2023 04.38
+To: webframework@graphtoweb.com
+Subject: PayPal immediately returned my payment after opening a case =
+because of unavailable Licence Keycode=20
+
+After payment I was redirected to the =C2=BBPayPal Sendt You Back =
+Here=C2=AB-Internet-Page, where I am told to refresh the page for =
+triggering the generation or sending of my Licence Keycode and after the =
+third failed attempt, to contact support.=20
+
+You are telling me a different =C2=BBPayPal=C2=AB Transaction Nr. than =
+=C2=BBPaypal=C2=AB. Is it =C2=BBPaypal's=C2=AB Number or Fault ? =
+2K2340736U534322K =C2=BBPayPal=C2=AB is telling me this Transaction Nr.: =
+46K917539H9987148
+=20
+I just asked you to post my Licence Keycode with =C2=BBPayPal's=C2=AB =
+disputation forum, where I had to open a case to contact you  via =
+=C2=BBPayPal=C2=AB.
+
+Now =C2=BBPayPal=C2=AB immediately returned my payment.
+
+Can you rescue the transaction by posting the Licence Keycode at =
+=C2=BBPayPal's=C2=AB?
+
+Or could you request a new payment via =C2=BBPayPal=C2=AB and answer =
+with my Licence Keycode?
+
+Thank You,
+Joachim Schneider
+Joachim Schneider
+
