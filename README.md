@@ -1,7 +1,7 @@
-posthörnleinklackern. Das E \>\> Magazin nach dem Motto: »fake news as
-fake news«.
+posthörnchen. Das E \>\> Magazin nach dem Motto: »fake news as fake
+news«.
 
-Das Werbeorgan der              
+Das Werbemagazin der             
  Chercheling: Beratung           
    
  zu Nebenprodukten               
@@ -22,8 +22,9 @@ Rubriquen:
 [.|.|.](https://faulnusz.github.io/magazin/Posthoernlein.Rubrik.DieNachrichtenpolizeianzeige.html)
 Die Nachrichtenpolizeianzeige   
 
-Zeitung, die davor davon schreibt. Vor den anderen Zeitungen. Und vor
-deren Zeit. Unter dem selben Dach.  
+Zeitung, die davor davon schreibt, und erst nachdem die
+Staatsanwaltschaft davon nichts lesen wollte. Vor den anderen Zeitungen.
+Und vor deren Zeit. Unter dem selben Dach.  
   
 
 Die bessere Hälfte der Welt [(only online on googlegroups
@@ -105,27 +106,27 @@ yet)](https://groups.google.com/g/posthoernchenschalen?label=InOrwellsArche)
 
 In Orwells »1984« sind Richtigstellungen in Zeitungsarchiven der
 Informationsimmaterialisierung verdächtig, sind aber prozessanalytisch,
-textgeschichtlich oder kriminal eigentlich nicht interessant gewesen,
-vom Beschattungsprofil, von der Abschottungsdichtung oder von der
-Abschirmungstechnik her, aber als Vereinnahmungen eines Autors mit
-Künstlernamen durch und in den Nominierungen seiner Kritik und
-Rezension, die Orwell, geborener Blair sonst in einer seinerseits
-eigenartigen Ausführlichkeit und Ausformbarkeit der sonst eher
-kollektiven Gegenarbeit von Leser und Schreiber hätte einbüßen müssen,
-der seinen guten Namen wohl bewusst auffällig eingesetzt hat auf eine
-Zusammenfassung seiner Erzählung in den Buchrezensionen der
-Tageszeitungen, mit denen er zuvorderst vor der Paranoia einer
-tatsächlichen Archivwäsche gewarnt haben muss, gemeinsam mit der
-Psychiatrie, als ein großer Bruder, der aber wiederum in seiner
-Erzählung noch ein Buch veröffentlicht, vielleicht den amerikanischen
-Comic »Hellboy«, der mit seiner Verfilmung noch spät nach 1984 vor Kalk
-und vor trockener Haut und vor dünnem Haar und vor dem
-kosmetisch-industriellen Komplex nur fantastisch warnen kann, und die
-schönen Brunnen der Proben des klaren Leitungswassers dazu als eine Art
-riesiges Altarblutbecken sakralisiert, der aber doch niemals und
-keinesfalls in Fleisch und Blut brennend und tosend einen
-Psychiatrisierten in seiner ersten eigenen Wohnung zur Miete bei seinem
-großen Bruder aus protestantisch aktivem Elternhaus auf der
+textgeschichtlich, rezeptionspublizistisch oder kriminal eigentlich
+nicht interessant gewesen, vom Beschattungsprofil, von der
+Abschottungsdichtung oder von der Abschirmungstechnik her, aber als
+Vereinnahmungen eines Autors mit Künstlernamen durch und in den
+Nominierungen seiner Kritik und Rezension, die Orwell, geborener Blair
+sonst in einer seinerseits eigenartigen Ausführlichkeit und
+Ausformbarkeit der sonst eher kollektiven Gegenarbeit von Leser und
+Schreiber hätte einbüßen müssen, der seinen guten Namen wohl bewusst
+auffällig eingesetzt hat auf eine Zusammenfassung seiner Erzählung in
+den Buchrezensionen der Tageszeitungen, mit denen er zuvorderst vor der
+Paranoia einer tatsächlichen Archivwäsche gewarnt haben muss, und
+gemeinsam mit der Psychiatrie gedroht, aber als wie ein großer Bruder,
+der aber wiederum in seiner Erzählung noch ein Buch veröffentlicht,
+vielleicht den amerikanischen Comic »Hellboy«. »Hellboy« kann mit seiner
+Verfilmung noch spät nach 1984 vor Kalk und vor trockener Haut und vor
+dünnem Haar und vor dem kosmetisch-industriellen Komplex nur fantastisch
+warnen, und sakralisiert die schönen Brunnen der Proben des klaren
+Leitungswassers dazu als eine Art riesiges Altarblutbecken, der aber
+doch niemals und keinesfalls in Fleisch und Blut brennend und tosend
+einen Psychiatrisierten in seiner ersten eigenen Wohnung zur Miete bei
+seinem großen Bruder aus protestantisch aktivem Elternhaus auf der
 Internetzseite der Tageszeitung vor dem \*Heimcomputer\* lange Zeit
 immerhin raunend unspezifisch vor den Rückständigen wie vor den
 Überfliegern abgeschattet hätte, bis zum Kauf und zur Retoure eines
@@ -140,30 +141,79 @@ und familienbild- und frauenbildmalende und kopfhinhaltende Mitpatientin
 im Sommer 2010 so bewusst angesprochen hatte, »Und dann geben sie ihm
 die ganze Schuld...«, auf das unter dem Verbot ihr Zuschauer oder
 Mitspieler zu sein, spannungsgeladene System einer Puppenbestrafung im
-Namen des großen Bruders Jesous Christous, deutsch etwa Johler Schmiere,
+Namen des großen Bruders Jesous Christous, deutsch etwa Johler Wachs,
 wie er aber in seinem theologischen Traktat »1948 und das Christentum«
-von August 2009 den Parteitags-Austausch der Zentral-Eigentümer auf den
-großen Bruder - wie einer Fernsehmagazin-Kritik vermutlich - Stalin dem
-Puppenbedankungs-System in der Bekehrungs- oder Entschuldigungs- oder
-Genesungs-Szene der Pfingstler verglichen haben soll, und noch nicht mit
-der Hochzeitsgesellschaft aber erst der zweiten Frau des Witwers Orwells
-namens Brownwell in einem Lungensanatorium in London kurz vor dessen
-Tod.   
- Hätte Orwell das »Hypertextprotocol« \*performen\* können, ohne diesen
+schon von August 2009 den Parteitags-Austausch der Zentral-Eigentümer
+auf den großen Bruder - wie einer Fernsehmagazin-Kritik vermutlich -
+Stalin dem Puppenbedankungs-System in der Bekehrungs- oder
+Entschuldigungs- oder Genesungs-Szene der Pfingstler verglichen haben
+soll, und noch nicht mit der Hochzeitsgesellschaft aber erst der zweiten
+Frau des Witwers Orwells namens Brownwell in einem Lungensanatorium in
+London kurz vor dessen Tod. Seine erste Frau hatte keine eigenen Kinder
+bekommen und war 1945 bei einer Operation gestorben (Kritisches Lexikon
+für fremdsprachige Gegenwartsliteratur).
+
+Hat Orwell ein befreundetes Paar gehabt, das er etwa jener Frau
+Brownwell als jenes Psychiatrie-Paar vorgestellt hätte, wie Patientin
+Kerstin Pokorny den Patienten David Dour besser gekannt haben muss, der
+sich als der bewusste \*Ex\* ihrer Freundin Verena »Arthur« aber auch
+nicht vorgestellt hatte? Oder war er irgendwem von irgendwem als großer
+Bruder vorgestellt worden, und hat ein \*Insider\*-Buch über diese
+Vorstellung geschrieben, wie David Dour über \*Ex\* »Arthur« seinen
+[Lanzelot-Verschnitt](https://faulnusz.github.io/magazin/Posthoernlein.DieNachrichtenpolizeianzeige.html#AlmanachAllerheiligenLanzelotverschnitt "Neue Rezension von Mitpatient David Dours »Epico«: Wieso ist Göttin Enja keine Prophetin?")?
+Hat Orwell Psychiatrie in diesem Wortsinn verstanden?
+
+Hat Orwell seiner Frau einmal selber von ihrem \*Ex\* erzählen wollen,
+von dem einzigen \*Ex\*, von dem sie aber wiederum eigentlich ihren
+\*Ex\* erzählt haben muss, als an den Ehemann, den früher die noch
+einfachen Ehefrauen mit »Vater Unser« noch nicht selber ob heimlich oder
+öffentlich verkörpern und vertreten durften?
+
+Oder hat Orwell für das Amt des Gegenkönigs über allen Präsidenten aller
+Aktionärgesellschaften sich bewerben müssen, weil die Rezensionen von
+»Farm der Tiere« zu viele hungrige Leser eingefangen und verbunden
+hätten, zu viele hungrige Speiserestmüllverwerter, die niemanden sonst
+haben, der ihnen ihre Verlags-Aktie nach so seiner Werbung oft genug
+zurückkaufen könnte, daß der President an ihnen vorüber geht? Oder
+zumindest der
+[\*antisemitische\*](https://groups.google.com/g/posthoernchenschalen/c/7GVWO_4427A/ "Das Harkheimer Wohnzimmmer.")Leser?
+
+Hätte sich Orwell mit Psychiatriepatienten zu verbrüdern gesucht, die
+wie er von seiner \*P.R.\* \*gecastet\* würden, als Lügenbolde, die man
+beim Wort genommen hat, und nicht mehr fragen lässt, als Schurken, die
+Schergen zu werden noch fürchten, als eigentliche Zielpersonen seiner
+Produzenten, an denen er seine Dramatis Persona des Globalprofis
+ausspielen und umkehren könnte, und wie von selbst aber von deren
+Anti-Held zu deren Rächer werden, oder selbst zu einem Produzenten und
+Gönner?
+
+Hätte man auch Orwell auflaufen lassen bis zum Esau-Komplex der
+Analytikerstimmverfärbung und der Telepathiekonkretion und
+-dramatisation, wenn auch er seine eigene Zeitung gemacht hätte und
+seinen verschwiegenen und verleugnenden großen Brüdern am Beispiel
+seines letzten Liebesbriefes an eine verdächtige Esoterikerin von
+Krankheitsbildern gedroht hätte, daß er ohne Antwort mit
+Veröffentlichungen seine Trugwahrnehmungen umsetzen müsste?
+
+Hätte Orwell das »Hypertextprotocol« \*performen\* können, ohne diesen
 Namen zu kennen und lange vor der Fertigung dieser auflagenunabhängigen
 und leitungsroutenunabhängigen und frei bewerbbaren und verzeichenbaren
 Form der schriftlichen Publikation mit Textverbeitungsprogrammen nicht
-nur für Bildschirmdrucke?   
- Hat sich auch Orwell für seinen Archivbrunnen vorwerfen lassen müssen,
+nur für Bildschirmdrucke?
+
+Hat sich auch Orwell für seinen Archivbrunnen vorwerfen lassen müssen,
 auf seinen Namen einen typischen Selbstläufer zu seiner Vergötterung
-installieren zu wollen?   
- Hätte er vor jeder elektronischen Absendung als eigener Verteiler und
+installieren zu wollen?
+
+Hätte er vor jeder elektronischen Absendung als eigener Verteiler und
 einsamer Schreiber einen Probelauf eisern durchgeführt, vor jedem
-finalen Knopfdruck?   
- Hätte man übrigens bei den allerersten Tageszeitungen mit landesweiter
+finalen Knopfdruck? Und weiter eisern an die immerselben Verleugner?
+
+Hätte man übrigens bei den allerersten Tageszeitungen mit landesweiter
 Massenauflage jeden Abbonenten unter Strafe stellen sollen, wer nicht
-auch selber ausschneidet, sammelt, ordnet und forscht?   
- Die Nußsprünge. Die Nußschalensprünge. Die Nußsprungschweifbögen. Die
+auch selber ausschneidet, sammelt, ordnet und forscht?
+
+Die Nußsprünge. Die Nußschalensprünge. Die Nußsprungschweifbögen. Die
 Nußfallprallfederungen. Die Gehörntenohren.
 
 Chercheling: Beratung zu Nebenprodukten in Produktionsverwandtschaften
@@ -187,12 +237,12 @@ yet)](https://groups.google.com/g/posthoernchenschalen?label=philosophischersalo
 
 Im Sommer 2010 Planspiel für ein \*Clubhouse\* in einer Tiefgarage auf
 einem Spaziergang, mit meiner Therapie-Verlobten und
-Familienbild-Malerin aus der W.G.-Station für Helferkomplex- und
-Verschwörungsverdacht- und »Milieu-Therapie« »Soteria« in der
-Psychiatrie Haar.  
+Familienbild-Malerin aus der selbstaufnehmenden Selberkochen-Station für
+Helferkomplex- und Verschwörungsverdacht- und »Milieu-Therapie«
+»Soteria« in der Psychiatrie Haar.  
   
 
-Gastarbeiter und Gastwirtschaft. [(only online on googlegroups
+Gastarbeiter und Gastwirtschaft [(only online on googlegroups
 yet)](https://groups.google.com/g/posthoernchenschalen/c/PBx9gs9sJYA/)
 
 Fast-Food-Kette startet hauseigene Zeitschrift. Die kostenpflichtige
@@ -200,24 +250,61 @@ Zeitschrift hat in jeder Filiale eine eigene Redaktion. Die Rubriken
 werden jeweils landesweit vorgegeben:   
  Die Restauration (Freibühnenführer) | Schlepperpaket (Stellengesuche
 und -angebote von und speziell für Selbstzahlerasylanten) | Die
-Halbdeutschen in der Arche der Archaischen (Werbung & Veranstaltungen) |
-Das Gespenst des Königs im Palast (Zimmergesuche und Wohnungsgesuche von
-Asylanten) | Rücksiedlereskorte (Reiseangebote) | Herkunftsangabe
-(Nachrichten von Asylanten aus ihren Heimatländern) | Huren Und Luden
-Aller Länder Verheiratet Eure Spioninnen und Flüchtlinge Lieber
-(Kontaktgesuche von und für Asylanten und Asylantinnen) |
-Mischfruchtacker (Nachrichten aus der Gegend der Filiale) |
-Kopftuchsache Frackschöße (Dresscodes in fremden Ländern). | Matrix: The
-Game (Kritiken zu Fernseh- und Radio- und Kinoprogrammen in
-Heimatländern von Flüchtlingen). | Zweifachklassensprachschule
-(Ausgewählte deutsche Texte von Inhaltstoffangabe bis Bibelvers in
-lateinischer und in jeweiliger nichtlateinischer Schrift nebst
-Übersetzung).
+Semi-Deutschen in der Arche der Archaischen (Werbung & Veranstaltungen)
+| Das Gespenst des Königs im Palast (Zimmergesuche und Wohnungsgesuche
+von Asylanten) | Rücksiedlereskorte (Reiseangebote) | Herkunftsangabe
+(Nachrichten von Asylanten aus ihren Heimatländern) | Vielweiberer Aller
+Länder Verheiratet Euch! Ob untereinander oder in Serie! (Kontaktgesuche
+von und für Asylanten und Asylantinnen) | Mischfruchtacker (Nachrichten
+aus der Gegend der Filiale) | Kopftuchsache Frackschöße (Dresscodes in
+fremden Ländern). | Bibelpunkerinnen tragen als Kopftuch die türkische
+Flagge in Lila mit Stern und Sichel in Silber und Rosendornenkranz
+(Märchen aus aller Welt nebst Psychoanalytischer Deutung der Widmung wie
+der Erzählung) | Matrix: The Game (Kritiken zu Fernseh- und Radio- und
+Kinoprogrammen in Heimatländern von Flüchtlingen). |
+Zweifachklassenpflichtsprachschulenfach Deutsch (Ausgewählte deutsche
+Texte von Inhaltstoffangabe bis Bibelvers in lateinischer und in
+jeweiliger nichtlateinischer Schrift nebst Übersetzung). | Die
+\*jesuanische\* (griech. etwa: johlerische) Abstimmung der
+anti-autoritären Parlamente (\*Falsefriends\*-Wörterbücher zum
+eindrücklicheren Fremdsprachenmusizieren ob am \*Handy\* oder \*live\*)
 
 Hausverwaltungsberatungsgesellschaft [(only online on googlegroups
 yet)](https://groups.google.com/g/posthoernchenschalen?label=Hausverwaltungsberatungsgesellschaft)
 
 Hausmeister suchen Hausmeister.
+
+Das Medium[(only online on googlegroups
+yet)](https://groups.google.com/g/posthoernchenschalen/c/VK-faKBig_s/)
+
+Polizei veröffentlicht ihre Nachrichten direkt auf der Internetzseite
+der Polizei und damit nicht mehr ausschließlich über Zeitungen und
+Fernsehen. Veröffentlicht werden abbonierbar über \*Newsletter\* oder
+\*Feed\* mit berufsgruppenverschiedentlich programmierbaren Filtern:
+Urteile (und schon Anträge auf Revision oder Berufung), und Strafbefehle
+(mit Strafantrag), Strafanträge in Generalstaatsanwaltschaftsbeschwerde,
+auch bei nicht-öffentlichen Strafverfahren, und auch bei eingestellten
+Ermittlungsverfahren. Auch bei nicht-öffentlichen und öffentlichen
+Zivilverfahren Urteil mit Antrag und Beschwerden. Unfälle (Personen,
+Fahrzeuge, Betriebe). Flüchtige Tatverdächtige immer nur mit ausführlich
+begründetem Tatverdacht. Außerdem können auf der Internetzseite der
+Polizei Strafanträge per Formular eingereicht, mit Gesetzestexten
+verknüpft, mit Beweisdokumenten und Anklageschriften ergänzt, verfolgbar
+nachgebessert und beschwert werden, und wie Gerichtsverfahren auch
+aktuell geführt werden über
+[\*Warteschleifenpasswörter\*](https://groups.google.com/g/posthoernchenschalen/c/iTR4LvFtl-M),
+und nicht nur auf hauseigenen Empfangsraum-Automaten mit Telefon und
+telefonbetreutem Einmal-Passwort ebenfalls auch abgespeichert und
+ausgedruckt werden.
+
+Die Freistellung[(only online on googlegroups
+yet)](https://groups.google.com/g/posthoernchenschalen/c/QwUy9llx_zg)
+
+Haftpflichtversicherung »Lässig und Masse auf Gegenseitigkeit« stellt
+auf
+[Rechtschutz-Kombi](https://groups.google.com/g/posthoernchenschalen/c/Hnx5vuK7uZA)um
+und gibt \*Fake News Magazin\* für die besten früheren abgelehnten
+Schadenhergangslügen heraus.
 
 Der Packstation Supermarkt[(only online on googlegroups
 yet)](https://groups.google.com/g/posthoernchenschalen?label=PackstationSupermarkt)  
@@ -233,16 +320,26 @@ Internetzseitenlesezeichenformat als betriebsystemunabhängige
 \*Cookies\*, \*Storage\*, \*History\* mit \*Cache\*   
   
 
-Stillebenobst und Geilsalat in der Globalsaison [(only online on
-googlegroups
+Stillebenobst und Geilsalat und Lebensraumfahrernahrung vom
+Siegelteerwüstenacker zur Globalsaison. [(only online on googlegroups
 yet)](https://groups.google.com/g/posthoernchenschalen?label=SEKGD) [Die
 Grüne Karte. Nachdrucken zur Werbung
-erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GrueneKarte.pdf)
+erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GrueneKarte.html)
 
 Für eine einheitliche Ausschilderung aller Lebensmittel jenseits von
-Bio-Öko und Geno-Nekro und diesseits von Werbeartikel oder
-Chemiewaffenvertrag: **S**aatgut, **E**rnte, **K**üche, **G**ifte und
+Bio-Öko und Joul-Nekro und Geno-Chemo und diesseits von Werbeartikel
+oder Giftwaffenvertrag: **S**aatgut, **E**rnte, **K**üche, **G**ifte und
 **D**ünger.  
+  
+
+Der Ökowatt-Faktor-Betrug [(only online on googlegroups
+yet)](https://groups.google.com/g/posthoernchenschalen/c/xUNmdyUZJVE)  
+ [Die Gelbe Karte. Nachdrucken zur Werbung
+erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GelbeKarte.DerOekoWattFaktorBetrug.pdf)
+
+Gas direkt in Kilowatt zu beliebig schwankenden Brennwerten und
+Zustandszahlen. Bald mit Vergleichswerten aus neuem Experiment-Aufbau
+der Messung: Ökogas-Motor gegen Elektro-Motor  
   
 
 Schächte und Äste vom Stammstrecken [(only online on googlegroups
@@ -266,16 +363,6 @@ Reflektorschliffdeckenplastik für einen Glimmrand auch im Hellen und
 dahinter ein Gleißlicht? Und gegen die Mondsucht Flitzröhrenlampen und
 Langblinktaktlaternen statt Facettenrand- und Winkelflächen-Leuchtkörper
 oder Funkelsternströmwasser als Laternenlampenschirme?  
-  
-
-Der Ökowatt-Faktor-Betrug [(only online on googlegroups
-yet)](https://groups.google.com/g/posthoernchenschalen/c/xUNmdyUZJVE)  
- [Die Gelbe Karte. Nachdrucken zur Werbung
-erwünscht!](http://faulnusz.github.io/magazin/gelbekarten/GelbeKarte.DerOekoWattFaktorBetrug.pdf)
-
-Gas direkt in Kilowatt zu beliebig schwankenden Brennwerten und
-Zustandszahlen. Bald mit Vergleichswerten aus neuem Experiment-Aufbau:
-Ökogas-Motor gegen Elektro-Motor  
   
 
 Das Luke Sam Bourg Werbeplakatmuseum [Für ein reeles Werbeplakatmuseum
@@ -306,8 +393,9 @@ Szene unsere Stimme \*ersehen\*. | Die Konkurrenz der Passanten. |
  Wenn Für Zigeuner Sonderangebote Fallen Sind, was Sind Dann
 Werbeartikel Für Polizisten? Und Was Sind Dann Händler Überhaupt Für
 Zigeuner? | Entschmierte Entscheidungsweichen für Pegelstrichraucher und
--raucherinnen inhalationsanft und schwachdosagiert preparierten
-Perfekttabaks. | Kaufkraftdamm. | Fasten mit Prometheus. |   
+-raucherinnen inhalationssanft und schwachdosagiert preparierten
+Perfekttabaks mit feinen Rezept-Unterschieden. | Kaufkraftdamm. | Fasten
+mit Prometheus. |   
  [Aber noch keine Raubwerbung machte
 Schleichwerbung.](https://groups.google.com/g/posthoernchenschalen/c/NCej9fRlAsw)
 | Ohne Standesbeamten und mit Kuppelei freier und mit freieren
@@ -319,8 +407,10 @@ und Strahlenkanonen. | Beim »Beamen« wird das Modell selbst zum Modell.
 Perfekte Modell aller vermiedenen \*Flirts\* und ein \*Flirt\* mit einer
 Werbedesignerin dazu. | Wenn Modelle grundsätzlich und überhaupt nur
 \*Models\* erkennen, nur die eigenen grundsätzlich und überhaupt
-verkennen, dann sind die Modelle des unfreiwilligen \*Models\* alle
-Diakone, und nur das unfreiwillige \*Model\* selbst ein Modell.   
+verkennen, dann sind der unfreiwilligen \*Models\* Modelle alle Diakone
+nur, wenn einzig das unfreiwillige \*Model\* auch selbst Modell ist, und
+der unfreiwilligen Modelle \*Models\* alle Diakone nur, wenn einzig das
+unfreiwillige Modell auch selbst \*Model\* ist. |   
  Die gerettete Haut jener Wand, an der sie die Wand mir nicht allein für
 mich spielen hätte wollen. | Ist für dich an der Tafel mit Modellen die
 Hölle wesentlich pornografisch? | Unterschwelligen Reizwäsche. | Modelle
@@ -335,8 +425,8 @@ nur, insofern ich sittlich handele, d.h. göttlich handele: »Kritik der
 praktischen Vernunft«).
 
 Kartina. Visitenkartenbonmots und vermutlich Tarotarkanas einer
-Therapie-Verlobten. [Beschreibung wie ein Brachfeld mit Auftrittspuren
-von
+Psychotherapie-Verlobten vom Träumer und Patienten selbst. [Beschreibung
+wie ein Brachfeld mit Auftrittspuren von
 Fallschirmspringern.](https://groups.google.com/g/posthoernchenschalen/c/FVeG5TfWDYY)
 [(OffeneBriefeAnKerstinGelöscht)](https://groups.google.com/g/posthoernchenschalen/c/JZ93pi7TI80)
 
@@ -666,9 +756,12 @@ folgen, Frau Pokorny möchte »keinerlei Kontakt« mehr, »auch wenn Ihre
 Briefe keinen zu beanstandenen Inhalt«, so auch zuvor auf den Umschlägen
 der zurückgesendeten Ausdrucke des Offenen Briefes zu ihrem Geburtstag
 im September 2020 »Lass uns in Ruhe, sonst verklage ich dich«, ihre
-Mutter »ungelesen zurück!!! da müll!« in gemeinsamem Umschlag,
-Betreuerausweis von Dezember 2015; auch Patientin der Psychiatrie
-Mentorschwaige.
+Mutter »ungelesen zurück!!! da müll!« in gemeinsamem Umschlag, per Post
+zurück, hatte fast alle offenen Briefe selber in ihren Briefkasten
+geworfen, da \*E-Mail\* unbekannt, Ausweis der Betreuerin von Dezember
+2015, zeitgleich Betreuungsverfahren auf Antrag von Bruder und
+Vermieter, Tagung des Betreuungsgerichts abgesagt, Pokorny auch
+Patientin der Psychiatrie Mentorschwaige.
 
 Kurz nach erstem Offenen Brief im Januar 2019 präsentiert sie sich als
 Passantin am nahen S-Bahnhof, macht sich mit dem Begleiter in
@@ -1173,12 +1266,13 @@ gegen die Fiepstimmen von nebenan mit \*Loops\*, seit 2023 jederzeit
 Watte im Ohr, bald darauf, seit 7. März 2023 unaufhörliches Dröhnen
 angeblich von Kanalreinigung, auch nach Abzug von
 [Kanalreinigungslaster](https://faulnusz.github.io/magazin/NachWatteImOhrBaldDroehnenDasInDenParkUndBisNachWolfratshausenFolgt.07032023.JPG)
-vor dem Fenster in der ersten Juni-Woche 2023, Dröhnen folgt auch in den
-Park und nach Wolfratshausen an die Isar, Nachbar auf III.M springt mit
+vor dem Fenster in der ersten Juni-Woche 2023, Baustellen in
+Kanalisationstiefen ringsum, Tiefgaragen. Dröhnen folgt auch in den Park
+und nach Wolfratshausen an die Isar, Nachbar auf III.M springt mit
 Roller in seiner Wohnung, vermutlich auch deswegen Gas-Wasserheizung
 kaputt, Bruder und Vermieter verzichtet auf Anzeige wegen bebendem
 Fußboden, lässt sofort ganzes Gerät wegen Altersfrisst gegen neues
-austauschen, leugnet auch das in den Füßen spürbare Dröhnen.
+austauschen, leugnet ebenfalls das in den Füßen sogar spürbare Dröhnen.
 
 Infiltration des zwischen Sommer 2017 und Winter 2022 ausschließlich
 genutzten Mobilfunktelefoninternetzes belegbar in manipulierten
@@ -1470,7 +1564,8 @@ bis Sylvester.
 
 * * * * *
 
-posthoernlein @ e.mail.de
+posthoernlein @ e.mail.de   
+ www.posthoernchenklackern.de
 
   
 Joachim Schneider   
@@ -1480,10 +1575,9 @@ Leipartstraße 12
 
 Posthoernchen Nussschalen
 
-  
-
+Die \*Mailinglist\* noch unter:
 [groups.google.com/g/posthoernchenschalen](https://groups.google.com/g/posthoernchenschalen)  
 
 * * * * *
 
-249.36.2023 (6. September)
+344.49.2023 (10. Dezember)
