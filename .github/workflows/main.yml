@@ -1,28 +1,40 @@
-- name: Directory Listing
-  # You may pin to the exact commit or the version.
-  # uses: gacts/directory-listing@b7ce8063c2a35a7c2c910847a674fafc48ea0512
-  uses: gacts/directory-listing@v1.0.3
-  with:
-    # Path to the target directory
-    target: /chronique # optional, default is .
-    # Patterns for ignoring files or directories can be separated by commas or new lines.
-    # To ignore a directory recursively, please add `/**` at the end of the directory name.
-  on:
-    workflow_dispatch:
-    push:
-      branches:
-      - main
+name: directory-listing
+on: [push]
 
-# When a directory is ignored, an index file will not be generated for it, and excluded files will not be listed
-# in the index file.
+jobs:
+  pages-directory-listing:
+    runs-on: ubuntu-latest
+    name: Directory Listings Index
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: dummy-data    #checkout different branch
 
-# For more examples, please refer to: https://github.com/isaacs/node-glob#usage
+      - name: Generate Directory Listings
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        with:
+          FOLDER: data      #directory to generate index
 
-    ignore: # optional, default is **/index.html
-    # Whether to display hidden files and directories
-    show-hidden: # optional, default is false
-    # Whether to overwrite existing index.html files
-    overwrite: true # optional, default is false
-    # The footer content to be added to the index file
-    footer: # optional, default is Repository <a href="https://github.com/${{ github.repository }}">${{ github.repository }}</a>
-          
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: 'data'      # upload generated folder
+  
+  deploy:
+    needs: pages-directory-listing
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4.0.0
