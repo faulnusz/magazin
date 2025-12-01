@@ -30,7 +30,9 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url/chronique }} # no extra trailing url accepted, maybe if inside the inner brackets
+      url: https://faulnusz.github.io/magazin/chronique
+      
+      # ${{ steps.deployment.outputs.page_url }} # no extra trailing url accepted, maybe just write the url manually
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
