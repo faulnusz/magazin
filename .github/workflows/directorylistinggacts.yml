@@ -1,0 +1,22 @@
+name: directory-listing-gacts
+on: [push]
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gacts/directory-listing@v1
+        with:
+          target: ./chronique
+          # target: .
+          # ignore: |
+          #   build/**
+          #   **/index.html
+          #   node_modules/**,**/*.log
+          # show-hidden: true
+          # overwrite: true
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./chronique
