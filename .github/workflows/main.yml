@@ -1,8 +1,23 @@
-            - name: Github Pages Directory Listing
+            - name: Directory Listing
   # You may pin to the exact commit or the version.
-  # uses: jayanta525/github-pages-directory-listing@624ac8c4e56893256d3772f61a88e3b14d54314e
-  uses: jayanta525/github-pages-directory-listing@v4.0.0
+  # uses: gacts/directory-listing@b7ce8063c2a35a7c2c910847a674fafc48ea0512
+  uses: gacts/directory-listing@v1.0.3
   with:
-    # folder to start index generations
-    FOLDER: /chronique
+    # Path to the target directory
+    target: # optional, default is .
+    # Patterns for ignoring files or directories can be separated by commas or new lines.
+To ignore a directory recursively, please add `/**` at the end of the directory name.
+
+When a directory is ignored, an index file will not be generated for it, and excluded files will not be listed
+in the index file.
+
+For more examples, please refer to: https://github.com/isaacs/node-glob#usage
+
+    ignore: # optional, default is **/index.html
+    # Whether to display hidden files and directories
+    show-hidden: # optional, default is false
+    # Whether to overwrite existing index.html files
+    overwrite: # optional, default is false
+    # The footer content to be added to the index file
+    footer: # optional, default is Repository <a href="https://github.com/${{ github.repository }}">${{ github.repository }}</a>
           
