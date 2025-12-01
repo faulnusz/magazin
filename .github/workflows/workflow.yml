@@ -7,17 +7,17 @@ jobs:
     name: Directory Listings Index
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: dummy-data    #checkout different branch
 
       - name: Generate Directory Listings
-        uses: lciscon/github-pages-directory-listing@v4.0.0
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
           FOLDER: data      #directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: 'data'      # upload generated folder
   
@@ -30,11 +30,11 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: $
+      url: ${{ steps.deployment.outputs.page_url }}
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4.0.0
