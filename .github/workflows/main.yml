@@ -1,4 +1,4 @@
-            - name: Directory Listing
+- name: Directory Listing
   # You may pin to the exact commit or the version.
   # uses: gacts/directory-listing@b7ce8063c2a35a7c2c910847a674fafc48ea0512
   uses: gacts/directory-listing@v1.0.3
