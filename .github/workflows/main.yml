@@ -7,6 +7,11 @@
     target: /chronique # optional, default is .
     # Patterns for ignoring files or directories can be separated by commas or new lines.
     # To ignore a directory recursively, please add `/**` at the end of the directory name.
+  on:
+    workflow_dispatch:
+    push:
+      branches:
+      - main
 
 # When a directory is ignored, an index file will not be generated for it, and excluded files will not be listed
 # in the index file.
@@ -18,16 +23,6 @@
     show-hidden: # optional, default is false
     # Whether to overwrite existing index.html files
     overwrite: true # optional, default is false
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-  
-
-
-
     # The footer content to be added to the index file
     footer: # optional, default is Repository <a href="https://github.com/${{ github.repository }}">${{ github.repository }}</a>
           
