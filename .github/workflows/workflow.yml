@@ -30,9 +30,9 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: http://faulnusz.github.io/magazin/chronique/
+      url: ${{ steps.deployment.outputs.page_url }}
       
-      # ${{ steps.deployment.outputs.page_url }} # no extra trailing url accepted, maybe just write the url manually
+      # ${{ steps.deployment.outputs.page_url }} # no extra trailing url accepted, maybe just write the url manually, and try to set page_url
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
@@ -40,3 +40,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4.0.0
+        page_url: http://faulnusz.github.io/magazin/chronique/
