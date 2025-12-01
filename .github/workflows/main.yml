@@ -4,7 +4,7 @@
   uses: gacts/directory-listing@v1.0.3
   with:
     # Path to the target directory
-    target: # optional, default is .
+    target: /chronique # optional, default is .
     # Patterns for ignoring files or directories can be separated by commas or new lines.
 To ignore a directory recursively, please add `/**` at the end of the directory name.
 
@@ -18,6 +18,16 @@ For more examples, please refer to: https://github.com/isaacs/node-glob#usage
     show-hidden: # optional, default is false
     # Whether to overwrite existing index.html files
     overwrite: # optional, default is false
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+  
+
+
+
     # The footer content to be added to the index file
     footer: # optional, default is Repository <a href="https://github.com/${{ github.repository }}">${{ github.repository }}</a>
           
