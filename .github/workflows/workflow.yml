@@ -14,7 +14,7 @@ jobs:
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
-          FOLDER: chronique      #directory to generate index : default »data«, if in .github/worflow ?
+          FOLDER: chronique      #directory to generate index : default »data«, if in .github/worflow ? no, in the »checkout different branch«
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
@@ -30,7 +30,7 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}/chronique 
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
