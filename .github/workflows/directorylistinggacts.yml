@@ -1,22 +1,63 @@
-name: directory-listing-gacts
-on: [push]
+# Simple workflow for deploying static content to GitHub Pages
+name: directory listing -elliNet13
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  generate-index:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: gacts/directory-listing@v1.0.3
-        with:
-          target: ./magazin/chronique
-          # target: .
-          # ignore: **/index.html
-          #  build/**
-          # **/index.html
-          #  node_modules/**,**/*.log
-          show-hidden: true
-          overwrite: true
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-      - uses: peaceiris/actions-gh-pages@v4
+      # name: Make example test directorys and files # Remove this too
+      #  run: |
+      #    mkdir -p test
+      #   touch test/test.txt
+      #    mkdir -p test/test2
+       #   touch test/test2/test2.txt
+       #   echo eee > test/test2/test2.txt
+       #   mkdir -p test/test3
+       #   touch test/test3/test3.txt
+       #   mkdir -p otherfolder
+       #   touch otherfolder/otherfile.txt
+
+      name: "Create HTML Directory Listings"
+      uses: ElliNet13/html-dir-list@version
+      with:
+          dir: "./chronique"
+          hideDotFiles: true
+          displayLastModified: false
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./magazin/chronique
+          # Upload entire repository
+          path: './chronique'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
