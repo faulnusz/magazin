@@ -5,7 +5,7 @@ jobs:
   generate-index:
     runs-on: ubuntu-latest
     steps:
-      - uses: gacts/directory-listing@v1
+      - uses: gacts/directory-listing@v1.0.3
         with:
           target: ./magazin/chronique
           # target: .
@@ -13,7 +13,7 @@ jobs:
           #  build/**
           # **/index.html
           #  node_modules/**,**/*.log
-          # show-hidden: true
+          show-hidden: true
           overwrite: true
 
       - uses: peaceiris/actions-gh-pages@v4
