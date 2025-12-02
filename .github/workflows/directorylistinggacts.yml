@@ -9,7 +9,7 @@ jobs:
         with:
           target: ./chronique
           # target: .
-          ignore: **/index.html
+          # ignore: **/index.html
           #  build/**
           # **/index.html
           #  node_modules/**,**/*.log
