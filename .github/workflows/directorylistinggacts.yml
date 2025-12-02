@@ -9,9 +9,9 @@ jobs:
         with:
           target: ./chronique
           # target: .
-          ignore: |
+          ignore: **/index.html
           #  build/**
-            **/index.html
+          # **/index.html
           #  node_modules/**,**/*.log
           # show-hidden: true
           overwrite: true
