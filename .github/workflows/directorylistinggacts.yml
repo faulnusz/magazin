@@ -9,12 +9,12 @@ jobs:
         with:
           target: ./chronique
           # target: .
-          # ignore: |
-          #   build/**
-          #   **/index.html
-          #   node_modules/**,**/*.log
+          ignore: |
+          #  build/**
+            **/index.html
+          #  node_modules/**,**/*.log
           # show-hidden: true
-          # overwrite: true
+          overwrite: true
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
