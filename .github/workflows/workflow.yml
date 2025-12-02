@@ -21,7 +21,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: './chronique'      # upload generated folder : default »'data'«
+          path: '.'      # upload generated folder : default »'data'«
   
   deploy:
     needs: pages-directory-listing
@@ -32,7 +32,7 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}nachrichtenPolizei/indicate/
+      url: ${{ steps.deployment.outputs.page_url }}chronique/
       
       # ${{ steps.deployment.outputs.page_url }} # no extra trailing url accepted, maybe just write the url manually, and try to set page_url
 
