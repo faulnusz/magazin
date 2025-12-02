@@ -32,7 +32,7 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}chronique/
+      url: ${{ steps.deployment.outputs.page_url }}nachrichtenPolizei/indicate/
       
       # ${{ steps.deployment.outputs.page_url }} # no extra trailing url accepted, maybe just write the url manually, and try to set page_url
 
