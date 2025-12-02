@@ -1,0 +1,22 @@
+# .github/workflows/generate-directory.yml
+name: Generate Directory Markdown
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  generate-directory:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Directory Tree Generator
+        uses: DenizAltunkapan/directory-tree-generator@v1.1.0
+        with:
+          path: chronique
+          extensions: .html
+          show-extensions: true
+          
