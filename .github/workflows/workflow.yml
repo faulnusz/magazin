@@ -10,18 +10,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main    #checkout different branch to clone
-          repository: faulnusz/magazin     #repo public url
-          path: chronique                  #folder to clone to
+         # repository: faulnusz/magazin     #repo public url - this is cloning the whole repo
+          path: ./chronique                  #folder to clone to
           
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
-          FOLDER: chronique      #directory to generate index : default »data«, if in .github/worflow ? no, in the »checkout different branch«
+          FOLDER: ./chronique      #directory to generate index : default »data«, if in .github/worflow ? no, in the »checkout different branch«
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: 'chronique'      # upload generated folder : default »'data'«
+          path: './chronique'      # upload generated folder : default »'data'«
   
   deploy:
     needs: pages-directory-listing
