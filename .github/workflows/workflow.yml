@@ -11,7 +11,7 @@ jobs:
         with:
           ref: main    #checkout different branch to clone
          # repository: faulnusz/magazin     #repo public url - this is cloning the whole repo
-          path: ./chronique                  #folder to clone to
+         # path: ./chronique                  #folder to clone to - or this is cloning the whole repo
           
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
