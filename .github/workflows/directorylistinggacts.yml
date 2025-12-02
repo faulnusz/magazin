@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: gacts/directory-listing@v1
         with:
-          target: ./chronique
+          target: ./magazin/chronique
           # target: .
           # ignore: **/index.html
           #  build/**
@@ -19,4 +19,4 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./chronique
+          publish_dir: ./magazin/chronique
